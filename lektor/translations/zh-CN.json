@@ -121,6 +121,6 @@
   "NO": "否",
   "OK": "好",
   "FAILED_TO_OPEN_CONTENT_FILE": "開啟檔案失敗",
-  "OPEN_OTHER_PROJECT": "開啟其它專案",
+  "OPEN_OTHER_PROJECT": "开放其他方案",
   "OPEN_OTHER_PROJECT_QUESTION": "開啟這份檔案需要連同開啟另一個專案（%s），目前的專案將會被關閉，確定要繼續？"
 }
