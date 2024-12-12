@@ -1,0 +1,2 @@
+
+023e9780d1da21ddf713e4767037d00b9d8f1d71	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/punycode/-/punycode-2.3.1.tgz","integrity":null,"time":1733830381798,"size":"262","metadata":{"time":1733830381798,"url":"http://registry.npm.taobao.org/punycode/-/punycode-2.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/punycode/-/punycode-2.3.1.tgz"},"options":{"compress":true},"status":301}}

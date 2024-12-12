@@ -1,0 +1,2 @@
+
+9379aa5cd9c79d388308262b7299a2d94976d9f3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@fastify%2fstatic","integrity":null,"time":1733917098529,"size":"262","metadata":{"time":1733917098529,"url":"http://registry.npm.taobao.org/@fastify%2fstatic","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:19 GMT","location":"https://registry.npmmirror.com/@fastify%2fstatic"},"options":{"compress":true},"status":301}}

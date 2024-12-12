@@ -1,0 +1,2 @@
+
+a39cfc63fd7e6ec484fd677a095a4f0049967cf4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is64bit/-/is64bit-2.0.0.tgz","integrity":null,"time":1733917118703,"size":"262","metadata":{"time":1733917118703,"url":"http://registry.npm.taobao.org/is64bit/-/is64bit-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:39 GMT","location":"https://registry.npmmirror.com/is64bit/-/is64bit-2.0.0.tgz"},"options":{"compress":true},"status":301}}

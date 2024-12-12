@@ -1,0 +1,2 @@
+
+9b310294265b4c1796101e9150cb2ec664fd658c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tar/-/tar-6.2.1.tgz","integrity":null,"time":1733917111912,"size":"262","metadata":{"time":1733917111912,"url":"http://registry.npm.taobao.org/tar/-/tar-6.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/tar/-/tar-6.2.1.tgz"},"options":{"compress":true},"status":301}}

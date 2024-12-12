@@ -1,0 +1,2 @@
+
+0cd8a5d591e9cadbdc1f1e6671ae615aea291e86	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/chardet/-/chardet-0.7.0.tgz","integrity":null,"time":1733917125881,"size":"262","metadata":{"time":1733917125881,"url":"http://registry.npm.taobao.org/chardet/-/chardet-0.7.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:46 GMT","location":"https://registry.npmmirror.com/chardet/-/chardet-0.7.0.tgz"},"options":{"compress":true},"status":301}}

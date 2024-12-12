@@ -1,0 +1,2 @@
+
+0259c827d2ef2ba513c780e1e862957ee23f12a8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/react-router/-/react-router-7.0.1.tgz","integrity":null,"time":1733830381792,"size":"262","metadata":{"time":1733830381792,"url":"http://registry.npm.taobao.org/react-router/-/react-router-7.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/react-router/-/react-router-7.0.1.tgz"},"options":{"compress":true},"status":301}}

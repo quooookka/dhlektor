@@ -1,0 +1,20 @@
+0 verbose cli D:\Software\nodejs\node.exe D:\Software\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v22.10.0
+3 silly config load:file:D:\Software\nodejs\node_modules\npm\npmrc
+4 silly config load:file:D:\Project\Git\dhlektor\.npmrc
+5 silly config load:file:C:\Users\67027\.npmrc
+6 silly config load:file:C:\Program Files\nodejs\node_global\etc\npmrc
+7 verbose title npm config set prefix D:\Software\nodejs\node_global
+8 verbose argv "config" "set" "prefix" "D:\\Software\\nodejs\\node_global"
+9 verbose logfile logs-max:10 dir:D:\Project\Git\dhlektor\“path”\_logs\2024-12-11T14_12_17_263Z-
+10 verbose logfile D:\Project\Git\dhlektor\“path”\_logs\2024-12-11T14_12_17_263Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 info config set "prefix" "D:\\Software\\nodejs\\node_global"
+13 silly logfile done cleaning log files
+14 verbose cwd D:\Project\Git\dhlektor
+15 verbose os Windows_NT 10.0.22631
+16 verbose node v22.10.0
+17 verbose npm  v10.9.0
+18 verbose exit 0
+19 info ok

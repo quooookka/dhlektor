@@ -1,0 +1,2 @@
+
+b8e52a2af456faed1c0df4a7292cf90365b4a198	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/prettyjson","integrity":null,"time":1733917102891,"size":"262","metadata":{"time":1733917102890,"url":"http://registry.npm.taobao.org/prettyjson","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/prettyjson"},"options":{"compress":true},"status":301}}

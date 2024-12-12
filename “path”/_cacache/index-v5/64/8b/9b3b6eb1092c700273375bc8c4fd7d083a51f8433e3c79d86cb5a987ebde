@@ -1,0 +1,2 @@
+
+0b7765f31d752a9ab501f3a2e36c87adcdf42f3e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/abstract-logging/-/abstract-logging-2.0.1.tgz","integrity":null,"time":1733917127543,"size":"262","metadata":{"time":1733917127543,"url":"http://registry.npm.taobao.org/abstract-logging/-/abstract-logging-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:48 GMT","location":"https://registry.npmmirror.com/abstract-logging/-/abstract-logging-2.0.1.tgz"},"options":{"compress":true},"status":301}}

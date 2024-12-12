@@ -1,0 +1,2 @@
+
+9c7ce9598d0a8a9ef1a0c4b0611a506732d5aef1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@pnpm/network.ca-file/-/network.ca-file-1.0.2.tgz","integrity":null,"time":1733917128986,"size":"262","metadata":{"time":1733917128986,"url":"http://registry.npm.taobao.org/@pnpm/network.ca-file/-/network.ca-file-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:49 GMT","location":"https://registry.npmmirror.com/@pnpm/network.ca-file/-/network.ca-file-1.0.2.tgz"},"options":{"compress":true},"status":301}}

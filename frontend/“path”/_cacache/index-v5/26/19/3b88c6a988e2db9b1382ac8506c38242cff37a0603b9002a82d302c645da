@@ -1,0 +1,2 @@
+
+80f1ae46d57287a7cc7a6b2e312a245ba9cdb86d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lit-element/-/lit-element-4.1.1.tgz","integrity":null,"time":1733830382285,"size":"262","metadata":{"time":1733830382285,"url":"http://registry.npm.taobao.org/lit-element/-/lit-element-4.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/lit-element/-/lit-element-4.1.1.tgz"},"options":{"compress":true},"status":301}}

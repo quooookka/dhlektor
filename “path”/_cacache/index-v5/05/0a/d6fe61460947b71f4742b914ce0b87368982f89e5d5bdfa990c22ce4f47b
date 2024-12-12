@@ -1,0 +1,2 @@
+
+cf3a8e5eef34f375d168b621df02318ed7144d03	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/boxen/-/boxen-7.1.1.tgz","integrity":null,"time":1733917126176,"size":"262","metadata":{"time":1733917126176,"url":"http://registry.npm.taobao.org/boxen/-/boxen-7.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:47 GMT","location":"https://registry.npmmirror.com/boxen/-/boxen-7.1.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+04479f2c65004e830f7b96490e882f6077e877a2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/bindings/-/bindings-1.5.0.tgz","integrity":null,"time":1733917126482,"size":"262","metadata":{"time":1733917126482,"url":"http://registry.npm.taobao.org/bindings/-/bindings-1.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:47 GMT","location":"https://registry.npmmirror.com/bindings/-/bindings-1.5.0.tgz"},"options":{"compress":true},"status":301}}

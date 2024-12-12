@@ -1,0 +1,2 @@
+
+aec5860d835ae6a76f479cd67a11919515858f4e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz","integrity":null,"time":1733917111710,"size":"262","metadata":{"time":1733917111710,"url":"http://registry.npm.taobao.org/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/unbzip2-stream/-/unbzip2-stream-1.4.3.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+02da6695de23172626b910bc9b2e61e922f38402	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fastify-plugin/-/fastify-plugin-4.4.0.tgz","integrity":null,"time":1733917122146,"size":"262","metadata":{"time":1733917122145,"url":"http://registry.npm.taobao.org/fastify-plugin/-/fastify-plugin-4.4.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:42 GMT","location":"https://registry.npmmirror.com/fastify-plugin/-/fastify-plugin-4.4.0.tgz"},"options":{"compress":true},"status":301}}

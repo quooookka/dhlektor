@@ -1,0 +1,2 @@
+
+dea15fa62ae19838dfc322b8d5ea8493caf12def	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@bugsnag/core/-/core-7.25.0.tgz","integrity":null,"time":1733917131093,"size":"262","metadata":{"time":1733917131092,"url":"http://registry.npm.taobao.org/@bugsnag/core/-/core-7.25.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:51 GMT","location":"https://registry.npmmirror.com/@bugsnag/core/-/core-7.25.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+42ec9e2672d1b5ca1a011b5ca3429e24eff78070	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@pnpm/npm-conf/-/npm-conf-2.3.1.tgz","integrity":null,"time":1733917128982,"size":"262","metadata":{"time":1733917128982,"url":"http://registry.npm.taobao.org/@pnpm/npm-conf/-/npm-conf-2.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:49 GMT","location":"https://registry.npmmirror.com/@pnpm/npm-conf/-/npm-conf-2.3.1.tgz"},"options":{"compress":true},"status":301}}

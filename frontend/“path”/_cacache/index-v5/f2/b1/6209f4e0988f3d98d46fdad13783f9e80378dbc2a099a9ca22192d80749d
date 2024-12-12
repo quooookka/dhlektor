@@ -1,0 +1,2 @@
+
+e72686ab73ea3c79e11639756ea1c58609afcc14	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/decimal.js/-/decimal.js-10.4.3.tgz","integrity":null,"time":1733830384160,"size":"262","metadata":{"time":1733830384160,"url":"http://registry.npm.taobao.org/decimal.js/-/decimal.js-10.4.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:05 GMT","location":"https://registry.npmmirror.com/decimal.js/-/decimal.js-10.4.3.tgz"},"options":{"compress":true},"status":301}}

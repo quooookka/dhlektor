@@ -1,0 +1,2 @@
+
+fa1bcd41d6512d646836256ca1b06b80fff62dc2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/from2-array","integrity":null,"time":1733917101146,"size":"262","metadata":{"time":1733917101145,"url":"http://registry.npm.taobao.org/from2-array","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/from2-array"},"options":{"compress":true},"status":301}}

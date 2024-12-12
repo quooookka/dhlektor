@@ -1,0 +1,2 @@
+
+74d09cfeb200a39ea0e7994cd95af96b173cff6d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@octokit%2frest","integrity":null,"time":1733917098864,"size":"262","metadata":{"time":1733917098864,"url":"http://registry.npm.taobao.org/@octokit%2frest","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/@octokit%2frest"},"options":{"compress":true},"status":301}}

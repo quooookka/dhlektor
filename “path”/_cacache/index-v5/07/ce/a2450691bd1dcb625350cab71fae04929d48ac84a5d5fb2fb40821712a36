@@ -1,0 +1,2 @@
+
+590b34a0d706f688233132d1fdff12159417b964	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/nanoid/-/nanoid-3.3.7.tgz","integrity":null,"time":1733917115619,"size":"262","metadata":{"time":1733917115619,"url":"http://registry.npm.taobao.org/nanoid/-/nanoid-3.3.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/nanoid/-/nanoid-3.3.7.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+263d5020c32ce2076f87b5046056dd2bc58c6d82	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/backoff","integrity":null,"time":1733917099398,"size":"262","metadata":{"time":1733917099398,"url":"http://registry.npm.taobao.org/backoff","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/backoff"},"options":{"compress":true},"status":301}}

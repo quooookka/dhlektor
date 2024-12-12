@@ -1,0 +1,2 @@
+
+2ad136e1d45fdfc65c572f81038098edaddfaf9d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tar-fs/-/tar-fs-2.1.1.tgz","integrity":null,"time":1733917133498,"size":"262","metadata":{"time":1733917133498,"url":"http://registry.npm.taobao.org/tar-fs/-/tar-fs-2.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:54 GMT","location":"https://registry.npmmirror.com/tar-fs/-/tar-fs-2.1.1.tgz"},"options":{"compress":true},"status":301}}

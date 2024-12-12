@@ -1,0 +1,2 @@
+
+2401e95ce819322995765d3ff56c96d056606edc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/globby/-/globby-11.1.0.tgz","integrity":null,"time":1733917120305,"size":"262","metadata":{"time":1733917120305,"url":"http://registry.npm.taobao.org/globby/-/globby-11.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/globby/-/globby-11.1.0.tgz"},"options":{"compress":true},"status":301}}

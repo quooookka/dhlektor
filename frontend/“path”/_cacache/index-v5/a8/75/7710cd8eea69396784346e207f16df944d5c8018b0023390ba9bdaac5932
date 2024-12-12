@@ -1,0 +1,2 @@
+
+0f2c5e4054b9a16af73c9deb488ff1526502efbe	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/minimatch/-/minimatch-9.0.5.tgz","integrity":null,"time":1733830386610,"size":"262","metadata":{"time":1733830386610,"url":"http://registry.npm.taobao.org/minimatch/-/minimatch-9.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:07 GMT","location":"https://registry.npmmirror.com/minimatch/-/minimatch-9.0.5.tgz"},"options":{"compress":true},"status":301}}

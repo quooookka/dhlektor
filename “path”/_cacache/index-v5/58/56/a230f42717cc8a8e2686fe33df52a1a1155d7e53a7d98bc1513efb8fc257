@@ -1,0 +1,2 @@
+
+05f851320d7ce0f22a9074c2d0c479264779be9a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/abbrev/-/abbrev-1.1.1.tgz","integrity":null,"time":1733917127622,"size":"262","metadata":{"time":1733917127622,"url":"http://registry.npm.taobao.org/abbrev/-/abbrev-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:48 GMT","location":"https://registry.npmmirror.com/abbrev/-/abbrev-1.1.1.tgz"},"options":{"compress":true},"status":301}}

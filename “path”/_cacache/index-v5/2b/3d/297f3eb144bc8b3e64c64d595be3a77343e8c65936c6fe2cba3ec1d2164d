@@ -1,0 +1,2 @@
+
+57ea133dfc688f84841f05c6d10945ee1a61a872	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/crossws/-/crossws-0.1.1.tgz","integrity":null,"time":1733917124541,"size":"262","metadata":{"time":1733917124541,"url":"http://registry.npm.taobao.org/crossws/-/crossws-0.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:45 GMT","location":"https://registry.npmmirror.com/crossws/-/crossws-0.1.1.tgz"},"options":{"compress":true},"status":301}}

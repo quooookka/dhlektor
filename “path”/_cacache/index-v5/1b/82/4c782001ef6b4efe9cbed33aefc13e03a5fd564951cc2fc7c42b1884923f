@@ -1,0 +1,2 @@
+
+b4c5f516dba165c6eab642d84d9be9fd6c6a6db1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@netlify/open-api/-/open-api-2.34.0.tgz","integrity":null,"time":1733917129648,"size":"262","metadata":{"time":1733917129648,"url":"http://registry.npm.taobao.org/@netlify/open-api/-/open-api-2.34.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@netlify/open-api/-/open-api-2.34.0.tgz"},"options":{"compress":true},"status":301}}

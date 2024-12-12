@@ -1,0 +1,2 @@
+
+9c01e53740e29ab3bb63ccfe5ea7cd96d94a72c0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/toml/-/toml-3.0.0.tgz","integrity":null,"time":1733917111703,"size":"262","metadata":{"time":1733917111703,"url":"http://registry.npm.taobao.org/toml/-/toml-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/toml/-/toml-3.0.0.tgz"},"options":{"compress":true},"status":301}}

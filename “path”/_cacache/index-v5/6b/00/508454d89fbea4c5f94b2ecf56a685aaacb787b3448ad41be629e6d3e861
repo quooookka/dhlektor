@@ -1,0 +1,2 @@
+
+f4ccb765b81a4db8bbf9cf3c746d53dc45792a2c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/commander/-/commander-10.0.1.tgz","integrity":null,"time":1733917125536,"size":"262","metadata":{"time":1733917125536,"url":"http://registry.npm.taobao.org/commander/-/commander-10.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:46 GMT","location":"https://registry.npmmirror.com/commander/-/commander-10.0.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+9a9a7d58f1b585690463a31fefe852acc626680e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ipx","integrity":null,"time":1733917101624,"size":"262","metadata":{"time":1733917101624,"url":"http://registry.npm.taobao.org/ipx","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/ipx"},"options":{"compress":true},"status":301}}

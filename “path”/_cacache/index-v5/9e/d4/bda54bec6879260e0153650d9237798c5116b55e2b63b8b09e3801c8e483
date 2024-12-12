@@ -1,0 +1,2 @@
+
+50948826e6918ff70b8745bcc5e4530a088bb1ff	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/image-meta/-/image-meta-0.2.0.tgz","integrity":null,"time":1733917119125,"size":"262","metadata":{"time":1733917119125,"url":"http://registry.npm.taobao.org/image-meta/-/image-meta-0.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/image-meta/-/image-meta-0.2.0.tgz"},"options":{"compress":true},"status":301}}

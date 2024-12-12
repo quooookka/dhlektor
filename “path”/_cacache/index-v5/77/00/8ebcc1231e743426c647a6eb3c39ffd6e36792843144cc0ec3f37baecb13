@@ -1,0 +1,2 @@
+
+21648e617b8fc56e201fbcf32296e44cd1d06bcf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/entities/-/entities-2.2.0.tgz","integrity":null,"time":1733917139123,"size":"262","metadata":{"time":1733917139123,"url":"http://registry.npm.taobao.org/entities/-/entities-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:00 GMT","location":"https://registry.npmmirror.com/entities/-/entities-2.2.0.tgz"},"options":{"compress":true},"status":301}}

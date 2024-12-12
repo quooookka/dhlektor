@@ -1,0 +1,2111 @@
+0 verbose cli D:\Software\nodejs\node.exe D:\Software\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v22.10.0
+3 silly config load:file:D:\Software\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\67027\.npmrc
+5 silly config load:file:D:\Project\Git\dhlektor\path\etc\npmrc
+6 verbose title npm install netlify-cli
+7 verbose argv "install" "--global" "netlify-cli"
+8 verbose logfile logs-max:10 dir:D:\Project\Git\dhlektor\“path”\_logs\2024-12-11T14_05_52_585Z-
+9 verbose logfile D:\Project\Git\dhlektor\“path”\_logs\2024-12-11T14_05_52_585Z-debug-0.log
+10 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly fetch manifest netlify-cli@*
+14 silly packumentCache full:https://registry.npmmirror.com/netlify-cli cache-miss
+15 http fetch GET 200 https://registry.npmmirror.com/netlify-cli 249ms (cache revalidated)
+16 silly packumentCache full:https://registry.npmmirror.com/netlify-cli set size:9978557 disposed:false
+17 silly placeDep ROOT netlify-cli@17.38.0 OK for:  want: *
+18 silly fetch manifest @bugsnag/js@7.25.0
+19 silly packumentCache full:https://registry.npmmirror.com/@bugsnag%2fjs cache-miss
+20 silly fetch manifest @fastify/static@7.0.4
+21 silly packumentCache full:https://registry.npmmirror.com/@fastify%2fstatic cache-miss
+22 silly fetch manifest @netlify/blobs@8.1.0
+23 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fblobs cache-miss
+24 silly fetch manifest @netlify/build@29.56.1
+25 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fbuild cache-miss
+26 silly fetch manifest @netlify/build-info@7.15.2
+27 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fbuild-info cache-miss
+28 silly fetch manifest @netlify/config@20.19.1
+29 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fconfig cache-miss
+30 silly fetch manifest @netlify/edge-bundler@12.2.3
+31 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fedge-bundler cache-miss
+32 http fetch GET 200 https://registry.npmmirror.com/@bugsnag%2fjs 94ms (cache revalidated)
+33 silly packumentCache full:https://registry.npmmirror.com/@bugsnag%2fjs set size:336129 disposed:false
+34 silly fetch manifest @netlify/edge-functions@2.11.1
+35 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fedge-functions cache-miss
+36 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fblobs 120ms (cache revalidated)
+37 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fblobs set size:253790 disposed:false
+38 silly fetch manifest @netlify/local-functions-proxy@1.1.1
+39 silly packumentCache full:https://registry.npmmirror.com/@netlify%2flocal-functions-proxy cache-miss
+40 http fetch GET 200 https://registry.npmmirror.com/@fastify%2fstatic 132ms (cache revalidated)
+41 silly packumentCache full:https://registry.npmmirror.com/@fastify%2fstatic set size:155946 disposed:false
+42 silly fetch manifest @netlify/zip-it-and-ship-it@9.41.1
+43 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fzip-it-and-ship-it cache-miss
+44 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fedge-bundler 135ms (cache revalidated)
+45 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fedge-bundler set size:744125 disposed:false
+46 silly fetch manifest @octokit/rest@20.1.1
+47 silly packumentCache full:https://registry.npmmirror.com/@octokit%2frest cache-miss
+48 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fconfig 147ms (cache revalidated)
+49 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fconfig set size:1266482 disposed:false
+50 silly fetch manifest @opentelemetry/api@1.8.0
+51 silly packumentCache full:https://registry.npmmirror.com/@opentelemetry%2fapi cache-miss
+52 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fbuild-info 162ms (cache revalidated)
+53 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fbuild-info set size:616555 disposed:false
+54 silly fetch manifest ansi-escapes@7.0.0
+55 silly packumentCache full:https://registry.npmmirror.com/ansi-escapes cache-miss
+56 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fedge-functions 77ms (cache revalidated)
+57 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fedge-functions set size:65615 disposed:false
+58 silly fetch manifest ansi-styles@6.2.1
+59 silly packumentCache full:https://registry.npmmirror.com/ansi-styles cache-miss
+60 http fetch GET 200 https://registry.npmmirror.com/ansi-styles 10ms (cache hit)
+61 silly packumentCache full:https://registry.npmmirror.com/ansi-styles set size:56535 disposed:false
+62 silly fetch manifest ansi-to-html@0.7.2
+63 silly packumentCache full:https://registry.npmmirror.com/ansi-to-html cache-miss
+64 http fetch GET 200 https://registry.npmmirror.com/ansi-escapes 25ms (cache revalidated)
+65 silly packumentCache full:https://registry.npmmirror.com/ansi-escapes set size:51971 disposed:false
+66 silly fetch manifest ascii-table@0.0.9
+67 silly packumentCache full:https://registry.npmmirror.com/ascii-table cache-miss
+68 http fetch GET 200 https://registry.npmmirror.com/@opentelemetry%2fapi 41ms (cache revalidated)
+69 silly packumentCache full:https://registry.npmmirror.com/@opentelemetry%2fapi set size:218525 disposed:false
+70 silly fetch manifest backoff@2.5.0
+71 silly packumentCache full:https://registry.npmmirror.com/backoff cache-miss
+72 http fetch GET 200 https://registry.npmmirror.com/@netlify%2flocal-functions-proxy 88ms (cache revalidated)
+73 silly packumentCache full:https://registry.npmmirror.com/@netlify%2flocal-functions-proxy set size:13197 disposed:false
+74 silly fetch manifest better-opn@3.0.2
+75 silly packumentCache full:https://registry.npmmirror.com/better-opn cache-miss
+76 http fetch GET 200 https://registry.npmmirror.com/@octokit%2frest 72ms (cache revalidated)
+77 silly packumentCache full:https://registry.npmmirror.com/@octokit%2frest set size:1084758 disposed:false
+78 silly fetch manifest boxen@7.1.1
+79 silly packumentCache full:https://registry.npmmirror.com/boxen cache-miss
+80 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fbuild 231ms (cache revalidated)
+81 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fbuild set size:5137929 disposed:false
+82 silly fetch manifest chalk@5.3.0
+83 silly packumentCache full:https://registry.npmmirror.com/chalk cache-miss
+84 http fetch GET 200 https://registry.npmmirror.com/ansi-to-html 96ms (cache revalidated)
+85 silly packumentCache full:https://registry.npmmirror.com/ansi-to-html set size:60868 disposed:false
+86 silly fetch manifest chokidar@3.6.0
+87 silly packumentCache full:https://registry.npmmirror.com/chokidar cache-miss
+88 http fetch GET 200 https://registry.npmmirror.com/boxen 74ms (cache revalidated)
+89 silly packumentCache full:https://registry.npmmirror.com/boxen set size:82847 disposed:false
+90 silly fetch manifest ci-info@4.1.0
+91 silly packumentCache full:https://registry.npmmirror.com/ci-info cache-miss
+92 http fetch GET 200 https://registry.npmmirror.com/chokidar 17ms (cache revalidated)
+93 silly packumentCache full:https://registry.npmmirror.com/chokidar set size:221278 disposed:false
+94 silly fetch manifest clean-deep@3.4.0
+95 silly packumentCache full:https://registry.npmmirror.com/clean-deep cache-miss
+96 http fetch GET 200 https://registry.npmmirror.com/chalk 56ms (cache revalidated)
+97 silly packumentCache full:https://registry.npmmirror.com/chalk set size:92038 disposed:false
+98 silly fetch manifest commander@10.0.1
+99 silly packumentCache full:https://registry.npmmirror.com/commander cache-miss
+100 http fetch GET 200 https://registry.npmmirror.com/ci-info 29ms (cache revalidated)
+101 silly packumentCache full:https://registry.npmmirror.com/ci-info set size:71440 disposed:false
+102 silly fetch manifest comment-json@4.2.5
+103 silly packumentCache full:https://registry.npmmirror.com/comment-json cache-miss
+104 http fetch GET 200 https://registry.npmmirror.com/ascii-table 147ms (cache revalidated)
+105 silly packumentCache full:https://registry.npmmirror.com/ascii-table set size:26671 disposed:false
+106 silly fetch manifest concordance@5.0.4
+107 silly packumentCache full:https://registry.npmmirror.com/concordance cache-miss
+108 http fetch GET 200 https://registry.npmmirror.com/backoff 145ms (cache revalidated)
+109 silly packumentCache full:https://registry.npmmirror.com/backoff set size:34428 disposed:false
+110 silly fetch manifest configstore@6.0.0
+111 silly packumentCache full:https://registry.npmmirror.com/configstore cache-miss
+112 http fetch GET 200 https://registry.npmmirror.com/better-opn 151ms (cache revalidated)
+113 silly packumentCache full:https://registry.npmmirror.com/better-opn set size:35074 disposed:false
+114 silly fetch manifest content-type@1.0.5
+115 silly packumentCache full:https://registry.npmmirror.com/content-type cache-miss
+116 http fetch GET 200 https://registry.npmmirror.com/commander 58ms (cache updated)
+117 silly packumentCache full:https://registry.npmmirror.com/commander set size:59118 disposed:false
+118 silly fetch manifest cookie@0.7.2
+119 silly packumentCache full:https://registry.npmmirror.com/cookie cache-miss
+120 http fetch GET 200 https://registry.npmmirror.com/configstore 43ms (cache revalidated)
+121 silly packumentCache full:https://registry.npmmirror.com/configstore set size:61575 disposed:false
+122 silly fetch manifest cron-parser@4.9.0
+123 silly packumentCache full:https://registry.npmmirror.com/cron-parser cache-miss
+124 http fetch GET 200 https://registry.npmmirror.com/content-type 29ms (cache revalidated)
+125 silly packumentCache full:https://registry.npmmirror.com/content-type set size:17102 disposed:false
+126 silly fetch manifest debug@4.3.7
+127 silly packumentCache full:https://registry.npmmirror.com/debug cache-miss
+128 http fetch GET 200 https://registry.npmmirror.com/@netlify%2fzip-it-and-ship-it 264ms (cache revalidated)
+129 silly packumentCache full:https://registry.npmmirror.com/@netlify%2fzip-it-and-ship-it set size:1537038 disposed:false
+130 silly fetch manifest decache@4.6.2
+131 silly packumentCache full:https://registry.npmmirror.com/decache cache-miss
+132 http fetch GET 200 https://registry.npmmirror.com/clean-deep 103ms (cache revalidated)
+133 silly packumentCache full:https://registry.npmmirror.com/clean-deep set size:38394 disposed:false
+134 silly fetch manifest dot-prop@9.0.0
+135 silly packumentCache full:https://registry.npmmirror.com/dot-prop cache-miss
+136 http fetch GET 200 https://registry.npmmirror.com/cookie 34ms (cache revalidated)
+137 silly packumentCache full:https://registry.npmmirror.com/cookie set size:64829 disposed:false
+138 silly fetch manifest dotenv@16.4.5
+139 silly packumentCache full:https://registry.npmmirror.com/dotenv cache-miss
+140 http fetch GET 200 https://registry.npmmirror.com/comment-json 87ms (cache revalidated)
+141 silly packumentCache full:https://registry.npmmirror.com/comment-json set size:127048 disposed:false
+142 silly fetch manifest env-paths@3.0.0
+143 silly packumentCache full:https://registry.npmmirror.com/env-paths cache-miss
+144 http fetch GET 200 https://registry.npmmirror.com/cron-parser 57ms (cache revalidated)
+145 silly packumentCache full:https://registry.npmmirror.com/cron-parser set size:228656 disposed:false
+146 silly fetch manifest envinfo@7.14.0
+147 silly packumentCache full:https://registry.npmmirror.com/envinfo cache-miss
+148 http fetch GET 200 https://registry.npmmirror.com/dot-prop 41ms (cache revalidated)
+149 silly packumentCache full:https://registry.npmmirror.com/dot-prop set size:57865 disposed:false
+150 silly fetch manifest etag@1.8.1
+151 silly packumentCache full:https://registry.npmmirror.com/etag cache-miss
+152 http fetch GET 200 https://registry.npmmirror.com/concordance 110ms (cache revalidated)
+153 silly packumentCache full:https://registry.npmmirror.com/concordance set size:35892 disposed:false
+154 silly fetch manifest execa@5.1.1
+155 silly packumentCache full:https://registry.npmmirror.com/execa cache-miss
+156 http fetch GET 200 https://registry.npmmirror.com/dotenv 46ms (cache revalidated)
+157 silly packumentCache full:https://registry.npmmirror.com/dotenv set size:212362 disposed:false
+158 silly fetch manifest express@4.21.1
+159 silly packumentCache full:https://registry.npmmirror.com/express cache-miss
+160 http fetch GET 200 https://registry.npmmirror.com/env-paths 65ms (cache revalidated)
+161 silly packumentCache full:https://registry.npmmirror.com/env-paths set size:20488 disposed:false
+162 silly fetch manifest express-logging@1.1.1
+163 silly packumentCache full:https://registry.npmmirror.com/express-logging cache-miss
+164 http fetch GET 200 https://registry.npmmirror.com/etag 43ms (cache revalidated)
+165 silly packumentCache full:https://registry.npmmirror.com/etag set size:28035 disposed:false
+166 silly fetch manifest extract-zip@2.0.1
+167 silly packumentCache full:https://registry.npmmirror.com/extract-zip cache-miss
+168 http fetch GET 200 https://registry.npmmirror.com/execa 43ms (cache revalidated)
+169 silly packumentCache full:https://registry.npmmirror.com/execa set size:148929 disposed:false
+170 silly fetch manifest fastest-levenshtein@1.0.16
+171 silly packumentCache full:https://registry.npmmirror.com/fastest-levenshtein cache-miss
+172 http fetch GET 200 https://registry.npmmirror.com/decache 100ms (cache revalidated)
+173 silly packumentCache full:https://registry.npmmirror.com/decache set size:48902 disposed:false
+174 silly fetch manifest fastify@4.28.1
+175 silly packumentCache full:https://registry.npmmirror.com/fastify cache-miss
+176 http fetch GET 200 https://registry.npmmirror.com/debug 118ms (cache updated)
+177 silly packumentCache full:https://registry.npmmirror.com/debug set size:31260 disposed:false
+178 silly fetch manifest find-up@7.0.0
+179 silly packumentCache full:https://registry.npmmirror.com/find-up cache-miss
+180 http fetch GET 200 https://registry.npmmirror.com/envinfo 75ms (cache revalidated)
+181 silly packumentCache full:https://registry.npmmirror.com/envinfo set size:229301 disposed:false
+182 silly fetch manifest flush-write-stream@2.0.0
+183 silly packumentCache full:https://registry.npmmirror.com/flush-write-stream cache-miss
+184 http fetch GET 200 https://registry.npmmirror.com/express 78ms (cache updated)
+185 silly packumentCache full:https://registry.npmmirror.com/express set size:90192 disposed:false
+186 silly fetch manifest folder-walker@3.2.0
+187 silly packumentCache full:https://registry.npmmirror.com/folder-walker cache-miss
+188 http fetch GET 200 https://registry.npmmirror.com/find-up 46ms (cache revalidated)
+189 silly packumentCache full:https://registry.npmmirror.com/find-up set size:32336 disposed:false
+190 silly fetch manifest from2-array@0.0.4
+191 silly packumentCache full:https://registry.npmmirror.com/from2-array cache-miss
+192 http fetch GET 200 https://registry.npmmirror.com/fastest-levenshtein 61ms (cache revalidated)
+193 silly packumentCache full:https://registry.npmmirror.com/fastest-levenshtein set size:47060 disposed:false
+194 silly fetch manifest fuzzy@0.1.3
+195 silly packumentCache full:https://registry.npmmirror.com/fuzzy cache-miss
+196 http fetch GET 200 https://registry.npmmirror.com/extract-zip 67ms (cache revalidated)
+197 silly packumentCache full:https://registry.npmmirror.com/extract-zip set size:42222 disposed:false
+198 silly fetch manifest get-port@5.1.1
+199 silly packumentCache full:https://registry.npmmirror.com/get-port cache-miss
+200 http fetch GET 200 https://registry.npmmirror.com/express-logging 97ms (cache revalidated)
+201 silly packumentCache full:https://registry.npmmirror.com/express-logging set size:12896 disposed:false
+202 silly fetch manifest gh-release-fetch@4.0.3
+203 silly packumentCache full:https://registry.npmmirror.com/gh-release-fetch cache-miss
+204 http fetch GET 200 https://registry.npmmirror.com/flush-write-stream 55ms (cache revalidated)
+205 silly packumentCache full:https://registry.npmmirror.com/flush-write-stream set size:12525 disposed:false
+206 silly fetch manifest git-repo-info@2.1.1
+207 silly packumentCache full:https://registry.npmmirror.com/git-repo-info cache-miss
+208 http fetch GET 200 https://registry.npmmirror.com/get-port 34ms (cache revalidated)
+209 silly packumentCache full:https://registry.npmmirror.com/get-port set size:37597 disposed:false
+210 silly fetch manifest gitconfiglocal@2.1.0
+211 silly packumentCache full:https://registry.npmmirror.com/gitconfiglocal cache-miss
+212 http fetch GET 200 https://registry.npmmirror.com/fastify 113ms (cache revalidated)
+213 silly packumentCache full:https://registry.npmmirror.com/fastify set size:1441642 disposed:false
+214 silly fetch manifest hasbin@1.2.3
+215 silly packumentCache full:https://registry.npmmirror.com/hasbin cache-miss
+216 http fetch GET 200 https://registry.npmmirror.com/from2-array 95ms (cache revalidated)
+217 silly packumentCache full:https://registry.npmmirror.com/from2-array set size:5286 disposed:false
+218 silly fetch manifest hasha@5.2.2
+219 silly packumentCache full:https://registry.npmmirror.com/hasha cache-miss
+220 http fetch GET 200 https://registry.npmmirror.com/git-repo-info 86ms (cache revalidated)
+221 silly packumentCache full:https://registry.npmmirror.com/git-repo-info set size:28733 disposed:false
+222 silly fetch manifest http-proxy@1.18.1
+223 silly packumentCache full:https://registry.npmmirror.com/http-proxy cache-miss
+224 http fetch GET 200 https://registry.npmmirror.com/gh-release-fetch 89ms (cache revalidated)
+225 silly packumentCache full:https://registry.npmmirror.com/gh-release-fetch set size:67024 disposed:false
+226 silly fetch manifest http-proxy-middleware@2.0.7
+227 silly packumentCache full:https://registry.npmmirror.com/http-proxy-middleware cache-miss
+228 http fetch GET 200 https://registry.npmmirror.com/gitconfiglocal 90ms (cache revalidated)
+229 silly packumentCache full:https://registry.npmmirror.com/gitconfiglocal set size:12019 disposed:false
+230 silly fetch manifest https-proxy-agent@7.0.5
+231 silly packumentCache full:https://registry.npmmirror.com/https-proxy-agent cache-miss
+232 http fetch GET 200 https://registry.npmmirror.com/http-proxy-middleware 19ms (cache revalidated)
+233 silly packumentCache full:https://registry.npmmirror.com/http-proxy-middleware set size:268080 disposed:false
+234 silly fetch manifest inquirer@6.5.2
+235 silly packumentCache full:https://registry.npmmirror.com/inquirer cache-miss
+236 http fetch GET 200 https://registry.npmmirror.com/http-proxy 28ms (cache revalidated)
+237 silly packumentCache full:https://registry.npmmirror.com/http-proxy set size:172463 disposed:false
+238 silly fetch manifest inquirer-autocomplete-prompt@1.4.0
+239 silly packumentCache full:https://registry.npmmirror.com/inquirer-autocomplete-prompt cache-miss
+240 http fetch GET 200 https://registry.npmmirror.com/folder-walker 154ms (cache revalidated)
+241 silly packumentCache full:https://registry.npmmirror.com/folder-walker set size:30582 disposed:false
+242 silly fetch manifest ipx@2.1.0
+243 silly packumentCache full:https://registry.npmmirror.com/ipx cache-miss
+244 http fetch GET 200 https://registry.npmmirror.com/fuzzy 151ms (cache revalidated)
+245 silly packumentCache full:https://registry.npmmirror.com/fuzzy set size:11546 disposed:false
+246 silly fetch manifest is-docker@3.0.0
+247 silly packumentCache full:https://registry.npmmirror.com/is-docker cache-miss
+248 http fetch GET 200 https://registry.npmmirror.com/hasbin 94ms (cache revalidated)
+249 silly packumentCache full:https://registry.npmmirror.com/hasbin set size:26217 disposed:false
+250 silly fetch manifest is-stream@4.0.1
+251 silly packumentCache full:https://registry.npmmirror.com/is-stream cache-miss
+252 http fetch GET 200 https://registry.npmmirror.com/https-proxy-agent 44ms (cache revalidated)
+253 silly packumentCache full:https://registry.npmmirror.com/https-proxy-agent set size:70730 disposed:false
+254 silly fetch manifest is-wsl@3.1.0
+255 silly packumentCache full:https://registry.npmmirror.com/is-wsl cache-miss
+256 http fetch GET 200 https://registry.npmmirror.com/hasha 83ms (cache revalidated)
+257 silly packumentCache full:https://registry.npmmirror.com/hasha set size:31562 disposed:false
+258 silly fetch manifest isexe@3.1.1
+259 silly packumentCache full:https://registry.npmmirror.com/isexe cache-miss
+260 http fetch GET 200 https://registry.npmmirror.com/isexe 10ms (cache hit)
+261 silly packumentCache full:https://registry.npmmirror.com/isexe set size:19681 disposed:false
+262 silly fetch manifest js-yaml@4.1.0
+263 silly packumentCache full:https://registry.npmmirror.com/js-yaml cache-miss
+264 http fetch GET 200 https://registry.npmmirror.com/is-docker 48ms (cache revalidated)
+265 silly packumentCache full:https://registry.npmmirror.com/is-docker set size:15732 disposed:false
+266 silly fetch manifest jsonwebtoken@9.0.2
+267 silly packumentCache full:https://registry.npmmirror.com/jsonwebtoken cache-miss
+268 http fetch GET 200 https://registry.npmmirror.com/is-wsl 26ms (cache revalidated)
+269 silly packumentCache full:https://registry.npmmirror.com/is-wsl set size:15102 disposed:false
+270 silly fetch manifest jwt-decode@4.0.0
+271 silly packumentCache full:https://registry.npmmirror.com/jwt-decode cache-miss
+272 http fetch GET 200 https://registry.npmmirror.com/is-stream 36ms (cache revalidated)
+273 silly packumentCache full:https://registry.npmmirror.com/is-stream set size:15794 disposed:false
+274 silly fetch manifest lambda-local@2.2.0
+275 silly packumentCache full:https://registry.npmmirror.com/lambda-local cache-miss
+276 http fetch GET 200 https://registry.npmmirror.com/js-yaml 23ms (cache revalidated)
+277 silly packumentCache full:https://registry.npmmirror.com/js-yaml set size:135063 disposed:false
+278 silly fetch manifest listr2@8.2.5
+279 silly packumentCache full:https://registry.npmmirror.com/listr2 cache-miss
+280 http fetch GET 200 https://registry.npmmirror.com/jsonwebtoken 26ms (cache revalidated)
+281 silly packumentCache full:https://registry.npmmirror.com/jsonwebtoken set size:167715 disposed:false
+282 silly fetch manifest locate-path@7.2.0
+283 silly packumentCache full:https://registry.npmmirror.com/locate-path cache-miss
+284 http fetch GET 200 https://registry.npmmirror.com/inquirer 94ms (cache updated)
+285 silly packumentCache full:https://registry.npmmirror.com/inquirer set size:81006 disposed:false
+286 silly fetch manifest lodash@4.17.21
+287 silly packumentCache full:https://registry.npmmirror.com/lodash cache-miss
+288 http fetch GET 200 https://registry.npmmirror.com/ipx 104ms (cache revalidated)
+289 silly packumentCache full:https://registry.npmmirror.com/ipx set size:190648 disposed:false
+290 silly fetch manifest log-symbols@6.0.0
+291 silly packumentCache full:https://registry.npmmirror.com/log-symbols cache-miss
+292 http fetch GET 200 https://registry.npmmirror.com/inquirer-autocomplete-prompt 111ms (cache revalidated)
+293 silly packumentCache full:https://registry.npmmirror.com/inquirer-autocomplete-prompt set size:71820 disposed:false
+294 silly fetch manifest log-update@6.1.0
+295 silly packumentCache full:https://registry.npmmirror.com/log-update cache-miss
+296 http fetch GET 200 https://registry.npmmirror.com/listr2 44ms (cache revalidated)
+297 silly packumentCache full:https://registry.npmmirror.com/listr2 set size:865551 disposed:false
+298 silly fetch manifest maxstache@1.0.7
+299 silly packumentCache full:https://registry.npmmirror.com/maxstache cache-miss
+300 http fetch GET 200 https://registry.npmmirror.com/log-symbols 33ms (cache revalidated)
+301 silly packumentCache full:https://registry.npmmirror.com/log-symbols set size:25698 disposed:false
+302 silly fetch manifest maxstache-stream@1.0.4
+303 silly packumentCache full:https://registry.npmmirror.com/maxstache-stream cache-miss
+304 http fetch GET 200 https://registry.npmmirror.com/locate-path 56ms (cache revalidated)
+305 silly packumentCache full:https://registry.npmmirror.com/locate-path set size:24911 disposed:false
+306 silly fetch manifest multiparty@4.2.3
+307 silly packumentCache full:https://registry.npmmirror.com/multiparty cache-miss
+308 http fetch GET 200 https://registry.npmmirror.com/lodash 58ms (cache updated)
+309 silly packumentCache full:https://registry.npmmirror.com/lodash set size:27645 disposed:false
+310 silly fetch manifest netlify@13.1.21
+311 silly packumentCache full:https://registry.npmmirror.com/netlify cache-miss
+312 http fetch GET 200 https://registry.npmmirror.com/jwt-decode 107ms (cache revalidated)
+313 silly packumentCache full:https://registry.npmmirror.com/jwt-decode set size:119725 disposed:false
+314 silly fetch manifest netlify-headers-parser@7.1.4
+315 silly packumentCache full:https://registry.npmmirror.com/netlify-headers-parser cache-miss
+316 http fetch GET 200 https://registry.npmmirror.com/log-update 57ms (cache revalidated)
+317 silly packumentCache full:https://registry.npmmirror.com/log-update set size:37546 disposed:false
+318 silly fetch manifest netlify-redirect-parser@14.3.0
+319 silly packumentCache full:https://registry.npmmirror.com/netlify-redirect-parser cache-miss
+320 http fetch GET 200 https://registry.npmmirror.com/maxstache 76ms (cache revalidated)
+321 silly packumentCache full:https://registry.npmmirror.com/maxstache set size:16477 disposed:false
+322 silly fetch manifest netlify-redirector@0.5.0
+323 silly packumentCache full:https://registry.npmmirror.com/netlify-redirector cache-miss
+324 http fetch GET 200 https://registry.npmmirror.com/maxstache-stream 72ms (cache revalidated)
+325 silly packumentCache full:https://registry.npmmirror.com/maxstache-stream set size:9307 disposed:false
+326 silly fetch manifest node-fetch@3.3.2
+327 silly packumentCache full:https://registry.npmmirror.com/node-fetch cache-miss
+328 http fetch GET 200 https://registry.npmmirror.com/multiparty 73ms (cache revalidated)
+329 silly packumentCache full:https://registry.npmmirror.com/multiparty set size:68876 disposed:false
+330 silly fetch manifest node-version-alias@3.4.1
+331 silly packumentCache full:https://registry.npmmirror.com/node-version-alias cache-miss
+332 http fetch GET 200 https://registry.npmmirror.com/netlify 80ms (cache revalidated)
+333 silly packumentCache full:https://registry.npmmirror.com/netlify set size:709335 disposed:false
+334 silly fetch manifest ora@8.1.1
+335 silly packumentCache full:https://registry.npmmirror.com/ora cache-miss
+336 http fetch GET 200 https://registry.npmmirror.com/netlify-headers-parser 82ms (cache revalidated)
+337 silly packumentCache full:https://registry.npmmirror.com/netlify-headers-parser set size:85137 disposed:false
+338 silly fetch manifest p-filter@4.1.0
+339 silly packumentCache full:https://registry.npmmirror.com/p-filter cache-miss
+340 http fetch GET 200 https://registry.npmmirror.com/node-fetch 39ms (cache updated)
+341 silly packumentCache full:https://registry.npmmirror.com/node-fetch set size:63385 disposed:false
+342 silly fetch manifest p-map@7.0.2
+343 silly packumentCache full:https://registry.npmmirror.com/p-map cache-miss
+344 http fetch GET 200 https://registry.npmmirror.com/node-version-alias 50ms (cache revalidated)
+345 silly packumentCache full:https://registry.npmmirror.com/node-version-alias set size:45053 disposed:false
+346 silly fetch manifest p-wait-for@5.0.2
+347 silly packumentCache full:https://registry.npmmirror.com/p-wait-for cache-miss
+348 http fetch GET 200 https://registry.npmmirror.com/ora 27ms (cache revalidated)
+349 silly packumentCache full:https://registry.npmmirror.com/ora set size:105041 disposed:false
+350 silly fetch manifest parallel-transform@1.2.0
+351 silly packumentCache full:https://registry.npmmirror.com/parallel-transform cache-miss
+352 http fetch GET 200 https://registry.npmmirror.com/lambda-local 224ms (cache revalidated)
+353 silly packumentCache full:https://registry.npmmirror.com/lambda-local set size:80069 disposed:false
+354 silly fetch manifest parse-github-url@1.0.3
+355 silly packumentCache full:https://registry.npmmirror.com/parse-github-url cache-miss
+356 http fetch GET 200 https://registry.npmmirror.com/netlify-redirector 89ms (cache revalidated)
+357 silly packumentCache full:https://registry.npmmirror.com/netlify-redirector set size:23460 disposed:false
+358 silly fetch manifest parse-gitignore@2.0.0
+359 silly packumentCache full:https://registry.npmmirror.com/parse-gitignore cache-miss
+360 http fetch GET 200 https://registry.npmmirror.com/p-map 55ms (cache revalidated)
+361 silly packumentCache full:https://registry.npmmirror.com/p-map set size:44172 disposed:false
+362 silly fetch manifest path-key@4.0.0
+363 silly packumentCache full:https://registry.npmmirror.com/path-key cache-miss
+364 http fetch GET 200 https://registry.npmmirror.com/p-filter 64ms (cache revalidated)
+365 silly packumentCache full:https://registry.npmmirror.com/p-filter set size:14725 disposed:false
+366 silly fetch manifest prettyjson@1.2.5
+367 silly packumentCache full:https://registry.npmmirror.com/prettyjson cache-miss
+368 http fetch GET 200 https://registry.npmmirror.com/parallel-transform 48ms (cache revalidated)
+369 silly packumentCache full:https://registry.npmmirror.com/parallel-transform set size:16866 disposed:false
+370 silly fetch manifest pump@3.0.2
+371 silly packumentCache full:https://registry.npmmirror.com/pump cache-miss
+372 http fetch GET 200 https://registry.npmmirror.com/path-key 11ms (cache hit)
+373 silly packumentCache full:https://registry.npmmirror.com/path-key set size:13005 disposed:false
+374 silly fetch manifest raw-body@2.5.2
+375 silly packumentCache full:https://registry.npmmirror.com/raw-body cache-miss
+376 http fetch GET 200 https://registry.npmmirror.com/netlify-redirect-parser 159ms (cache revalidated)
+377 silly packumentCache full:https://registry.npmmirror.com/netlify-redirect-parser set size:276130 disposed:false
+378 silly fetch manifest read-package-up@11.0.0
+379 silly packumentCache full:https://registry.npmmirror.com/read-package-up cache-miss
+380 http fetch GET 200 https://registry.npmmirror.com/parse-gitignore 52ms (cache revalidated)
+381 silly packumentCache full:https://registry.npmmirror.com/parse-gitignore set size:26698 disposed:false
+382 silly fetch manifest readdirp@3.6.0
+383 silly packumentCache full:https://registry.npmmirror.com/readdirp cache-miss
+384 http fetch GET 200 https://registry.npmmirror.com/pump 50ms (cache revalidated)
+385 silly packumentCache full:https://registry.npmmirror.com/pump set size:37484 disposed:false
+386 silly fetch manifest semver@7.6.3
+387 silly packumentCache full:https://registry.npmmirror.com/semver cache-miss
+388 http fetch GET 200 https://registry.npmmirror.com/p-wait-for 103ms (cache revalidated)
+389 silly packumentCache full:https://registry.npmmirror.com/p-wait-for set size:26069 disposed:false
+390 silly fetch manifest source-map-support@0.5.21
+391 silly packumentCache full:https://registry.npmmirror.com/source-map-support cache-miss
+392 http fetch GET 200 https://registry.npmmirror.com/parse-github-url 88ms (cache revalidated)
+393 silly packumentCache full:https://registry.npmmirror.com/parse-github-url set size:43896 disposed:false
+394 silly fetch manifest strip-ansi-control-characters@2.0.0
+395 silly packumentCache full:https://registry.npmmirror.com/strip-ansi-control-characters cache-miss
+396 http fetch GET 200 https://registry.npmmirror.com/raw-body 63ms (cache revalidated)
+397 silly packumentCache full:https://registry.npmmirror.com/raw-body set size:105374 disposed:false
+398 silly fetch manifest tabtab@3.0.2
+399 silly packumentCache full:https://registry.npmmirror.com/tabtab cache-miss
+400 http fetch GET 200 https://registry.npmmirror.com/readdirp 48ms (cache revalidated)
+401 silly packumentCache full:https://registry.npmmirror.com/readdirp set size:85062 disposed:false
+402 silly fetch manifest tempy@3.1.0
+403 silly packumentCache full:https://registry.npmmirror.com/tempy cache-miss
+404 http fetch GET 200 https://registry.npmmirror.com/prettyjson 80ms (cache revalidated)
+405 silly packumentCache full:https://registry.npmmirror.com/prettyjson set size:66895 disposed:false
+406 silly fetch manifest terminal-link@3.0.0
+407 silly packumentCache full:https://registry.npmmirror.com/terminal-link cache-miss
+408 http fetch GET 200 https://registry.npmmirror.com/source-map-support 33ms (cache revalidated)
+409 silly packumentCache full:https://registry.npmmirror.com/source-map-support set size:108781 disposed:false
+410 silly fetch manifest through2-filter@4.0.0
+411 silly packumentCache full:https://registry.npmmirror.com/through2-filter cache-miss
+412 http fetch GET 200 https://registry.npmmirror.com/semver 45ms (cache updated)
+413 silly packumentCache full:https://registry.npmmirror.com/semver set size:42374 disposed:false
+414 silly fetch manifest through2-map@4.0.0
+415 silly packumentCache full:https://registry.npmmirror.com/through2-map cache-miss
+416 http fetch GET 200 https://registry.npmmirror.com/tempy 35ms (cache revalidated)
+417 silly packumentCache full:https://registry.npmmirror.com/tempy set size:29977 disposed:false
+418 silly fetch manifest toml@3.0.0
+419 silly packumentCache full:https://registry.npmmirror.com/toml cache-miss
+420 http fetch GET 200 https://registry.npmmirror.com/terminal-link 46ms (cache revalidated)
+421 silly packumentCache full:https://registry.npmmirror.com/terminal-link set size:15983 disposed:false
+422 silly fetch manifest tomlify-j0.4@3.0.0
+423 silly packumentCache full:https://registry.npmmirror.com/tomlify-j0.4 cache-miss
+424 http fetch GET 200 https://registry.npmmirror.com/read-package-up 119ms (cache revalidated)
+425 silly packumentCache full:https://registry.npmmirror.com/read-package-up set size:4796 disposed:false
+426 silly fetch manifest ulid@2.3.0
+427 silly packumentCache full:https://registry.npmmirror.com/ulid cache-miss
+428 http fetch GET 200 https://registry.npmmirror.com/strip-ansi-control-characters 88ms (cache revalidated)
+429 silly packumentCache full:https://registry.npmmirror.com/strip-ansi-control-characters set size:4774 disposed:false
+430 silly fetch manifest unixify@1.0.0
+431 silly packumentCache full:https://registry.npmmirror.com/unixify cache-miss
+432 http fetch GET 200 https://registry.npmmirror.com/through2-filter 54ms (cache revalidated)
+433 silly packumentCache full:https://registry.npmmirror.com/through2-filter set size:22363 disposed:false
+434 silly fetch manifest update-notifier@7.3.1
+435 silly packumentCache full:https://registry.npmmirror.com/update-notifier cache-miss
+436 http fetch GET 200 https://registry.npmmirror.com/tabtab 84ms (cache revalidated)
+437 silly packumentCache full:https://registry.npmmirror.com/tabtab set size:62076 disposed:false
+438 silly fetch manifest uuid@9.0.1
+439 silly packumentCache full:https://registry.npmmirror.com/uuid cache-miss
+440 http fetch GET 200 https://registry.npmmirror.com/through2-map 77ms (cache revalidated)
+441 silly packumentCache full:https://registry.npmmirror.com/through2-map set size:21250 disposed:false
+442 silly fetch manifest wait-port@1.1.0
+443 silly packumentCache full:https://registry.npmmirror.com/wait-port cache-miss
+444 http fetch GET 200 https://registry.npmmirror.com/uuid 19ms (cache revalidated)
+445 silly packumentCache full:https://registry.npmmirror.com/uuid set size:172109 disposed:false
+446 silly fetch manifest write-file-atomic@5.0.1
+447 silly packumentCache full:https://registry.npmmirror.com/write-file-atomic cache-miss
+448 http fetch GET 200 https://registry.npmmirror.com/toml 84ms (cache revalidated)
+449 silly packumentCache full:https://registry.npmmirror.com/toml set size:44751 disposed:false
+450 silly fetch manifest ws@8.18.0
+451 silly packumentCache full:https://registry.npmmirror.com/ws cache-miss
+452 http fetch GET 200 https://registry.npmmirror.com/tomlify-j0.4 72ms (cache revalidated)
+453 silly packumentCache full:https://registry.npmmirror.com/tomlify-j0.4 set size:26612 disposed:false
+454 silly fetch manifest zod@3.23.8
+455 silly packumentCache full:https://registry.npmmirror.com/zod cache-miss
+456 http fetch GET 200 https://registry.npmmirror.com/write-file-atomic 40ms (cache revalidated)
+457 silly packumentCache full:https://registry.npmmirror.com/write-file-atomic set size:66650 disposed:false
+458 http fetch GET 200 https://registry.npmmirror.com/unixify 88ms (cache revalidated)
+459 silly packumentCache full:https://registry.npmmirror.com/unixify set size:10930 disposed:false
+460 http fetch GET 200 https://registry.npmmirror.com/update-notifier 88ms (cache revalidated)
+461 silly packumentCache full:https://registry.npmmirror.com/update-notifier set size:109423 disposed:false
+462 http fetch GET 200 https://registry.npmmirror.com/zod 37ms (cache revalidated)
+463 silly packumentCache full:https://registry.npmmirror.com/zod set size:1432089 disposed:false
+464 http fetch GET 200 https://registry.npmmirror.com/wait-port 72ms (cache revalidated)
+465 silly packumentCache full:https://registry.npmmirror.com/wait-port set size:67887 disposed:false
+466 http fetch GET 200 https://registry.npmmirror.com/ws 82ms (cache updated)
+467 silly packumentCache full:https://registry.npmmirror.com/ws set size:90765 disposed:false
+468 http fetch GET 200 https://registry.npmmirror.com/ulid 282ms (cache revalidated)
+469 silly packumentCache full:https://registry.npmmirror.com/ulid set size:26872 disposed:false
+470 silly reify mark retired [
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli',
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\ntl',
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\ntl.cmd',
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\ntl.ps1',
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\netlify',
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\netlify.cmd',
+470 silly reify   'D:\\Project\\Git\\dhlektor\\path\\netlify.ps1'
+470 silly reify ]
+471 silly reify moves {
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli': 'D:\\Project\\Git\\dhlektor\\path\\node_modules\\.netlify-cli-4IsFESam',
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\ntl': 'D:\\Project\\Git\\dhlektor\\path\\.ntl-WklrqNKD',
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\ntl.cmd': 'D:\\Project\\Git\\dhlektor\\path\\.ntl.cmd-KcsPBimy',
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\ntl.ps1': 'D:\\Project\\Git\\dhlektor\\path\\.ntl.ps1-YDEvzMr0',
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\netlify': 'D:\\Project\\Git\\dhlektor\\path\\.netlify-sICkh7ZJ',
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\netlify.cmd': 'D:\\Project\\Git\\dhlektor\\path\\.netlify.cmd-ejWHb4HK',
+471 silly reify   'D:\\Project\\Git\\dhlektor\\path\\netlify.ps1': 'D:\\Project\\Git\\dhlektor\\path\\.netlify.ps1-NjWjqe58'
+471 silly reify }
+472 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\fsevents
+473 silly reify mark deleted [
+473 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\fsevents'
+473 silly reify ]
+474 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-win32-ia32
+475 silly reify mark deleted [
+475 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-win32-ia32'
+475 silly reify ]
+476 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-win32-arm64
+477 silly reify mark deleted [
+477 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-win32-arm64'
+477 silly reify ]
+478 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-linux-x64-musl
+479 silly reify mark deleted [
+479 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-linux-x64-musl'
+479 silly reify ]
+480 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-linux-x64-glibc
+481 silly reify mark deleted [
+481 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-linux-x64-glibc'
+481 silly reify ]
+482 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-linux-arm64-musl
+483 silly reify mark deleted [
+483 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-linux-arm64-musl'
+483 silly reify ]
+484 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-linux-arm64-glibc
+485 silly reify mark deleted [
+485 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-linux-arm64-glibc'
+485 silly reify ]
+486 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-linux-arm-glibc
+487 silly reify mark deleted [
+487 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-linux-arm-glibc'
+487 silly reify ]
+488 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-freebsd-x64
+489 silly reify mark deleted [
+489 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-freebsd-x64'
+489 silly reify ]
+490 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-darwin-x64
+491 silly reify mark deleted [
+491 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-darwin-x64'
+491 silly reify ]
+492 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-darwin-arm64
+493 silly reify mark deleted [
+493 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-darwin-arm64'
+493 silly reify ]
+494 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@parcel\watcher-android-arm64
+495 silly reify mark deleted [
+495 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@parcel\\watcher-android-arm64'
+495 silly reify ]
+496 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-win32-ia32
+497 silly reify mark deleted [
+497 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-win32-ia32',
+497 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.exe',
+497 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.exe.cmd',
+497 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.exe.ps1'
+497 silly reify ]
+498 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-openbsd-x64
+499 silly reify mark deleted [
+499 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-openbsd-x64',
+499 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+499 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+499 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+499 silly reify ]
+500 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-linux-x64
+501 silly reify mark deleted [
+501 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-linux-x64',
+501 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+501 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+501 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+501 silly reify ]
+502 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-linux-ppc64
+503 silly reify mark deleted [
+503 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-linux-ppc64',
+503 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+503 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+503 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+503 silly reify ]
+504 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-linux-ia32
+505 silly reify mark deleted [
+505 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-linux-ia32',
+505 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+505 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+505 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+505 silly reify ]
+506 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-linux-arm64
+507 silly reify mark deleted [
+507 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-linux-arm64',
+507 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+507 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+507 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+507 silly reify ]
+508 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-linux-arm
+509 silly reify mark deleted [
+509 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-linux-arm',
+509 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+509 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+509 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+509 silly reify ]
+510 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-freebsd-x64
+511 silly reify mark deleted [
+511 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-freebsd-x64',
+511 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+511 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+511 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+511 silly reify ]
+512 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-freebsd-arm64
+513 silly reify mark deleted [
+513 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-freebsd-arm64',
+513 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+513 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+513 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+513 silly reify ]
+514 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-darwin-x64
+515 silly reify mark deleted [
+515 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-darwin-x64',
+515 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+515 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+515 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+515 silly reify ]
+516 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\local-functions-proxy-darwin-arm64
+517 silly reify mark deleted [
+517 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\local-functions-proxy-darwin-arm64',
+517 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy',
+517 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.cmd',
+517 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\.bin\\local-functions-proxy.ps1'
+517 silly reify ]
+518 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\win32-ia32
+519 silly reify mark deleted [
+519 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\win32-ia32'
+519 silly reify ]
+520 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\win32-arm64
+521 silly reify mark deleted [
+521 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\win32-arm64'
+521 silly reify ]
+522 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\sunos-x64
+523 silly reify mark deleted [
+523 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\sunos-x64'
+523 silly reify ]
+524 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\openbsd-x64
+525 silly reify mark deleted [
+525 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\openbsd-x64'
+525 silly reify ]
+526 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\netbsd-x64
+527 silly reify mark deleted [
+527 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\netbsd-x64'
+527 silly reify ]
+528 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-x64
+529 silly reify mark deleted [
+529 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-x64'
+529 silly reify ]
+530 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-s390x
+531 silly reify mark deleted [
+531 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-s390x'
+531 silly reify ]
+532 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-riscv64
+533 silly reify mark deleted [
+533 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-riscv64'
+533 silly reify ]
+534 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-ppc64
+535 silly reify mark deleted [
+535 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-ppc64'
+535 silly reify ]
+536 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-mips64el
+537 silly reify mark deleted [
+537 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-mips64el'
+537 silly reify ]
+538 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-loong64
+539 silly reify mark deleted [
+539 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-loong64'
+539 silly reify ]
+540 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-ia32
+541 silly reify mark deleted [
+541 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-ia32'
+541 silly reify ]
+542 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-arm64
+543 silly reify mark deleted [
+543 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-arm64'
+543 silly reify ]
+544 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\linux-arm
+545 silly reify mark deleted [
+545 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\linux-arm'
+545 silly reify ]
+546 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\freebsd-x64
+547 silly reify mark deleted [
+547 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\freebsd-x64'
+547 silly reify ]
+548 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\freebsd-arm64
+549 silly reify mark deleted [
+549 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\freebsd-arm64'
+549 silly reify ]
+550 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\darwin-x64
+551 silly reify mark deleted [
+551 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\darwin-x64'
+551 silly reify ]
+552 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\darwin-arm64
+553 silly reify mark deleted [
+553 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\darwin-arm64'
+553 silly reify ]
+554 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\android-x64
+555 silly reify mark deleted [
+555 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\android-x64'
+555 silly reify ]
+556 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\android-arm64
+557 silly reify mark deleted [
+557 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\android-arm64'
+557 silly reify ]
+558 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\android-arm
+559 silly reify mark deleted [
+559 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\android-arm'
+559 silly reify ]
+560 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@esbuild\aix-ppc64
+561 silly reify mark deleted [
+561 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@esbuild\\aix-ppc64'
+561 silly reify ]
+562 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\win32-ia32
+563 silly reify mark deleted [
+563 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\win32-ia32'
+563 silly reify ]
+564 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\win32-arm64
+565 silly reify mark deleted [
+565 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\win32-arm64'
+565 silly reify ]
+566 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\sunos-x64
+567 silly reify mark deleted [
+567 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\sunos-x64'
+567 silly reify ]
+568 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\openbsd-x64
+569 silly reify mark deleted [
+569 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\openbsd-x64'
+569 silly reify ]
+570 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\netbsd-x64
+571 silly reify mark deleted [
+571 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\netbsd-x64'
+571 silly reify ]
+572 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-x64
+573 silly reify mark deleted [
+573 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-x64'
+573 silly reify ]
+574 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-s390x
+575 silly reify mark deleted [
+575 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-s390x'
+575 silly reify ]
+576 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-riscv64
+577 silly reify mark deleted [
+577 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-riscv64'
+577 silly reify ]
+578 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-ppc64
+579 silly reify mark deleted [
+579 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-ppc64'
+579 silly reify ]
+580 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-mips64el
+581 silly reify mark deleted [
+581 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-mips64el'
+581 silly reify ]
+582 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-loong64
+583 silly reify mark deleted [
+583 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-loong64'
+583 silly reify ]
+584 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-ia32
+585 silly reify mark deleted [
+585 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-ia32'
+585 silly reify ]
+586 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-arm64
+587 silly reify mark deleted [
+587 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-arm64'
+587 silly reify ]
+588 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\linux-arm
+589 silly reify mark deleted [
+589 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\linux-arm'
+589 silly reify ]
+590 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\freebsd-x64
+591 silly reify mark deleted [
+591 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\freebsd-x64'
+591 silly reify ]
+592 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\freebsd-arm64
+593 silly reify mark deleted [
+593 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\freebsd-arm64'
+593 silly reify ]
+594 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\darwin-x64
+595 silly reify mark deleted [
+595 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\darwin-x64'
+595 silly reify ]
+596 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\darwin-arm64
+597 silly reify mark deleted [
+597 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\darwin-arm64'
+597 silly reify ]
+598 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\android-x64
+599 silly reify mark deleted [
+599 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\android-x64'
+599 silly reify ]
+600 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\android-arm64
+601 silly reify mark deleted [
+601 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\android-arm64'
+601 silly reify ]
+602 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\android-arm
+603 silly reify mark deleted [
+603 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\android-arm'
+603 silly reify ]
+604 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\@netlify\edge-bundler\node_modules\@esbuild\aix-ppc64
+605 silly reify mark deleted [
+605 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\@netlify\\edge-bundler\\node_modules\\@esbuild\\aix-ppc64'
+605 silly reify ]
+606 warn deprecated glob@8.1.0: Glob versions prior to v9 are no longer supported
+607 info run sharp@0.32.6 install node_modules/netlify-cli/node_modules/sharp (node install/libvips && node install/dll-copy && prebuild-install) || (node install/can-compile && node-gyp rebuild && node install/dll-copy)
+608 info run unix-dgram@2.0.6 install node_modules/netlify-cli/node_modules/unix-dgram node-gyp rebuild
+609 info run unix-dgram@2.0.6 install { code: 1, signal: null }
+610 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\unix-dgram
+611 silly reify mark deleted [
+611 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\unix-dgram'
+611 silly reify ]
+612 verbose reify failed optional dependency D:\Project\Git\dhlektor\path\node_modules\netlify-cli\node_modules\nan
+613 silly reify mark deleted [
+613 silly reify   'D:\\Project\\Git\\dhlektor\\path\\node_modules\\netlify-cli\\node_modules\\nan'
+613 silly reify ]
+614 info run sharp@0.32.6 install { code: 0, signal: null }
+615 info run netlify-cli@17.38.0 postinstall node_modules/netlify-cli node ./scripts/postinstall.js
+616 info run esbuild@0.19.11 postinstall node_modules/netlify-cli/node_modules/esbuild node install.js
+617 info run esbuild@0.21.2 postinstall node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/esbuild node install.js
+618 info run esbuild@0.19.11 postinstall { code: 0, signal: null }
+619 info run esbuild@0.21.2 postinstall { code: 0, signal: null }
+620 info run netlify-cli@17.38.0 postinstall { code: 0, signal: null }
+621 silly CHANGE node_modules/netlify-cli
+622 silly ADD
+623 silly ADD
+624 silly ADD
+625 silly ADD
+626 silly ADD
+627 silly ADD
+628 silly ADD
+629 silly ADD
+630 silly ADD
+631 silly ADD
+632 silly ADD
+633 silly ADD
+634 silly ADD
+635 silly ADD
+636 silly ADD
+637 silly ADD
+638 silly ADD
+639 silly ADD
+640 silly ADD
+641 silly ADD
+642 silly ADD
+643 silly ADD
+644 silly ADD
+645 silly ADD
+646 silly ADD
+647 silly ADD
+648 silly ADD
+649 silly ADD
+650 silly ADD
+651 silly ADD
+652 silly ADD
+653 silly ADD
+654 silly ADD
+655 silly ADD
+656 silly ADD
+657 silly ADD
+658 silly ADD
+659 silly ADD
+660 silly ADD
+661 silly ADD
+662 silly ADD
+663 silly ADD
+664 silly ADD
+665 silly ADD
+666 silly ADD
+667 silly ADD
+668 silly ADD
+669 silly CHANGE node_modules/netlify-cli/node_modules/@types/yauzl
+670 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/local-functions-proxy-win32-x64
+671 silly CHANGE node_modules/netlify-cli/node_modules/@types/yargs-parser
+672 silly CHANGE node_modules/netlify-cli/node_modules/@types/serve-static
+673 silly CHANGE node_modules/netlify-cli/node_modules/@vercel/nft
+674 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-targz
+675 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-targz/node_modules/is-stream
+676 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-tarbz2
+677 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-tarbz2/node_modules/is-stream
+678 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-tar
+679 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-tar/node_modules/is-stream
+680 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/downloader
+681 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/downloader/node_modules/trim-repeated
+682 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/downloader/node_modules/filename-reserved-regex
+683 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/downloader/node_modules/strip-outer
+684 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/downloader/node_modules/filenamify
+685 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/downloader/node_modules/escape-string-regexp
+686 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress
+687 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress/node_modules/make-dir
+688 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress/node_modules/graceful-fs
+689 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/decompress-unzip
+690 silly CHANGE node_modules/netlify-cli/node_modules/@types/node
+691 silly CHANGE node_modules/netlify-cli/node_modules/@xhmikosr/archive-type
+692 silly CHANGE node_modules/netlify-cli/node_modules/@types/retry
+693 silly CHANGE node_modules/netlify-cli/node_modules/@types/qs
+694 silly CHANGE node_modules/netlify-cli/node_modules/@types/range-parser
+695 silly CHANGE node_modules/netlify-cli/node_modules/@types/normalize-package-data
+696 silly CHANGE node_modules/netlify-cli/node_modules/@types/body-parser
+697 silly CHANGE node_modules/netlify-cli/node_modules/@types/mime
+698 silly CHANGE node_modules/netlify-cli/node_modules/@types/http-proxy
+699 silly CHANGE node_modules/netlify-cli/node_modules/@types/istanbul-reports
+700 silly CHANGE node_modules/netlify-cli/node_modules/@types/istanbul-lib-report
+701 silly CHANGE node_modules/netlify-cli/node_modules/@types/istanbul-lib-coverage
+702 silly CHANGE node_modules/netlify-cli/node_modules/@types/http-cache-semantics
+703 silly CHANGE node_modules/netlify-cli/node_modules/@types/connect
+704 silly CHANGE node_modules/netlify-cli/node_modules/@types/express
+705 silly CHANGE node_modules/netlify-cli/node_modules/@tsconfig/node12
+706 silly CHANGE node_modules/netlify-cli/node_modules/@types/express-serve-static-core
+707 silly CHANGE node_modules/netlify-cli/node_modules/@tsconfig/node14
+708 silly CHANGE node_modules/netlify-cli/node_modules/@tsconfig/node10
+709 silly CHANGE node_modules/netlify-cli/node_modules/@tsconfig/node16
+710 silly CHANGE node_modules/netlify-cli/node_modules/@trysound/sax
+711 silly CHANGE node_modules/netlify-cli/node_modules/@pnpm/network.ca-file
+712 silly CHANGE node_modules/netlify-cli/node_modules/@pnpm/npm-conf
+713 silly CHANGE node_modules/netlify-cli/node_modules/@sindresorhus/slugify
+714 silly CHANGE node_modules/netlify-cli/node_modules/@sindresorhus/slugify/node_modules/escape-string-regexp
+715 silly CHANGE node_modules/netlify-cli/node_modules/@tokenizer/token
+716 silly CHANGE node_modules/netlify-cli/node_modules/@sindresorhus/transliterate
+717 silly CHANGE node_modules/netlify-cli/node_modules/@sindresorhus/transliterate/node_modules/escape-string-regexp
+718 silly CHANGE node_modules/netlify-cli/node_modules/@pkgjs/parseargs
+719 silly CHANGE node_modules/netlify-cli/node_modules/@sindresorhus/is
+720 silly CHANGE node_modules/netlify-cli/node_modules/@szmarczak/http-timer
+721 silly CHANGE node_modules/netlify-cli/node_modules/@rollup/pluginutils
+722 silly CHANGE node_modules/netlify-cli/node_modules/@pnpm/config.env-replace
+723 silly CHANGE node_modules/netlify-cli/node_modules/@parcel/watcher-wasm
+724 silly CHANGE node_modules/netlify-cli/node_modules/@parcel/watcher-win32-x64
+725 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/rest
+726 silly CHANGE node_modules/netlify-cli/node_modules/@parcel/watcher
+727 silly CHANGE node_modules/netlify-cli/node_modules/@parcel/watcher/node_modules/detect-libc
+728 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/request-error
+729 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/plugin-rest-endpoint-methods
+730 silly CHANGE node_modules/netlify-cli/node_modules/@opentelemetry/api
+731 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/types
+732 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/request
+733 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/plugin-request-log
+734 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/graphql
+735 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/plugin-paginate-rest
+736 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/openapi-types
+737 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/core
+738 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/node-cookies
+739 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/endpoint
+740 silly CHANGE node_modules/netlify-cli/node_modules/@octokit/auth-token
+741 silly CHANGE node_modules/netlify-cli/node_modules/@nodelib/fs.walk
+742 silly CHANGE node_modules/netlify-cli/node_modules/@nodelib/fs.stat
+743 silly CHANGE node_modules/netlify-cli/node_modules/@jridgewell/sourcemap-codec
+744 silly CHANGE node_modules/netlify-cli/node_modules/@mapbox/node-pre-gyp
+745 silly CHANGE node_modules/netlify-cli/node_modules/@mapbox/node-pre-gyp/node_modules/node-fetch
+746 silly CHANGE node_modules/netlify-cli/node_modules/@mapbox/node-pre-gyp/node_modules/https-proxy-agent
+747 silly CHANGE node_modules/netlify-cli/node_modules/@nodelib/fs.scandir
+748 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/local-functions-proxy
+749 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils
+750 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils/node_modules/npm-run-path
+751 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils/node_modules/strip-final-newline
+752 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils/node_modules/onetime
+753 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils/node_modules/human-signals
+754 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils/node_modules/is-stream
+755 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/run-utils/node_modules/execa
+756 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it
+757 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/@netlify/serverless-functions-api
+758 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/onetime
+759 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/path-exists
+760 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/strip-final-newline
+761 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/p-map
+762 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/human-signals
+763 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/minimatch
+764 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/npm-run-path
+765 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/is-stream
+766 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/find-up
+767 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/glob
+768 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/glob/node_modules/minimatch
+769 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/execa
+770 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/zip-it-and-ship-it/node_modules/brace-expansion
+771 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/plugins-list
+772 silly CHANGE node_modules/netlify-cli/node_modules/@jridgewell/trace-mapping
+773 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info
+774 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/p-map
+775 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/path-exists
+776 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/yocto-queue
+777 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/p-limit
+778 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/p-locate
+779 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/json-schema-traverse
+780 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/p-filter
+781 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/find-up
+782 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/framework-info/node_modules/ajv
+783 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/opentelemetry-utils
+784 silly CHANGE node_modules/netlify-cli/node_modules/@bugsnag/safe-json-stringify
+785 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/open-api
+786 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/functions-utils
+787 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/functions-utils/node_modules/path-exists
+788 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils
+789 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/strip-final-newline
+790 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/path-exists
+791 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/is-stream
+792 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/onetime
+793 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/map-obj
+794 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/npm-run-path
+795 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/human-signals
+796 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/git-utils/node_modules/execa
+797 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-functions
+798 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler
+799 silly ADD
+800 silly ADD
+801 silly ADD
+802 silly ADD
+803 silly ADD
+804 silly ADD
+805 silly ADD
+806 silly ADD
+807 silly ADD
+808 silly ADD
+809 silly ADD
+810 silly ADD
+811 silly ADD
+812 silly ADD
+813 silly ADD
+814 silly ADD
+815 silly ADD
+816 silly ADD
+817 silly ADD
+818 silly ADD
+819 silly ADD
+820 silly ADD
+821 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/@esbuild/win32-x64
+822 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/get-port
+823 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/p-timeout
+824 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/path-exists
+825 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/strip-final-newline
+826 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/p-wait-for
+827 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/npm-run-path
+828 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/find-up
+829 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/onetime
+830 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/json-schema-traverse
+831 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/is-stream
+832 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/human-signals
+833 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/fast-uri
+834 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/execa
+835 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/ajv-errors
+836 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/esbuild
+837 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/edge-bundler/node_modules/ajv
+838 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config
+839 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/yocto-queue
+840 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/path-type
+841 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/strip-final-newline
+842 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/path-exists
+843 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/p-locate
+844 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/p-limit
+845 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/npm-run-path
+846 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/onetime
+847 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/map-obj
+848 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/indent-string
+849 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/is-stream
+850 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/find-up
+851 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/execa
+852 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/human-signals
+853 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/figures
+854 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/dot-prop
+855 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/config/node_modules/escape-string-regexp
+856 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info
+857 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/dot-prop
+858 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/yaml
+859 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/find-up
+860 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/path-exists
+861 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/read-pkg
+862 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/minimatch
+863 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build-info/node_modules/brace-expansion
+864 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/cache-utils
+865 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/cache-utils/node_modules/slash
+866 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/cache-utils/node_modules/path-exists
+867 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/cache-utils/node_modules/globby
+868 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/blobs
+869 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/binary-info
+870 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build
+871 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/@netlify/blobs
+872 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/path-type
+873 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/strip-final-newline
+874 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/yocto-queue
+875 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/pkg-dir
+876 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/p-map
+877 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/path-exists
+878 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/string-width
+879 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/map-obj
+880 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/p-locate
+881 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/p-limit
+882 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/onetime
+883 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/p-filter
+884 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/p-filter/node_modules/p-map
+885 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/human-signals
+886 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/npm-run-path
+887 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/is-stream
+888 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/minimatch
+889 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/figures
+890 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/indent-string
+891 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/find-up
+892 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/emoji-regex
+893 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/brace-expansion
+894 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/escape-string-regexp
+895 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/execa
+896 silly CHANGE node_modules/netlify-cli/node_modules/@netlify/build/node_modules/ansi-escapes
+897 silly CHANGE node_modules/netlify-cli/node_modules/@lukeed/ms
+898 silly CHANGE node_modules/netlify-cli/node_modules/@jridgewell/resolve-uri
+899 silly CHANGE node_modules/netlify-cli/node_modules/@isaacs/cliui
+900 silly CHANGE node_modules/netlify-cli/node_modules/@isaacs/cliui/node_modules/wrap-ansi
+901 silly CHANGE node_modules/netlify-cli/node_modules/@isaacs/cliui/node_modules/emoji-regex
+902 silly CHANGE node_modules/netlify-cli/node_modules/@isaacs/cliui/node_modules/string-width
+903 silly CHANGE node_modules/netlify-cli/node_modules/@cspotcode/source-map-support
+904 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types
+905 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types/node_modules/@types/yargs
+906 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types/node_modules/supports-color
+907 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types/node_modules/ansi-styles
+908 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types/node_modules/color-name
+909 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types/node_modules/chalk
+910 silly CHANGE node_modules/netlify-cli/node_modules/@jest/types/node_modules/color-convert
+911 silly CHANGE node_modules/netlify-cli/node_modules/@ioredis/commands
+912 silly CHANGE node_modules/netlify-cli/node_modules/@bugsnag/cuid
+913 silly CHANGE node_modules/netlify-cli/node_modules/@import-maps/resolve
+914 silly CHANGE node_modules/netlify-cli/node_modules/yargs
+915 silly CHANGE node_modules/netlify-cli/node_modules/yargs/node_modules/yargs-parser
+916 silly CHANGE node_modules/netlify-cli/node_modules/yargs/node_modules/cliui
+917 silly CHANGE node_modules/netlify-cli/node_modules/yargs/node_modules/strip-ansi
+918 silly CHANGE node_modules/netlify-cli/node_modules/@iarna/toml
+919 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/send
+920 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/send/node_modules/depd
+921 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/send/node_modules/mime
+922 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/send/node_modules/http-errors
+923 silly CHANGE node_modules/netlify-cli/node_modules/@humanwhocodes/momoa
+924 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/static
+925 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/static/node_modules/minipass
+926 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/static/node_modules/minimatch
+927 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/static/node_modules/glob
+928 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/static/node_modules/brace-expansion
+929 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/error
+930 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/ajv-compiler
+931 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/ajv-compiler/node_modules/json-schema-traverse
+932 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/ajv-compiler/node_modules/ajv
+933 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/merge-json-schemas
+934 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/accept-negotiator
+935 silly CHANGE node_modules/netlify-cli/node_modules/@fastify/fast-json-stringify-compiler
+936 silly CHANGE node_modules/netlify-cli/node_modules/@esbuild/win32-x64
+937 silly CHANGE node_modules/netlify-cli/node_modules/@dabh/diagnostics
+938 silly CHANGE node_modules/netlify-cli/node_modules/@dependents/detective-less
+939 silly CHANGE node_modules/netlify-cli/node_modules/@colors/colors
+940 silly CHANGE node_modules/netlify-cli/node_modules/@babel/types
+941 silly CHANGE node_modules/netlify-cli/node_modules/@babel/code-frame
+942 silly CHANGE node_modules/netlify-cli/node_modules/@babel/helper-validator-identifier
+943 silly CHANGE node_modules/netlify-cli/node_modules/@babel/parser
+944 silly CHANGE node_modules/netlify-cli/node_modules/@babel/parser/node_modules/@babel/types
+945 silly CHANGE node_modules/netlify-cli/node_modules/@babel/helper-string-parser
+946 silly CHANGE node_modules/netlify-cli/node_modules/@bugsnag/js
+947 silly CHANGE node_modules/netlify-cli/node_modules/@bugsnag/core
+948 silly CHANGE node_modules/netlify-cli/node_modules/@bugsnag/node
+949 silly CHANGE node_modules/netlify-cli/node_modules/@bugsnag/browser
+950 silly CHANGE node_modules/netlify-cli/node_modules/y18n
+951 silly CHANGE node_modules/netlify-cli/node_modules/yn
+952 silly CHANGE node_modules/netlify-cli/node_modules/xtend
+953 silly CHANGE node_modules/netlify-cli/node_modules/zod
+954 silly CHANGE node_modules/netlify-cli/node_modules/zip-stream
+955 silly CHANGE node_modules/netlify-cli/node_modules/zip-stream/node_modules/string_decoder
+956 silly CHANGE node_modules/netlify-cli/node_modules/zip-stream/node_modules/safe-buffer
+957 silly CHANGE node_modules/netlify-cli/node_modules/zip-stream/node_modules/readable-stream
+958 silly CHANGE node_modules/netlify-cli/node_modules/zip-stream/node_modules/buffer
+959 silly CHANGE node_modules/netlify-cli/node_modules/yauzl
+960 silly CHANGE node_modules/netlify-cli/node_modules/yallist
+961 silly CHANGE node_modules/netlify-cli/node_modules/xss
+962 silly CHANGE node_modules/netlify-cli/node_modules/xss/node_modules/commander
+963 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi-cjs
+964 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi-cjs/node_modules/strip-ansi
+965 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi-cjs/node_modules/color-name
+966 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi-cjs/node_modules/color-convert
+967 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi-cjs/node_modules/ansi-styles
+968 silly CHANGE node_modules/netlify-cli/node_modules/xdg-basedir
+969 silly CHANGE node_modules/netlify-cli/node_modules/when-exit
+970 silly CHANGE node_modules/netlify-cli/node_modules/ws
+971 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi
+972 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi/node_modules/strip-ansi
+973 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi/node_modules/color-convert
+974 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi/node_modules/color-name
+975 silly CHANGE node_modules/netlify-cli/node_modules/wrap-ansi/node_modules/ansi-styles
+976 silly CHANGE node_modules/netlify-cli/node_modules/write-file-atomic
+977 silly CHANGE node_modules/netlify-cli/node_modules/write-file-atomic/node_modules/signal-exit
+978 silly CHANGE node_modules/netlify-cli/node_modules/whatwg-url
+979 silly CHANGE node_modules/netlify-cli/node_modules/whatwg-url/node_modules/webidl-conversions
+980 silly CHANGE node_modules/netlify-cli/node_modules/wrappy
+981 silly CHANGE node_modules/netlify-cli/node_modules/winston-transport
+982 silly CHANGE node_modules/netlify-cli/node_modules/windows-release
+983 silly CHANGE node_modules/netlify-cli/node_modules/winston
+984 silly CHANGE node_modules/netlify-cli/node_modules/winston/node_modules/@colors/colors
+985 silly CHANGE node_modules/netlify-cli/node_modules/winston/node_modules/is-stream
+986 silly CHANGE node_modules/netlify-cli/node_modules/widest-line
+987 silly CHANGE node_modules/netlify-cli/node_modules/widest-line/node_modules/emoji-regex
+988 silly CHANGE node_modules/netlify-cli/node_modules/widest-line/node_modules/string-width
+989 silly CHANGE node_modules/netlify-cli/node_modules/wide-align
+990 silly CHANGE node_modules/netlify-cli/node_modules/which
+991 silly CHANGE node_modules/netlify-cli/node_modules/which/node_modules/isexe
+992 silly CHANGE node_modules/netlify-cli/node_modules/web-streams-polyfill
+993 silly CHANGE node_modules/netlify-cli/node_modules/well-known-symbols
+994 silly CHANGE node_modules/netlify-cli/node_modules/v8-compile-cache-lib
+995 silly CHANGE node_modules/netlify-cli/node_modules/uqr
+996 silly CHANGE node_modules/netlify-cli/node_modules/wait-port
+997 silly CHANGE node_modules/netlify-cli/node_modules/wait-port/node_modules/commander
+998 silly CHANGE node_modules/netlify-cli/node_modules/wait-port/node_modules/supports-color
+999 silly CHANGE node_modules/netlify-cli/node_modules/wait-port/node_modules/color-name
+1000 silly CHANGE node_modules/netlify-cli/node_modules/wait-port/node_modules/color-convert
+1001 silly CHANGE node_modules/netlify-cli/node_modules/wait-port/node_modules/chalk
+1002 silly CHANGE node_modules/netlify-cli/node_modules/wait-port/node_modules/ansi-styles
+1003 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier
+1004 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/graceful-fs
+1005 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/type-fest
+1006 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/widest-line
+1007 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/wrap-ansi
+1008 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/configstore
+1009 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/emoji-regex
+1010 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/string-width
+1011 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/boxen
+1012 silly CHANGE node_modules/netlify-cli/node_modules/update-notifier/node_modules/camelcase
+1013 silly CHANGE node_modules/netlify-cli/node_modules/vary
+1014 silly CHANGE node_modules/netlify-cli/node_modules/validate-npm-package-name
+1015 silly CHANGE node_modules/netlify-cli/node_modules/untun
+1016 silly CHANGE node_modules/netlify-cli/node_modules/uuid
+1017 silly CHANGE node_modules/netlify-cli/node_modules/validate-npm-package-license
+1018 silly CHANGE node_modules/netlify-cli/node_modules/utils-merge
+1019 silly CHANGE node_modules/netlify-cli/node_modules/util-deprecate
+1020 silly CHANGE node_modules/netlify-cli/node_modules/urlpattern-polyfill
+1021 silly CHANGE node_modules/netlify-cli/node_modules/uri-js
+1022 silly CHANGE node_modules/netlify-cli/node_modules/untildify
+1023 silly CHANGE node_modules/netlify-cli/node_modules/ts-node
+1024 silly CHANGE node_modules/netlify-cli/node_modules/ts-node/node_modules/diff
+1025 silly CHANGE node_modules/netlify-cli/node_modules/universal-user-agent
+1026 silly CHANGE node_modules/netlify-cli/node_modules/undici-types
+1027 silly CHANGE node_modules/netlify-cli/node_modules/tr46
+1028 silly CHANGE node_modules/netlify-cli/node_modules/unixify
+1029 silly CHANGE node_modules/netlify-cli/node_modules/unixify/node_modules/normalize-path
+1030 silly CHANGE node_modules/netlify-cli/node_modules/unpipe
+1031 silly CHANGE node_modules/netlify-cli/node_modules/unicorn-magic
+1032 silly CHANGE node_modules/netlify-cli/node_modules/unique-string
+1033 silly CHANGE node_modules/netlify-cli/node_modules/ufo
+1034 silly CHANGE node_modules/netlify-cli/node_modules/type-fest
+1035 silly CHANGE node_modules/netlify-cli/node_modules/unenv
+1036 silly CHANGE node_modules/netlify-cli/node_modules/unenv/node_modules/mime
+1037 silly CHANGE node_modules/netlify-cli/node_modules/uncrypto
+1038 silly CHANGE node_modules/netlify-cli/node_modules/unbzip2-stream
+1039 silly CHANGE node_modules/netlify-cli/node_modules/ulid
+1040 silly CHANGE node_modules/netlify-cli/node_modules/uid-safe
+1041 silly CHANGE node_modules/netlify-cli/node_modules/typescript
+1042 silly CHANGE node_modules/netlify-cli/node_modules/typedarray-to-buffer
+1043 silly CHANGE node_modules/netlify-cli/node_modules/type-is
+1044 silly CHANGE node_modules/netlify-cli/node_modules/tunnel-agent
+1045 silly CHANGE node_modules/netlify-cli/node_modules/time-zone
+1046 silly CHANGE node_modules/netlify-cli/node_modules/tsutils
+1047 silly CHANGE node_modules/netlify-cli/node_modules/tslib
+1048 silly CHANGE node_modules/netlify-cli/node_modules/triple-beam
+1049 silly CHANGE node_modules/netlify-cli/node_modules/through2
+1050 silly CHANGE node_modules/netlify-cli/node_modules/toml
+1051 silly CHANGE node_modules/netlify-cli/node_modules/tomlify-j0.4
+1052 silly CHANGE node_modules/netlify-cli/node_modules/token-types
+1053 silly CHANGE node_modules/netlify-cli/node_modules/toad-cache
+1054 silly CHANGE node_modules/netlify-cli/node_modules/toidentifier
+1055 silly CHANGE node_modules/netlify-cli/node_modules/to-fast-properties
+1056 silly CHANGE node_modules/netlify-cli/node_modules/to-regex-range
+1057 silly CHANGE node_modules/netlify-cli/node_modules/tmp-promise
+1058 silly CHANGE node_modules/netlify-cli/node_modules/tmp-promise/node_modules/tmp
+1059 silly CHANGE node_modules/netlify-cli/node_modules/through2-filter
+1060 silly CHANGE node_modules/netlify-cli/node_modules/tmp
+1061 silly CHANGE node_modules/netlify-cli/node_modules/through2-map
+1062 silly CHANGE node_modules/netlify-cli/node_modules/tar
+1063 silly CHANGE node_modules/netlify-cli/node_modules/tar/node_modules/mkdirp
+1064 silly CHANGE node_modules/netlify-cli/node_modules/tabtab
+1065 silly CHANGE node_modules/netlify-cli/node_modules/svgo
+1066 silly CHANGE node_modules/netlify-cli/node_modules/svgo/node_modules/commander
+1067 silly CHANGE node_modules/netlify-cli/node_modules/through
+1068 silly CHANGE node_modules/netlify-cli/node_modules/thread-stream
+1069 silly CHANGE node_modules/netlify-cli/node_modules/text-hex
+1070 silly CHANGE node_modules/netlify-cli/node_modules/terminal-link
+1071 silly CHANGE node_modules/netlify-cli/node_modules/terminal-link/node_modules/type-fest
+1072 silly CHANGE node_modules/netlify-cli/node_modules/terminal-link/node_modules/ansi-escapes
+1073 silly CHANGE node_modules/netlify-cli/node_modules/system-architecture
+1074 silly CHANGE node_modules/netlify-cli/node_modules/tempy
+1075 silly CHANGE node_modules/netlify-cli/node_modules/tempy/node_modules/is-stream
+1076 silly CHANGE node_modules/netlify-cli/node_modules/temp-dir
+1077 silly CHANGE node_modules/netlify-cli/node_modules/tar-stream
+1078 silly CHANGE node_modules/netlify-cli/node_modules/tar-fs
+1079 silly CHANGE node_modules/netlify-cli/node_modules/string_decoder
+1080 silly CHANGE node_modules/netlify-cli/node_modules/supports-preserve-symlinks-flag
+1081 silly CHANGE node_modules/netlify-cli/node_modules/stubborn-fs
+1082 silly CHANGE node_modules/netlify-cli/node_modules/supports-hyperlinks
+1083 silly CHANGE node_modules/netlify-cli/node_modules/supports-hyperlinks/node_modules/supports-color
+1084 silly CHANGE node_modules/netlify-cli/node_modules/strip-ansi-cjs
+1085 silly CHANGE node_modules/netlify-cli/node_modules/supports-color
+1086 silly CHANGE node_modules/netlify-cli/node_modules/string-width-cjs
+1087 silly CHANGE node_modules/netlify-cli/node_modules/string-width-cjs/node_modules/strip-ansi
+1088 silly CHANGE node_modules/netlify-cli/node_modules/string-width-cjs/node_modules/is-fullwidth-code-point
+1089 silly CHANGE node_modules/netlify-cli/node_modules/strtok3
+1090 silly CHANGE node_modules/netlify-cli/node_modules/strip-final-newline
+1091 silly CHANGE node_modules/netlify-cli/node_modules/strip-dirs
+1092 silly CHANGE node_modules/netlify-cli/node_modules/strip-dirs/node_modules/is-plain-obj
+1093 silly CHANGE node_modules/netlify-cli/node_modules/string-width
+1094 silly CHANGE node_modules/netlify-cli/node_modules/string-width/node_modules/strip-ansi
+1095 silly CHANGE node_modules/netlify-cli/node_modules/string-width/node_modules/is-fullwidth-code-point
+1096 silly CHANGE node_modules/netlify-cli/node_modules/strip-ansi-control-characters
+1097 silly CHANGE node_modules/netlify-cli/node_modules/strip-ansi
+1098 silly CHANGE node_modules/netlify-cli/node_modules/strip-ansi/node_modules/ansi-regex
+1099 silly CHANGE node_modules/netlify-cli/node_modules/standard-as-callback
+1100 silly CHANGE node_modules/netlify-cli/node_modules/slice-ansi
+1101 silly CHANGE node_modules/netlify-cli/node_modules/std-env
+1102 silly CHANGE node_modules/netlify-cli/node_modules/streamx
+1103 silly CHANGE node_modules/netlify-cli/node_modules/stdin-discarder
+1104 silly CHANGE node_modules/netlify-cli/node_modules/statuses
+1105 silly CHANGE node_modules/netlify-cli/node_modules/repeat-string
+1106 silly CHANGE node_modules/netlify-cli/node_modules/stackframe
+1107 silly CHANGE node_modules/netlify-cli/node_modules/stack-trace
+1108 silly CHANGE node_modules/netlify-cli/node_modules/stack-generator
+1109 silly CHANGE node_modules/netlify-cli/node_modules/spdx-exceptions
+1110 silly CHANGE node_modules/netlify-cli/node_modules/spdx-license-ids
+1111 silly CHANGE node_modules/netlify-cli/node_modules/spdx-expression-parse
+1112 silly CHANGE node_modules/netlify-cli/node_modules/spdx-correct
+1113 silly CHANGE node_modules/netlify-cli/node_modules/source-map-support
+1114 silly CHANGE node_modules/netlify-cli/node_modules/require-from-string
+1115 silly CHANGE node_modules/netlify-cli/node_modules/source-map-js
+1116 silly CHANGE node_modules/netlify-cli/node_modules/sort-keys
+1117 silly CHANGE node_modules/netlify-cli/node_modules/sort-keys/node_modules/is-plain-obj
+1118 silly CHANGE node_modules/netlify-cli/node_modules/sort-keys-length
+1119 silly CHANGE node_modules/netlify-cli/node_modules/signal-exit
+1120 silly CHANGE node_modules/netlify-cli/node_modules/slash
+1121 silly CHANGE node_modules/netlify-cli/node_modules/source-map
+1122 silly CHANGE node_modules/netlify-cli/node_modules/simple-swizzle
+1123 silly CHANGE node_modules/netlify-cli/node_modules/simple-swizzle/node_modules/is-arrayish
+1124 silly CHANGE node_modules/netlify-cli/node_modules/simple-get
+1125 silly CHANGE node_modules/netlify-cli/node_modules/simple-concat
+1126 silly CHANGE node_modules/netlify-cli/node_modules/side-channel
+1127 silly CHANGE node_modules/netlify-cli/node_modules/shebang-command
+1128 silly CHANGE node_modules/netlify-cli/node_modules/shebang-regex
+1129 silly CHANGE node_modules/netlify-cli/node_modules/set-cookie-parser
+1130 silly CHANGE node_modules/netlify-cli/node_modules/sharp
+1131 silly CHANGE node_modules/netlify-cli/node_modules/sharp/node_modules/node-addon-api
+1132 silly CHANGE node_modules/netlify-cli/node_modules/sharp/node_modules/color
+1133 silly CHANGE node_modules/netlify-cli/node_modules/sharp/node_modules/color-name
+1134 silly CHANGE node_modules/netlify-cli/node_modules/sharp/node_modules/color-convert
+1135 silly CHANGE node_modules/netlify-cli/node_modules/set-function-length
+1136 silly CHANGE node_modules/netlify-cli/node_modules/setprototypeof
+1137 silly CHANGE node_modules/netlify-cli/node_modules/require-directory
+1138 silly CHANGE node_modules/netlify-cli/node_modules/set-blocking
+1139 silly CHANGE node_modules/netlify-cli/node_modules/serve-static
+1140 silly CHANGE node_modules/netlify-cli/node_modules/semver
+1141 silly CHANGE node_modules/netlify-cli/node_modules/send
+1142 silly CHANGE node_modules/netlify-cli/node_modules/send/node_modules/http-errors
+1143 silly CHANGE node_modules/netlify-cli/node_modules/send/node_modules/depd
+1144 silly CHANGE node_modules/netlify-cli/node_modules/send/node_modules/encodeurl
+1145 silly CHANGE node_modules/netlify-cli/node_modules/send/node_modules/debug
+1146 silly CHANGE node_modules/netlify-cli/node_modules/send/node_modules/debug/node_modules/ms
+1147 silly CHANGE node_modules/netlify-cli/node_modules/seek-bzip
+1148 silly CHANGE node_modules/netlify-cli/node_modules/seek-bzip/node_modules/commander
+1149 silly CHANGE node_modules/netlify-cli/node_modules/safer-buffer
+1150 silly CHANGE node_modules/netlify-cli/node_modules/secure-json-parse
+1151 silly CHANGE node_modules/netlify-cli/node_modules/safe-json-stringify
+1152 silly CHANGE node_modules/netlify-cli/node_modules/safe-stable-stringify
+1153 silly CHANGE node_modules/netlify-cli/node_modules/rxjs
+1154 silly CHANGE node_modules/netlify-cli/node_modules/safe-regex2
+1155 silly CHANGE node_modules/netlify-cli/node_modules/safe-regex2/node_modules/ret
+1156 silly CHANGE node_modules/netlify-cli/node_modules/run-parallel
+1157 silly CHANGE node_modules/netlify-cli/node_modules/safe-buffer
+1158 silly CHANGE node_modules/netlify-cli/node_modules/retry
+1159 silly CHANGE node_modules/netlify-cli/node_modules/run-async
+1160 silly CHANGE node_modules/netlify-cli/node_modules/reusify
+1161 silly CHANGE node_modules/netlify-cli/node_modules/rimraf
+1162 silly CHANGE node_modules/netlify-cli/node_modules/rfdc
+1163 silly CHANGE node_modules/netlify-cli/node_modules/restore-cursor
+1164 silly CHANGE node_modules/netlify-cli/node_modules/restore-cursor/node_modules/onetime
+1165 silly CHANGE node_modules/netlify-cli/node_modules/restore-cursor/node_modules/mimic-fn
+1166 silly CHANGE node_modules/netlify-cli/node_modules/responselike
+1167 silly CHANGE node_modules/netlify-cli/node_modules/resolve-from
+1168 silly CHANGE node_modules/netlify-cli/node_modules/resolve-alpn
+1169 silly CHANGE node_modules/netlify-cli/node_modules/resolve
+1170 silly CHANGE node_modules/netlify-cli/node_modules/redis-errors
+1171 silly CHANGE node_modules/netlify-cli/node_modules/requires-port
+1172 silly CHANGE node_modules/netlify-cli/node_modules/require-package-name
+1173 silly CHANGE node_modules/netlify-cli/node_modules/registry-auth-token
+1174 silly CHANGE node_modules/netlify-cli/node_modules/registry-url
+1175 silly CHANGE node_modules/netlify-cli/node_modules/redis-parser
+1176 silly CHANGE node_modules/netlify-cli/node_modules/real-require
+1177 silly CHANGE node_modules/netlify-cli/node_modules/remove-trailing-separator
+1178 silly CHANGE node_modules/netlify-cli/node_modules/readable-web-to-node-stream
+1179 silly CHANGE node_modules/netlify-cli/node_modules/react-is
+1180 silly CHANGE node_modules/netlify-cli/node_modules/pupa
+1181 silly CHANGE node_modules/netlify-cli/node_modules/readdirp
+1182 silly CHANGE node_modules/netlify-cli/node_modules/readdir-glob
+1183 silly CHANGE node_modules/netlify-cli/node_modules/readdir-glob/node_modules/minimatch
+1184 silly CHANGE node_modules/netlify-cli/node_modules/readdir-glob/node_modules/brace-expansion
+1185 silly CHANGE node_modules/netlify-cli/node_modules/punycode
+1186 silly CHANGE node_modules/netlify-cli/node_modules/readable-stream
+1187 silly CHANGE node_modules/netlify-cli/node_modules/prettyjson
+1188 silly CHANGE node_modules/netlify-cli/node_modules/read-pkg-up
+1189 silly CHANGE node_modules/netlify-cli/node_modules/read-pkg-up/node_modules/read-pkg
+1190 silly CHANGE node_modules/netlify-cli/node_modules/read-pkg-up/node_modules/find-up
+1191 silly CHANGE node_modules/netlify-cli/node_modules/read-pkg-up/node_modules/path-exists
+1192 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up
+1193 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up/node_modules/type-fest
+1194 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up/node_modules/normalize-package-data
+1195 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up/node_modules/read-pkg
+1196 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up/node_modules/parse-json
+1197 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up/node_modules/hosted-git-info
+1198 silly CHANGE node_modules/netlify-cli/node_modules/read-package-up/node_modules/lru-cache
+1199 silly CHANGE node_modules/netlify-cli/node_modules/raw-body
+1200 silly CHANGE node_modules/netlify-cli/node_modules/raw-body/node_modules/http-errors
+1201 silly CHANGE node_modules/netlify-cli/node_modules/raw-body/node_modules/depd
+1202 silly CHANGE node_modules/netlify-cli/node_modules/rc
+1203 silly CHANGE node_modules/netlify-cli/node_modules/rc/node_modules/strip-json-comments
+1204 silly CHANGE node_modules/netlify-cli/node_modules/rc/node_modules/ini
+1205 silly CHANGE node_modules/netlify-cli/node_modules/range-parser
+1206 silly CHANGE node_modules/netlify-cli/node_modules/radix3
+1207 silly CHANGE node_modules/netlify-cli/node_modules/random-bytes
+1208 silly CHANGE node_modules/netlify-cli/node_modules/queue-tick
+1209 silly CHANGE node_modules/netlify-cli/node_modules/quote-unquote
+1210 silly CHANGE node_modules/netlify-cli/node_modules/quick-format-unescaped
+1211 silly CHANGE node_modules/netlify-cli/node_modules/quick-lru
+1212 silly CHANGE node_modules/netlify-cli/node_modules/proto-list
+1213 silly CHANGE node_modules/netlify-cli/node_modules/queue-microtask
+1214 silly CHANGE node_modules/netlify-cli/node_modules/qs
+1215 silly CHANGE node_modules/netlify-cli/node_modules/pump
+1216 silly CHANGE node_modules/netlify-cli/node_modules/pretty-format
+1217 silly CHANGE node_modules/netlify-cli/node_modules/pretty-format/node_modules/ansi-styles
+1218 silly CHANGE node_modules/netlify-cli/node_modules/ps-list
+1219 silly CHANGE node_modules/netlify-cli/node_modules/precond
+1220 silly CHANGE node_modules/netlify-cli/node_modules/proxy-addr
+1221 silly CHANGE node_modules/netlify-cli/node_modules/process-nextick-args
+1222 silly CHANGE node_modules/netlify-cli/node_modules/pino-abstract-transport
+1223 silly CHANGE node_modules/netlify-cli/node_modules/pino-abstract-transport/node_modules/split2
+1224 silly CHANGE node_modules/netlify-cli/node_modules/pino-abstract-transport/node_modules/readable-stream
+1225 silly CHANGE node_modules/netlify-cli/node_modules/pino-abstract-transport/node_modules/string_decoder
+1226 silly CHANGE node_modules/netlify-cli/node_modules/pino-abstract-transport/node_modules/safe-buffer
+1227 silly CHANGE node_modules/netlify-cli/node_modules/pino-abstract-transport/node_modules/buffer
+1228 silly CHANGE node_modules/netlify-cli/node_modules/process
+1229 silly CHANGE node_modules/netlify-cli/node_modules/pkg-types
+1230 silly CHANGE node_modules/netlify-cli/node_modules/parse-github-url
+1231 silly CHANGE node_modules/netlify-cli/node_modules/pretty-ms
+1232 silly CHANGE node_modules/netlify-cli/node_modules/precinct
+1233 silly CHANGE node_modules/netlify-cli/node_modules/postcss-values-parser
+1234 silly CHANGE node_modules/netlify-cli/node_modules/postcss-values-parser/node_modules/color-name
+1235 silly CHANGE node_modules/netlify-cli/node_modules/prebuild-install
+1236 silly CHANGE node_modules/netlify-cli/node_modules/prebuild-install/node_modules/tar-stream
+1237 silly CHANGE node_modules/netlify-cli/node_modules/prebuild-install/node_modules/chownr
+1238 silly CHANGE node_modules/netlify-cli/node_modules/prebuild-install/node_modules/tar-fs
+1239 silly CHANGE node_modules/netlify-cli/node_modules/postcss
+1240 silly CHANGE node_modules/netlify-cli/node_modules/pino-std-serializers
+1241 silly CHANGE node_modules/netlify-cli/node_modules/path-parse
+1242 silly CHANGE node_modules/netlify-cli/node_modules/parallel-transform
+1243 silly CHANGE node_modules/netlify-cli/node_modules/parallel-transform/node_modules/readable-stream
+1244 silly CHANGE node_modules/netlify-cli/node_modules/pino
+1245 silly CHANGE node_modules/netlify-cli/node_modules/pino/node_modules/process-warning
+1246 silly CHANGE node_modules/netlify-cli/node_modules/pino/node_modules/sonic-boom
+1247 silly CHANGE node_modules/netlify-cli/node_modules/picomatch
+1248 silly CHANGE node_modules/netlify-cli/node_modules/picocolors
+1249 silly CHANGE node_modules/netlify-cli/node_modules/pend
+1250 silly CHANGE node_modules/netlify-cli/node_modules/peek-readable
+1251 silly CHANGE node_modules/netlify-cli/node_modules/path-type
+1252 silly CHANGE node_modules/netlify-cli/node_modules/pathe
+1253 silly CHANGE node_modules/netlify-cli/node_modules/path-scurry
+1254 silly CHANGE node_modules/netlify-cli/node_modules/path-scurry/node_modules/lru-cache
+1255 silly CHANGE node_modules/netlify-cli/node_modules/path-to-regexp
+1256 silly CHANGE node_modules/netlify-cli/node_modules/nth-check
+1257 silly CHANGE node_modules/netlify-cli/node_modules/path-key
+1258 silly CHANGE node_modules/netlify-cli/node_modules/path-is-absolute
+1259 silly CHANGE node_modules/netlify-cli/node_modules/parseurl
+1260 silly CHANGE node_modules/netlify-cli/node_modules/parse-ms
+1261 silly CHANGE node_modules/netlify-cli/node_modules/parse-json
+1262 silly CHANGE node_modules/netlify-cli/node_modules/open
+1263 silly CHANGE node_modules/netlify-cli/node_modules/open/node_modules/is-docker
+1264 silly CHANGE node_modules/netlify-cli/node_modules/open/node_modules/is-wsl
+1265 silly CHANGE node_modules/netlify-cli/node_modules/parse-gitignore
+1266 silly CHANGE node_modules/netlify-cli/node_modules/package-json
+1267 silly CHANGE node_modules/netlify-cli/node_modules/node-addon-api
+1268 silly CHANGE node_modules/netlify-cli/node_modules/p-retry
+1269 silly CHANGE node_modules/netlify-cli/node_modules/p-wait-for
+1270 silly CHANGE node_modules/netlify-cli/node_modules/p-every
+1271 silly CHANGE node_modules/netlify-cli/node_modules/p-every/node_modules/p-map
+1272 silly CHANGE node_modules/netlify-cli/node_modules/p-filter
+1273 silly CHANGE node_modules/netlify-cli/node_modules/p-timeout
+1274 silly CHANGE node_modules/netlify-cli/node_modules/p-map
+1275 silly CHANGE node_modules/netlify-cli/node_modules/p-event
+1276 silly CHANGE node_modules/netlify-cli/node_modules/p-event/node_modules/p-timeout
+1277 silly CHANGE node_modules/netlify-cli/node_modules/p-reduce
+1278 silly CHANGE node_modules/netlify-cli/node_modules/p-finally
+1279 silly CHANGE node_modules/netlify-cli/node_modules/p-cancelable
+1280 silly CHANGE node_modules/netlify-cli/node_modules/os-tmpdir
+1281 silly CHANGE node_modules/netlify-cli/node_modules/ora
+1282 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/restore-cursor
+1283 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/signal-exit
+1284 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/string-width
+1285 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/emoji-regex
+1286 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/is-unicode-supported
+1287 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/onetime
+1288 silly CHANGE node_modules/netlify-cli/node_modules/ora/node_modules/cli-cursor
+1289 silly CHANGE node_modules/netlify-cli/node_modules/onetime
+1290 silly CHANGE node_modules/netlify-cli/node_modules/onetime/node_modules/mimic-fn
+1291 silly CHANGE node_modules/netlify-cli/node_modules/os-name
+1292 silly CHANGE node_modules/netlify-cli/node_modules/one-time
+1293 silly CHANGE node_modules/netlify-cli/node_modules/once
+1294 silly CHANGE node_modules/netlify-cli/node_modules/on-headers
+1295 silly CHANGE node_modules/netlify-cli/node_modules/ohash
+1296 silly CHANGE node_modules/netlify-cli/node_modules/on-finished
+1297 silly CHANGE node_modules/netlify-cli/node_modules/omit.js
+1298 silly CHANGE node_modules/netlify-cli/node_modules/ofetch
+1299 silly CHANGE node_modules/netlify-cli/node_modules/on-exit-leak-free
+1300 silly CHANGE node_modules/netlify-cli/node_modules/normalize-node-version
+1301 silly CHANGE node_modules/netlify-cli/node_modules/object-assign
+1302 silly CHANGE node_modules/netlify-cli/node_modules/object-inspect
+1303 silly CHANGE node_modules/netlify-cli/node_modules/node-version-alias
+1304 silly CHANGE node_modules/netlify-cli/node_modules/node-version-alias/node_modules/path-exists
+1305 silly CHANGE node_modules/netlify-cli/node_modules/npmlog
+1306 silly CHANGE node_modules/netlify-cli/node_modules/npm-run-path
+1307 silly CHANGE node_modules/netlify-cli/node_modules/npm-run-path/node_modules/path-key
+1308 silly CHANGE node_modules/netlify-cli/node_modules/normalize-url
+1309 silly CHANGE node_modules/netlify-cli/node_modules/normalize-path
+1310 silly CHANGE node_modules/netlify-cli/node_modules/normalize-package-data
+1311 silly CHANGE node_modules/netlify-cli/node_modules/node-forge
+1312 silly CHANGE node_modules/netlify-cli/node_modules/nopt
+1313 silly CHANGE node_modules/netlify-cli/node_modules/mri
+1314 silly CHANGE node_modules/netlify-cli/node_modules/node-gyp-build
+1315 silly CHANGE node_modules/netlify-cli/node_modules/node-source-walk
+1316 silly CHANGE node_modules/netlify-cli/node_modules/node-fetch-native
+1317 silly CHANGE node_modules/netlify-cli/node_modules/node-stream-zip
+1318 silly CHANGE node_modules/netlify-cli/node_modules/node-fetch
+1319 silly CHANGE node_modules/netlify-cli/node_modules/minizlib
+1320 silly CHANGE node_modules/netlify-cli/node_modules/minizlib/node_modules/minipass
+1321 silly CHANGE node_modules/netlify-cli/node_modules/mkdirp
+1322 silly CHANGE node_modules/netlify-cli/node_modules/node-domexception
+1323 silly CHANGE node_modules/netlify-cli/node_modules/netlify-headers-parser
+1324 silly CHANGE node_modules/netlify-cli/node_modules/netlify-headers-parser/node_modules/map-obj
+1325 silly CHANGE node_modules/netlify-cli/node_modules/netlify-headers-parser/node_modules/path-exists
+1326 silly CHANGE node_modules/netlify-cli/node_modules/netlify-headers-parser/node_modules/escape-string-regexp
+1327 silly CHANGE node_modules/netlify-cli/node_modules/node-abi
+1328 silly CHANGE node_modules/netlify-cli/node_modules/netlify-redirector
+1329 silly CHANGE node_modules/netlify-cli/node_modules/netlify-redirect-parser
+1330 silly CHANGE node_modules/netlify-cli/node_modules/netlify-redirect-parser/node_modules/path-exists
+1331 silly CHANGE node_modules/netlify-cli/node_modules/nested-error-stacks
+1332 silly CHANGE node_modules/netlify-cli/node_modules/netlify
+1333 silly CHANGE node_modules/netlify-cli/node_modules/netlify/node_modules/p-wait-for
+1334 silly CHANGE node_modules/netlify-cli/node_modules/netlify/node_modules/p-timeout
+1335 silly CHANGE node_modules/netlify-cli/node_modules/negotiator
+1336 silly CHANGE node_modules/netlify-cli/node_modules/napi-build-utils
+1337 silly CHANGE node_modules/netlify-cli/node_modules/ms
+1338 silly CHANGE node_modules/netlify-cli/node_modules/nanoid
+1339 silly CHANGE node_modules/netlify-cli/node_modules/mute-stream
+1340 silly CHANGE node_modules/netlify-cli/node_modules/multiparty
+1341 silly CHANGE node_modules/netlify-cli/node_modules/multiparty/node_modules/safe-buffer
+1342 silly CHANGE node_modules/netlify-cli/node_modules/mlly
+1343 silly CHANGE node_modules/netlify-cli/node_modules/move-file
+1344 silly CHANGE node_modules/netlify-cli/node_modules/move-file/node_modules/path-exists
+1345 silly CHANGE node_modules/netlify-cli/node_modules/md5-hex
+1346 silly CHANGE node_modules/netlify-cli/node_modules/moize
+1347 silly CHANGE node_modules/netlify-cli/node_modules/mdn-data
+1348 silly CHANGE node_modules/netlify-cli/node_modules/module-definition
+1349 silly CHANGE node_modules/netlify-cli/node_modules/mkdirp-classic
+1350 silly CHANGE node_modules/netlify-cli/node_modules/minipass
+1351 silly CHANGE node_modules/netlify-cli/node_modules/minimist
+1352 silly CHANGE node_modules/netlify-cli/node_modules/mimic-response
+1353 silly CHANGE node_modules/netlify-cli/node_modules/minimatch
+1354 silly CHANGE node_modules/netlify-cli/node_modules/mimic-function
+1355 silly CHANGE node_modules/netlify-cli/node_modules/mimic-fn
+1356 silly CHANGE node_modules/netlify-cli/node_modules/mime-types
+1357 silly CHANGE node_modules/netlify-cli/node_modules/mime-db
+1358 silly CHANGE node_modules/netlify-cli/node_modules/micromatch
+1359 silly CHANGE node_modules/netlify-cli/node_modules/mime
+1360 silly CHANGE node_modules/netlify-cli/node_modules/micro-memoize
+1361 silly CHANGE node_modules/netlify-cli/node_modules/methods
+1362 silly CHANGE node_modules/netlify-cli/node_modules/micro-api-client
+1363 silly CHANGE node_modules/netlify-cli/node_modules/merge2
+1364 silly CHANGE node_modules/netlify-cli/node_modules/merge-options
+1365 silly CHANGE node_modules/netlify-cli/node_modules/merge-options/node_modules/is-plain-obj
+1366 silly CHANGE node_modules/netlify-cli/node_modules/merge-stream
+1367 silly CHANGE node_modules/netlify-cli/node_modules/maxstache-stream
+1368 silly CHANGE node_modules/netlify-cli/node_modules/maxstache-stream/node_modules/through2
+1369 silly CHANGE node_modules/netlify-cli/node_modules/maxstache-stream/node_modules/pump
+1370 silly CHANGE node_modules/netlify-cli/node_modules/maxstache-stream/node_modules/split2
+1371 silly CHANGE node_modules/netlify-cli/node_modules/maxstache-stream/node_modules/readable-stream
+1372 silly CHANGE node_modules/netlify-cli/node_modules/merge-descriptors
+1373 silly CHANGE node_modules/netlify-cli/node_modules/memoize-one
+1374 silly CHANGE node_modules/netlify-cli/node_modules/maxstache
+1375 silly CHANGE node_modules/netlify-cli/node_modules/make-error
+1376 silly CHANGE node_modules/netlify-cli/node_modules/log-update
+1377 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/restore-cursor
+1378 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/slice-ansi
+1379 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/wrap-ansi
+1380 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/string-width
+1381 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/onetime
+1382 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/signal-exit
+1383 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/is-fullwidth-code-point
+1384 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/cli-cursor
+1385 silly CHANGE node_modules/netlify-cli/node_modules/log-update/node_modules/emoji-regex
+1386 silly CHANGE node_modules/netlify-cli/node_modules/media-typer
+1387 silly CHANGE node_modules/netlify-cli/node_modules/log-process-errors
+1388 silly CHANGE node_modules/netlify-cli/node_modules/log-process-errors/node_modules/map-obj
+1389 silly CHANGE node_modules/netlify-cli/node_modules/log-process-errors/node_modules/figures
+1390 silly CHANGE node_modules/netlify-cli/node_modules/log-process-errors/node_modules/escape-string-regexp
+1391 silly CHANGE node_modules/netlify-cli/node_modules/log-process-errors/node_modules/filter-obj
+1392 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isarguments
+1393 silly CHANGE node_modules/netlify-cli/node_modules/macos-release
+1394 silly CHANGE node_modules/netlify-cli/node_modules/make-dir
+1395 silly CHANGE node_modules/netlify-cli/node_modules/make-dir/node_modules/semver
+1396 silly CHANGE node_modules/netlify-cli/node_modules/lru-cache
+1397 silly CHANGE node_modules/netlify-cli/node_modules/lowercase-keys
+1398 silly CHANGE node_modules/netlify-cli/node_modules/luxon
+1399 silly CHANGE node_modules/netlify-cli/node_modules/lodash.defaults
+1400 silly CHANGE node_modules/netlify-cli/node_modules/logform
+1401 silly CHANGE node_modules/netlify-cli/node_modules/log-symbols
+1402 silly CHANGE node_modules/netlify-cli/node_modules/listr2
+1403 silly CHANGE node_modules/netlify-cli/node_modules/listr2/node_modules/wrap-ansi
+1404 silly CHANGE node_modules/netlify-cli/node_modules/listr2/node_modules/eventemitter3
+1405 silly CHANGE node_modules/netlify-cli/node_modules/listr2/node_modules/string-width
+1406 silly CHANGE node_modules/netlify-cli/node_modules/listr2/node_modules/emoji-regex
+1407 silly CHANGE node_modules/netlify-cli/node_modules/lodash.once
+1408 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isnumber
+1409 silly CHANGE node_modules/netlify-cli/node_modules/lodash.transform
+1410 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isstring
+1411 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isinteger
+1412 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isplainobject
+1413 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isempty
+1414 silly CHANGE node_modules/netlify-cli/node_modules/lodash.isboolean
+1415 silly CHANGE node_modules/netlify-cli/node_modules/light-my-request
+1416 silly CHANGE node_modules/netlify-cli/node_modules/light-my-request/node_modules/process-warning
+1417 silly CHANGE node_modules/netlify-cli/node_modules/lodash.includes
+1418 silly CHANGE node_modules/netlify-cli/node_modules/lodash.deburr
+1419 silly CHANGE node_modules/netlify-cli/node_modules/listhen
+1420 silly CHANGE node_modules/netlify-cli/node_modules/lodash-es
+1421 silly CHANGE node_modules/netlify-cli/node_modules/lodash
+1422 silly CHANGE node_modules/netlify-cli/node_modules/locate-path
+1423 silly CHANGE node_modules/netlify-cli/node_modules/locate-path/node_modules/yocto-queue
+1424 silly CHANGE node_modules/netlify-cli/node_modules/locate-path/node_modules/p-locate
+1425 silly CHANGE node_modules/netlify-cli/node_modules/locate-path/node_modules/p-limit
+1426 silly CHANGE node_modules/netlify-cli/node_modules/jsonc-parser
+1427 silly CHANGE node_modules/netlify-cli/node_modules/ky
+1428 silly CHANGE node_modules/netlify-cli/node_modules/lazystream
+1429 silly CHANGE node_modules/netlify-cli/node_modules/lazystream/node_modules/readable-stream
+1430 silly CHANGE node_modules/netlify-cli/node_modules/lines-and-columns
+1431 silly CHANGE node_modules/netlify-cli/node_modules/leven
+1432 silly CHANGE node_modules/netlify-cli/node_modules/json-schema-traverse
+1433 silly CHANGE node_modules/netlify-cli/node_modules/latest-version
+1434 silly CHANGE node_modules/netlify-cli/node_modules/jiti
+1435 silly CHANGE node_modules/netlify-cli/node_modules/lambda-local
+1436 silly CHANGE node_modules/netlify-cli/node_modules/kuler
+1437 silly CHANGE node_modules/netlify-cli/node_modules/kind-of
+1438 silly CHANGE node_modules/netlify-cli/node_modules/keyv
+1439 silly CHANGE node_modules/netlify-cli/node_modules/keep-func-props
+1440 silly CHANGE node_modules/netlify-cli/node_modules/jwt-decode
+1441 silly CHANGE node_modules/netlify-cli/node_modules/jsonpointer
+1442 silly CHANGE node_modules/netlify-cli/node_modules/junk
+1443 silly CHANGE node_modules/netlify-cli/node_modules/jws
+1444 silly CHANGE node_modules/netlify-cli/node_modules/jwa
+1445 silly CHANGE node_modules/netlify-cli/node_modules/jsonwebtoken
+1446 silly CHANGE node_modules/netlify-cli/node_modules/jest-get-type
+1447 silly CHANGE node_modules/netlify-cli/node_modules/jest-validate
+1448 silly CHANGE node_modules/netlify-cli/node_modules/jest-validate/node_modules/ansi-styles
+1449 silly CHANGE node_modules/netlify-cli/node_modules/jest-validate/node_modules/color-convert
+1450 silly CHANGE node_modules/netlify-cli/node_modules/jest-validate/node_modules/supports-color
+1451 silly CHANGE node_modules/netlify-cli/node_modules/jest-validate/node_modules/color-name
+1452 silly CHANGE node_modules/netlify-cli/node_modules/jest-validate/node_modules/chalk
+1453 silly CHANGE node_modules/netlify-cli/node_modules/json-schema-ref-resolver
+1454 silly CHANGE node_modules/netlify-cli/node_modules/json-parse-even-better-errors
+1455 silly CHANGE node_modules/netlify-cli/node_modules/json-buffer
+1456 silly CHANGE node_modules/netlify-cli/node_modules/js-yaml
+1457 silly CHANGE node_modules/netlify-cli/node_modules/js-tokens
+1458 silly CHANGE node_modules/netlify-cli/node_modules/is64bit
+1459 silly CHANGE node_modules/netlify-cli/node_modules/is-npm
+1460 silly CHANGE node_modules/netlify-cli/node_modules/js-string-escape
+1461 silly CHANGE node_modules/netlify-cli/node_modules/jackspeak
+1462 silly CHANGE node_modules/netlify-cli/node_modules/is-installed-globally
+1463 silly CHANGE node_modules/netlify-cli/node_modules/isexe
+1464 silly CHANGE node_modules/netlify-cli/node_modules/iserror
+1465 silly CHANGE node_modules/netlify-cli/node_modules/is-wsl
+1466 silly CHANGE node_modules/netlify-cli/node_modules/isarray
+1467 silly CHANGE node_modules/netlify-cli/node_modules/is-url-superb
+1468 silly CHANGE node_modules/netlify-cli/node_modules/is-url
+1469 silly CHANGE node_modules/netlify-cli/node_modules/is-unicode-supported
+1470 silly CHANGE node_modules/netlify-cli/node_modules/is-plain-obj
+1471 silly CHANGE node_modules/netlify-cli/node_modules/is-typedarray
+1472 silly CHANGE node_modules/netlify-cli/node_modules/is-stream
+1473 silly CHANGE node_modules/netlify-cli/node_modules/is-path-inside
+1474 silly CHANGE node_modules/netlify-cli/node_modules/is-obj
+1475 silly CHANGE node_modules/netlify-cli/node_modules/is-fullwidth-code-point
+1476 silly CHANGE node_modules/netlify-cli/node_modules/ioredis
+1477 silly CHANGE node_modules/netlify-cli/node_modules/is-in-ci
+1478 silly CHANGE node_modules/netlify-cli/node_modules/is-number
+1479 silly CHANGE node_modules/netlify-cli/node_modules/is-interactive
+1480 silly CHANGE node_modules/netlify-cli/node_modules/is-inside-container
+1481 silly CHANGE node_modules/netlify-cli/node_modules/http-shutdown
+1482 silly CHANGE node_modules/netlify-cli/node_modules/is-glob
+1483 silly CHANGE node_modules/netlify-cli/node_modules/is-extglob
+1484 silly CHANGE node_modules/netlify-cli/node_modules/hasbin
+1485 silly CHANGE node_modules/netlify-cli/node_modules/hasbin/node_modules/async
+1486 silly CHANGE node_modules/netlify-cli/node_modules/is-docker
+1487 silly CHANGE node_modules/netlify-cli/node_modules/is-core-module
+1488 silly CHANGE node_modules/netlify-cli/node_modules/is-builtin-module
+1489 silly CHANGE node_modules/netlify-cli/node_modules/is-binary-path
+1490 silly CHANGE node_modules/netlify-cli/node_modules/ipx
+1491 silly CHANGE node_modules/netlify-cli/node_modules/ipx/node_modules/@netlify/blobs
+1492 silly CHANGE node_modules/netlify-cli/node_modules/ipx/node_modules/unstorage
+1493 silly CHANGE node_modules/netlify-cli/node_modules/ipx/node_modules/lru-cache
+1494 silly CHANGE node_modules/netlify-cli/node_modules/is-arrayish
+1495 silly CHANGE node_modules/netlify-cli/node_modules/iron-webcrypto
+1496 silly CHANGE node_modules/netlify-cli/node_modules/ipaddr.js
+1497 silly CHANGE node_modules/netlify-cli/node_modules/hasha
+1498 silly CHANGE node_modules/netlify-cli/node_modules/hasha/node_modules/type-fest
+1499 silly CHANGE node_modules/netlify-cli/node_modules/hasha/node_modules/is-stream
+1500 silly CHANGE node_modules/netlify-cli/node_modules/inspect-with-kind
+1501 silly CHANGE node_modules/netlify-cli/node_modules/inquirer
+1502 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/supports-color
+1503 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/string-width
+1504 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/string-width/node_modules/ansi-regex
+1505 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/string-width/node_modules/strip-ansi
+1506 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/strip-ansi
+1507 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/is-fullwidth-code-point
+1508 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/figures
+1509 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/has-flag
+1510 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/escape-string-regexp
+1511 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/chalk
+1512 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/ansi-styles
+1513 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/ansi-escapes
+1514 silly CHANGE node_modules/netlify-cli/node_modules/inquirer/node_modules/ansi-regex
+1515 silly CHANGE node_modules/netlify-cli/node_modules/index-to-position
+1516 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt
+1517 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/type-fest
+1518 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/supports-color
+1519 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/color-name
+1520 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/color-convert
+1521 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/ansi-styles
+1522 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/chalk
+1523 silly CHANGE node_modules/netlify-cli/node_modules/inquirer-autocomplete-prompt/node_modules/ansi-escapes
+1524 silly CHANGE node_modules/netlify-cli/node_modules/inherits
+1525 silly CHANGE node_modules/netlify-cli/node_modules/inflight
+1526 silly CHANGE node_modules/netlify-cli/node_modules/image-meta
+1527 silly CHANGE node_modules/netlify-cli/node_modules/imurmurhash
+1528 silly CHANGE node_modules/netlify-cli/node_modules/ieee754
+1529 silly CHANGE node_modules/netlify-cli/node_modules/ignore
+1530 silly CHANGE node_modules/netlify-cli/node_modules/human-signals
+1531 silly CHANGE node_modules/netlify-cli/node_modules/https-proxy-agent
+1532 silly CHANGE node_modules/netlify-cli/node_modules/https-proxy-agent/node_modules/agent-base
+1533 silly CHANGE node_modules/netlify-cli/node_modules/http-proxy-middleware
+1534 silly CHANGE node_modules/netlify-cli/node_modules/http-proxy-middleware/node_modules/is-plain-obj
+1535 silly CHANGE node_modules/netlify-cli/node_modules/iconv-lite
+1536 silly CHANGE node_modules/netlify-cli/node_modules/has-own-prop
+1537 silly CHANGE node_modules/netlify-cli/node_modules/http2-wrapper
+1538 silly CHANGE node_modules/netlify-cli/node_modules/http-errors
+1539 silly CHANGE node_modules/netlify-cli/node_modules/http-errors/node_modules/statuses
+1540 silly CHANGE node_modules/netlify-cli/node_modules/http-proxy
+1541 silly CHANGE node_modules/netlify-cli/node_modules/hot-shots
+1542 silly CHANGE node_modules/netlify-cli/node_modules/http-cache-semantics
+1543 silly CHANGE node_modules/netlify-cli/node_modules/hasown
+1544 silly CHANGE node_modules/netlify-cli/node_modules/hosted-git-info
+1545 silly CHANGE node_modules/netlify-cli/node_modules/global-cache-dir
+1546 silly CHANGE node_modules/netlify-cli/node_modules/global-cache-dir/node_modules/path-exists
+1547 silly CHANGE node_modules/netlify-cli/node_modules/global-directory
+1548 silly CHANGE node_modules/netlify-cli/node_modules/global-directory/node_modules/ini
+1549 silly CHANGE node_modules/netlify-cli/node_modules/has-symbols
+1550 silly CHANGE node_modules/netlify-cli/node_modules/has-proto
+1551 silly CHANGE node_modules/netlify-cli/node_modules/has-unicode
+1552 silly CHANGE node_modules/netlify-cli/node_modules/has-property-descriptors
+1553 silly CHANGE node_modules/netlify-cli/node_modules/has-flag
+1554 silly CHANGE node_modules/netlify-cli/node_modules/h3
+1555 silly CHANGE node_modules/netlify-cli/node_modules/gitconfiglocal
+1556 silly CHANGE node_modules/netlify-cli/node_modules/gitconfiglocal/node_modules/ini
+1557 silly CHANGE node_modules/netlify-cli/node_modules/has
+1558 silly CHANGE node_modules/netlify-cli/node_modules/graceful-fs
+1559 silly CHANGE node_modules/netlify-cli/node_modules/got
+1560 silly CHANGE node_modules/netlify-cli/node_modules/gopd
+1561 silly CHANGE node_modules/netlify-cli/node_modules/gonzales-pe
+1562 silly CHANGE node_modules/netlify-cli/node_modules/git-repo-info
+1563 silly CHANGE node_modules/netlify-cli/node_modules/globby
+1564 silly CHANGE node_modules/netlify-cli/node_modules/glob
+1565 silly CHANGE node_modules/netlify-cli/node_modules/glob-parent
+1566 silly CHANGE node_modules/netlify-cli/node_modules/get-port-please
+1567 silly CHANGE node_modules/netlify-cli/node_modules/get-caller-file
+1568 silly CHANGE node_modules/netlify-cli/node_modules/fs-minipass
+1569 silly CHANGE node_modules/netlify-cli/node_modules/fs-minipass/node_modules/minipass
+1570 silly CHANGE node_modules/netlify-cli/node_modules/gh-release-fetch
+1571 silly CHANGE node_modules/netlify-cli/node_modules/github-from-package
+1572 silly CHANGE node_modules/netlify-cli/node_modules/get-stream
+1573 silly CHANGE node_modules/netlify-cli/node_modules/from2-array
+1574 silly CHANGE node_modules/netlify-cli/node_modules/get-package-name
+1575 silly CHANGE node_modules/netlify-cli/node_modules/get-port
+1576 silly CHANGE node_modules/netlify-cli/node_modules/get-intrinsic
+1577 silly CHANGE node_modules/netlify-cli/node_modules/get-amd-module-type
+1578 silly CHANGE node_modules/netlify-cli/node_modules/gauge
+1579 silly CHANGE node_modules/netlify-cli/node_modules/gauge/node_modules/strip-ansi
+1580 silly CHANGE node_modules/netlify-cli/node_modules/get-east-asian-width
+1581 silly CHANGE node_modules/netlify-cli/node_modules/fuzzy
+1582 silly CHANGE node_modules/netlify-cli/node_modules/function-bind
+1583 silly CHANGE node_modules/netlify-cli/node_modules/foreground-child
+1584 silly CHANGE node_modules/netlify-cli/node_modules/foreground-child/node_modules/signal-exit
+1585 silly CHANGE node_modules/netlify-cli/node_modules/from2
+1586 silly CHANGE node_modules/netlify-cli/node_modules/from2/node_modules/readable-stream
+1587 silly CHANGE node_modules/netlify-cli/node_modules/folder-walker
+1588 silly CHANGE node_modules/netlify-cli/node_modules/fs.realpath
+1589 silly CHANGE node_modules/netlify-cli/node_modules/fs-constants
+1590 silly CHANGE node_modules/netlify-cli/node_modules/fresh
+1591 silly CHANGE node_modules/netlify-cli/node_modules/formdata-polyfill
+1592 silly CHANGE node_modules/netlify-cli/node_modules/forwarded
+1593 silly CHANGE node_modules/netlify-cli/node_modules/form-data-encoder
+1594 silly CHANGE node_modules/netlify-cli/node_modules/fetch-node-website
+1595 silly CHANGE node_modules/netlify-cli/node_modules/fetch-node-website/node_modules/colors-option
+1596 silly CHANGE node_modules/netlify-cli/node_modules/fetch-node-website/node_modules/escape-string-regexp
+1597 silly CHANGE node_modules/netlify-cli/node_modules/fetch-node-website/node_modules/figures
+1598 silly CHANGE node_modules/netlify-cli/node_modules/flush-write-stream
+1599 silly CHANGE node_modules/netlify-cli/node_modules/fecha
+1600 silly CHANGE node_modules/netlify-cli/node_modules/follow-redirects
+1601 silly CHANGE node_modules/netlify-cli/node_modules/fast-json-stable-stringify
+1602 silly CHANGE node_modules/netlify-cli/node_modules/fn.name
+1603 silly CHANGE node_modules/netlify-cli/node_modules/find-up-simple
+1604 silly CHANGE node_modules/netlify-cli/node_modules/find-my-way
+1605 silly CHANGE node_modules/netlify-cli/node_modules/find-up
+1606 silly CHANGE node_modules/netlify-cli/node_modules/find-up/node_modules/path-exists
+1607 silly CHANGE node_modules/netlify-cli/node_modules/finalhandler
+1608 silly CHANGE node_modules/netlify-cli/node_modules/finalhandler/node_modules/ms
+1609 silly CHANGE node_modules/netlify-cli/node_modules/finalhandler/node_modules/debug
+1610 silly CHANGE node_modules/netlify-cli/node_modules/file-uri-to-path
+1611 silly CHANGE node_modules/netlify-cli/node_modules/filter-obj
+1612 silly CHANGE node_modules/netlify-cli/node_modules/fill-range
+1613 silly CHANGE node_modules/netlify-cli/node_modules/file-type
+1614 silly CHANGE node_modules/netlify-cli/node_modules/figures
+1615 silly CHANGE node_modules/netlify-cli/node_modules/figures/node_modules/escape-string-regexp
+1616 silly CHANGE node_modules/netlify-cli/node_modules/esprima
+1617 silly CHANGE node_modules/netlify-cli/node_modules/fetch-blob
+1618 silly CHANGE node_modules/netlify-cli/node_modules/events
+1619 silly CHANGE node_modules/netlify-cli/node_modules/fdir
+1620 silly CHANGE node_modules/netlify-cli/node_modules/fastq
+1621 silly CHANGE node_modules/netlify-cli/node_modules/fastest-levenshtein
+1622 silly CHANGE node_modules/netlify-cli/node_modules/fd-slicer
+1623 silly CHANGE node_modules/netlify-cli/node_modules/fastify-plugin
+1624 silly CHANGE node_modules/netlify-cli/node_modules/fastify
+1625 silly CHANGE node_modules/netlify-cli/node_modules/fastify/node_modules/process-warning
+1626 silly CHANGE node_modules/netlify-cli/node_modules/fast-safe-stringify
+1627 silly CHANGE node_modules/netlify-cli/node_modules/fast-uri
+1628 silly CHANGE node_modules/netlify-cli/node_modules/fast-redact
+1629 silly CHANGE node_modules/netlify-cli/node_modules/event-target-shim
+1630 silly CHANGE node_modules/netlify-cli/node_modules/fast-querystring
+1631 silly CHANGE node_modules/netlify-cli/node_modules/fast-json-stringify
+1632 silly CHANGE node_modules/netlify-cli/node_modules/fast-json-stringify/node_modules/ajv-formats
+1633 silly CHANGE node_modules/netlify-cli/node_modules/fast-json-stringify/node_modules/json-schema-traverse
+1634 silly CHANGE node_modules/netlify-cli/node_modules/fast-json-stringify/node_modules/ajv
+1635 silly CHANGE node_modules/netlify-cli/node_modules/fast-glob
+1636 silly CHANGE node_modules/netlify-cli/node_modules/fast-diff
+1637 silly CHANGE node_modules/netlify-cli/node_modules/fast-fifo
+1638 silly CHANGE node_modules/netlify-cli/node_modules/fast-equals
+1639 silly CHANGE node_modules/netlify-cli/node_modules/fast-decode-uri-component
+1640 silly CHANGE node_modules/netlify-cli/node_modules/fast-deep-equal
+1641 silly CHANGE node_modules/netlify-cli/node_modules/fast-content-type-parse
+1642 silly CHANGE node_modules/netlify-cli/node_modules/ext-name
+1643 silly CHANGE node_modules/netlify-cli/node_modules/extract-zip
+1644 silly CHANGE node_modules/netlify-cli/node_modules/extract-zip/node_modules/get-stream
+1645 silly CHANGE node_modules/netlify-cli/node_modules/external-editor
+1646 silly CHANGE node_modules/netlify-cli/node_modules/express-logging
+1647 silly CHANGE node_modules/netlify-cli/node_modules/ext-list
+1648 silly CHANGE node_modules/netlify-cli/node_modules/express
+1649 silly CHANGE node_modules/netlify-cli/node_modules/express/node_modules/safe-buffer
+1650 silly CHANGE node_modules/netlify-cli/node_modules/express/node_modules/http-errors
+1651 silly CHANGE node_modules/netlify-cli/node_modules/express/node_modules/ms
+1652 silly CHANGE node_modules/netlify-cli/node_modules/express/node_modules/depd
+1653 silly CHANGE node_modules/netlify-cli/node_modules/express/node_modules/debug
+1654 silly CHANGE node_modules/netlify-cli/node_modules/express/node_modules/cookie
+1655 silly CHANGE node_modules/netlify-cli/node_modules/expand-template
+1656 silly CHANGE node_modules/netlify-cli/node_modules/execa
+1657 silly CHANGE node_modules/netlify-cli/node_modules/execa/node_modules/is-stream
+1658 silly CHANGE node_modules/netlify-cli/node_modules/etag
+1659 silly CHANGE node_modules/netlify-cli/node_modules/es6-promisify
+1660 silly CHANGE node_modules/netlify-cli/node_modules/escalade
+1661 silly CHANGE node_modules/netlify-cli/node_modules/eventemitter3
+1662 silly CHANGE node_modules/netlify-cli/node_modules/estraverse
+1663 silly CHANGE node_modules/netlify-cli/node_modules/esutils
+1664 silly CHANGE node_modules/netlify-cli/node_modules/environment
+1665 silly CHANGE node_modules/netlify-cli/node_modules/estree-walker
+1666 silly CHANGE node_modules/netlify-cli/node_modules/escodegen
+1667 silly CHANGE node_modules/netlify-cli/node_modules/escape-goat
+1668 silly CHANGE node_modules/netlify-cli/node_modules/escape-html
+1669 silly CHANGE node_modules/netlify-cli/node_modules/esbuild
+1670 silly CHANGE node_modules/netlify-cli/node_modules/domutils
+1671 silly CHANGE node_modules/netlify-cli/node_modules/es-errors
+1672 silly CHANGE node_modules/netlify-cli/node_modules/error-stack-parser
+1673 silly CHANGE node_modules/netlify-cli/node_modules/es-module-lexer
+1674 silly CHANGE node_modules/netlify-cli/node_modules/es-define-property
+1675 silly CHANGE node_modules/netlify-cli/node_modules/env-paths
+1676 silly CHANGE node_modules/netlify-cli/node_modules/domelementtype
+1677 silly CHANGE node_modules/netlify-cli/node_modules/envinfo
+1678 silly CHANGE node_modules/netlify-cli/node_modules/error-ex
+1679 silly CHANGE node_modules/netlify-cli/node_modules/end-of-stream
+1680 silly CHANGE node_modules/netlify-cli/node_modules/entities
+1681 silly CHANGE node_modules/netlify-cli/node_modules/define-lazy-prop
+1682 silly CHANGE node_modules/netlify-cli/node_modules/enabled
+1683 silly CHANGE node_modules/netlify-cli/node_modules/domhandler
+1684 silly CHANGE node_modules/netlify-cli/node_modules/denque
+1685 silly CHANGE node_modules/netlify-cli/node_modules/encodeurl
+1686 silly CHANGE node_modules/netlify-cli/node_modules/emoji-regex
+1687 silly CHANGE node_modules/netlify-cli/node_modules/ee-first
+1688 silly CHANGE node_modules/netlify-cli/node_modules/dotenv
+1689 silly CHANGE node_modules/netlify-cli/node_modules/eastasianwidth
+1690 silly CHANGE node_modules/netlify-cli/node_modules/dom-serializer
+1691 silly CHANGE node_modules/netlify-cli/node_modules/ecdsa-sig-formatter
+1692 silly CHANGE node_modules/netlify-cli/node_modules/dot-prop
+1693 silly CHANGE node_modules/netlify-cli/node_modules/dot-prop/node_modules/type-fest
+1694 silly CHANGE node_modules/netlify-cli/node_modules/deprecation
+1695 silly CHANGE node_modules/netlify-cli/node_modules/detective-typescript
+1696 silly CHANGE node_modules/netlify-cli/node_modules/detective-typescript/node_modules/@typescript-eslint/types
+1697 silly CHANGE node_modules/netlify-cli/node_modules/detective-typescript/node_modules/@typescript-eslint/visitor-keys
+1698 silly CHANGE node_modules/netlify-cli/node_modules/detective-typescript/node_modules/@typescript-eslint/typescript-estree
+1699 silly CHANGE node_modules/netlify-cli/node_modules/detective-typescript/node_modules/typescript
+1700 silly CHANGE node_modules/netlify-cli/node_modules/detective-typescript/node_modules/eslint-visitor-keys
+1701 silly CHANGE node_modules/netlify-cli/node_modules/dir-glob
+1702 silly CHANGE node_modules/netlify-cli/node_modules/detective-scss
+1703 silly CHANGE node_modules/netlify-cli/node_modules/detective-sass
+1704 silly CHANGE node_modules/netlify-cli/node_modules/detective-stylus
+1705 silly CHANGE node_modules/netlify-cli/node_modules/detective-postcss
+1706 silly CHANGE node_modules/netlify-cli/node_modules/detective-amd
+1707 silly CHANGE node_modules/netlify-cli/node_modules/detective-es6
+1708 silly CHANGE node_modules/netlify-cli/node_modules/detect-libc
+1709 silly CHANGE node_modules/netlify-cli/node_modules/destroy
+1710 silly CHANGE node_modules/netlify-cli/node_modules/detective-cjs
+1711 silly CHANGE node_modules/netlify-cli/node_modules/destr
+1712 silly CHANGE node_modules/netlify-cli/node_modules/cyclist
+1713 silly CHANGE node_modules/netlify-cli/node_modules/delegates
+1714 silly CHANGE node_modules/netlify-cli/node_modules/depd
+1715 silly CHANGE node_modules/netlify-cli/node_modules/define-data-property
+1716 silly CHANGE node_modules/netlify-cli/node_modules/date-time
+1717 silly CHANGE node_modules/netlify-cli/node_modules/defu
+1718 silly CHANGE node_modules/netlify-cli/node_modules/defer-to-connect
+1719 silly CHANGE node_modules/netlify-cli/node_modules/deepmerge
+1720 silly CHANGE node_modules/netlify-cli/node_modules/deep-extend
+1721 silly CHANGE node_modules/netlify-cli/node_modules/debug
+1722 silly CHANGE node_modules/netlify-cli/node_modules/csso
+1723 silly CHANGE node_modules/netlify-cli/node_modules/csso/node_modules/css-tree
+1724 silly CHANGE node_modules/netlify-cli/node_modules/csso/node_modules/mdn-data
+1725 silly CHANGE node_modules/netlify-cli/node_modules/decompress-response
+1726 silly CHANGE node_modules/netlify-cli/node_modules/decompress-response/node_modules/mimic-response
+1727 silly CHANGE node_modules/netlify-cli/node_modules/cssfilter
+1728 silly CHANGE node_modules/netlify-cli/node_modules/decache
+1729 silly CHANGE node_modules/netlify-cli/node_modules/css-tree
+1730 silly CHANGE node_modules/netlify-cli/node_modules/data-uri-to-buffer
+1731 silly CHANGE node_modules/netlify-cli/node_modules/css-what
+1732 silly CHANGE node_modules/netlify-cli/node_modules/css-select
+1733 silly CHANGE node_modules/netlify-cli/node_modules/crossws
+1734 silly CHANGE node_modules/netlify-cli/node_modules/create-require
+1735 silly CHANGE node_modules/netlify-cli/node_modules/consola
+1736 silly CHANGE node_modules/netlify-cli/node_modules/config-chain
+1737 silly CHANGE node_modules/netlify-cli/node_modules/config-chain/node_modules/ini
+1738 silly CHANGE node_modules/netlify-cli/node_modules/crypto-random-string
+1739 silly CHANGE node_modules/netlify-cli/node_modules/crypto-random-string/node_modules/type-fest
+1740 silly CHANGE node_modules/netlify-cli/node_modules/cron-parser
+1741 silly CHANGE node_modules/netlify-cli/node_modules/concordance
+1742 silly CHANGE node_modules/netlify-cli/node_modules/cross-spawn
+1743 silly CHANGE node_modules/netlify-cli/node_modules/cross-spawn/node_modules/path-key
+1744 silly CHANGE node_modules/netlify-cli/node_modules/crc-32
+1745 silly CHANGE node_modules/netlify-cli/node_modules/crc32-stream
+1746 silly CHANGE node_modules/netlify-cli/node_modules/crc32-stream/node_modules/string_decoder
+1747 silly CHANGE node_modules/netlify-cli/node_modules/crc32-stream/node_modules/safe-buffer
+1748 silly CHANGE node_modules/netlify-cli/node_modules/crc32-stream/node_modules/readable-stream
+1749 silly CHANGE node_modules/netlify-cli/node_modules/crc32-stream/node_modules/buffer
+1750 silly CHANGE node_modules/netlify-cli/node_modules/cookie-signature
+1751 silly CHANGE node_modules/netlify-cli/node_modules/cpy
+1752 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/p-timeout
+1753 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/slash
+1754 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/p-map
+1755 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/p-filter
+1756 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/p-event
+1757 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/cp-file
+1758 silly CHANGE node_modules/netlify-cli/node_modules/cpy/node_modules/globby
+1759 silly CHANGE node_modules/netlify-cli/node_modules/cp-file
+1760 silly CHANGE node_modules/netlify-cli/node_modules/core-util-is
+1761 silly CHANGE node_modules/netlify-cli/node_modules/cookie-es
+1762 silly CHANGE node_modules/netlify-cli/node_modules/cookie
+1763 silly CHANGE node_modules/netlify-cli/node_modules/content-type
+1764 silly CHANGE node_modules/netlify-cli/node_modules/content-disposition
+1765 silly CHANGE node_modules/netlify-cli/node_modules/content-disposition/node_modules/safe-buffer
+1766 silly CHANGE node_modules/netlify-cli/node_modules/console-control-strings
+1767 silly CHANGE node_modules/netlify-cli/node_modules/colors-option
+1768 silly CHANGE node_modules/netlify-cli/node_modules/colors-option/node_modules/filter-obj
+1769 silly CHANGE node_modules/netlify-cli/node_modules/colors
+1770 silly CHANGE node_modules/netlify-cli/node_modules/comment-json
+1771 silly CHANGE node_modules/netlify-cli/node_modules/comment-json/node_modules/core-util-is
+1772 silly CHANGE node_modules/netlify-cli/node_modules/compress-commons
+1773 silly CHANGE node_modules/netlify-cli/node_modules/compress-commons/node_modules/safe-buffer
+1774 silly CHANGE node_modules/netlify-cli/node_modules/compress-commons/node_modules/string_decoder
+1775 silly CHANGE node_modules/netlify-cli/node_modules/compress-commons/node_modules/readable-stream
+1776 silly CHANGE node_modules/netlify-cli/node_modules/compress-commons/node_modules/is-stream
+1777 silly CHANGE node_modules/netlify-cli/node_modules/compress-commons/node_modules/buffer
+1778 silly CHANGE node_modules/netlify-cli/node_modules/configstore
+1779 silly CHANGE node_modules/netlify-cli/node_modules/configstore/node_modules/write-file-atomic
+1780 silly CHANGE node_modules/netlify-cli/node_modules/configstore/node_modules/dot-prop
+1781 silly CHANGE node_modules/netlify-cli/node_modules/common-path-prefix
+1782 silly CHANGE node_modules/netlify-cli/node_modules/concat-map
+1783 silly CHANGE node_modules/netlify-cli/node_modules/colorette
+1784 silly CHANGE node_modules/netlify-cli/node_modules/cluster-key-slot
+1785 silly CHANGE node_modules/netlify-cli/node_modules/commander
+1786 silly CHANGE node_modules/netlify-cli/node_modules/colorspace
+1787 silly CHANGE node_modules/netlify-cli/node_modules/cli-truncate
+1788 silly CHANGE node_modules/netlify-cli/node_modules/cli-truncate/node_modules/string-width
+1789 silly CHANGE node_modules/netlify-cli/node_modules/cli-truncate/node_modules/emoji-regex
+1790 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy
+1791 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/signal-exit
+1792 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/npm-run-path
+1793 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/onetime
+1794 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/strip-final-newline
+1795 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/is-stream
+1796 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/get-stream
+1797 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/human-signals
+1798 silly CHANGE node_modules/netlify-cli/node_modules/clipboardy/node_modules/execa
+1799 silly CHANGE node_modules/netlify-cli/node_modules/color-name
+1800 silly CHANGE node_modules/netlify-cli/node_modules/color-support
+1801 silly CHANGE node_modules/netlify-cli/node_modules/color-convert
+1802 silly CHANGE node_modules/netlify-cli/node_modules/color-string
+1803 silly CHANGE node_modules/netlify-cli/node_modules/cli-progress
+1804 silly CHANGE node_modules/netlify-cli/node_modules/chownr
+1805 silly CHANGE node_modules/netlify-cli/node_modules/camelcase
+1806 silly CHANGE node_modules/netlify-cli/node_modules/color
+1807 silly CHANGE node_modules/netlify-cli/node_modules/cli-width
+1808 silly CHANGE node_modules/netlify-cli/node_modules/cli-spinners
+1809 silly CHANGE node_modules/netlify-cli/node_modules/cli-boxes
+1810 silly CHANGE node_modules/netlify-cli/node_modules/clean-deep
+1811 silly CHANGE node_modules/netlify-cli/node_modules/cli-cursor
+1812 silly CHANGE node_modules/netlify-cli/node_modules/citty
+1813 silly CHANGE node_modules/netlify-cli/node_modules/clean-stack
+1814 silly CHANGE node_modules/netlify-cli/node_modules/clean-stack/node_modules/escape-string-regexp
+1815 silly CHANGE node_modules/netlify-cli/node_modules/buffer
+1816 silly CHANGE node_modules/netlify-cli/node_modules/ci-info
+1817 silly CHANGE node_modules/netlify-cli/node_modules/boolbase
+1818 silly CHANGE node_modules/netlify-cli/node_modules/chardet
+1819 silly CHANGE node_modules/netlify-cli/node_modules/chokidar
+1820 silly CHANGE node_modules/netlify-cli/node_modules/chalk
+1821 silly CHANGE node_modules/netlify-cli/node_modules/call-bind
+1822 silly CHANGE node_modules/netlify-cli/node_modules/blueimp-md5
+1823 silly CHANGE node_modules/netlify-cli/node_modules/callsite
+1824 silly CHANGE node_modules/netlify-cli/node_modules/cacheable-request
+1825 silly CHANGE node_modules/netlify-cli/node_modules/cacheable-lookup
+1826 silly CHANGE node_modules/netlify-cli/node_modules/cachedir
+1827 silly CHANGE node_modules/netlify-cli/node_modules/bytes
+1828 silly CHANGE node_modules/netlify-cli/node_modules/builtin-modules
+1829 silly CHANGE node_modules/netlify-cli/node_modules/byline
+1830 silly CHANGE node_modules/netlify-cli/node_modules/builtins
+1831 silly CHANGE node_modules/netlify-cli/node_modules/buffer-crc32
+1832 silly CHANGE node_modules/netlify-cli/node_modules/buffer-from
+1833 silly CHANGE node_modules/netlify-cli/node_modules/buffer-equal-constant-time
+1834 silly CHANGE node_modules/netlify-cli/node_modules/before-after-hook
+1835 silly CHANGE node_modules/netlify-cli/node_modules/braces
+1836 silly CHANGE node_modules/netlify-cli/node_modules/base64-js
+1837 silly CHANGE node_modules/netlify-cli/node_modules/boxen
+1838 silly CHANGE node_modules/netlify-cli/node_modules/boxen/node_modules/string-width
+1839 silly CHANGE node_modules/netlify-cli/node_modules/boxen/node_modules/wrap-ansi
+1840 silly CHANGE node_modules/netlify-cli/node_modules/boxen/node_modules/emoji-regex
+1841 silly CHANGE node_modules/netlify-cli/node_modules/boxen/node_modules/camelcase
+1842 silly CHANGE node_modules/netlify-cli/node_modules/brace-expansion
+1843 silly CHANGE node_modules/netlify-cli/node_modules/atomically
+1844 silly CHANGE node_modules/netlify-cli/node_modules/body-parser
+1845 silly CHANGE node_modules/netlify-cli/node_modules/body-parser/node_modules/ms
+1846 silly CHANGE node_modules/netlify-cli/node_modules/body-parser/node_modules/http-errors
+1847 silly CHANGE node_modules/netlify-cli/node_modules/body-parser/node_modules/depd
+1848 silly CHANGE node_modules/netlify-cli/node_modules/body-parser/node_modules/debug
+1849 silly CHANGE node_modules/netlify-cli/node_modules/binary-extensions
+1850 silly CHANGE node_modules/netlify-cli/node_modules/bl
+1851 silly CHANGE node_modules/netlify-cli/node_modules/bindings
+1852 silly CHANGE node_modules/netlify-cli/node_modules/better-ajv-errors
+1853 silly CHANGE node_modules/netlify-cli/node_modules/better-ajv-errors/node_modules/color-convert
+1854 silly CHANGE node_modules/netlify-cli/node_modules/better-ajv-errors/node_modules/color-name
+1855 silly CHANGE node_modules/netlify-cli/node_modules/better-ajv-errors/node_modules/supports-color
+1856 silly CHANGE node_modules/netlify-cli/node_modules/better-ajv-errors/node_modules/chalk
+1857 silly CHANGE node_modules/netlify-cli/node_modules/better-ajv-errors/node_modules/ansi-styles
+1858 silly CHANGE node_modules/netlify-cli/node_modules/better-opn
+1859 silly CHANGE node_modules/netlify-cli/node_modules/backoff
+1860 silly CHANGE node_modules/netlify-cli/node_modules/array-timsort
+1861 silly CHANGE node_modules/netlify-cli/node_modules/argparse
+1862 silly CHANGE node_modules/netlify-cli/node_modules/balanced-match
+1863 silly CHANGE node_modules/netlify-cli/node_modules/avvio
+1864 silly CHANGE node_modules/netlify-cli/node_modules/ascii-table
+1865 silly CHANGE node_modules/netlify-cli/node_modules/atomic-sleep
+1866 silly CHANGE node_modules/netlify-cli/node_modules/b4a
+1867 silly CHANGE node_modules/netlify-cli/node_modules/arg
+1868 silly CHANGE node_modules/netlify-cli/node_modules/ast-module-types
+1869 silly CHANGE node_modules/netlify-cli/node_modules/async
+1870 silly CHANGE node_modules/netlify-cli/node_modules/async-sema
+1871 silly CHANGE node_modules/netlify-cli/node_modules/ajv
+1872 silly CHANGE node_modules/netlify-cli/node_modules/arrify
+1873 silly CHANGE node_modules/netlify-cli/node_modules/array-union
+1874 silly CHANGE node_modules/netlify-cli/node_modules/ajv-formats
+1875 silly CHANGE node_modules/netlify-cli/node_modules/ajv-formats/node_modules/ajv
+1876 silly CHANGE node_modules/netlify-cli/node_modules/ajv-formats/node_modules/json-schema-traverse
+1877 silly CHANGE node_modules/netlify-cli/node_modules/archy
+1878 silly CHANGE node_modules/netlify-cli/node_modules/array-flatten
+1879 silly CHANGE node_modules/netlify-cli/node_modules/ansi-escapes
+1880 silly CHANGE node_modules/netlify-cli/node_modules/archiver
+1881 silly CHANGE node_modules/netlify-cli/node_modules/archiver/node_modules/buffer
+1882 silly CHANGE node_modules/netlify-cli/node_modules/archiver/node_modules/safe-buffer
+1883 silly CHANGE node_modules/netlify-cli/node_modules/archiver/node_modules/string_decoder
+1884 silly CHANGE node_modules/netlify-cli/node_modules/archiver/node_modules/readable-stream
+1885 silly CHANGE node_modules/netlify-cli/node_modules/archiver/node_modules/buffer-crc32
+1886 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils
+1887 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/jackspeak
+1888 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/string_decoder
+1889 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/safe-buffer
+1890 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/buffer
+1891 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/minipass
+1892 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/readable-stream
+1893 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/minimatch
+1894 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/is-stream
+1895 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/glob
+1896 silly CHANGE node_modules/netlify-cli/node_modules/archiver-utils/node_modules/brace-expansion
+1897 silly CHANGE node_modules/netlify-cli/node_modules/are-we-there-yet
+1898 silly CHANGE node_modules/netlify-cli/node_modules/anymatch
+1899 silly CHANGE node_modules/netlify-cli/node_modules/abort-controller
+1900 silly CHANGE node_modules/netlify-cli/node_modules/aproba
+1901 silly CHANGE node_modules/netlify-cli/node_modules/all-node-versions
+1902 silly CHANGE node_modules/netlify-cli/node_modules/all-node-versions/node_modules/write-file-atomic
+1903 silly CHANGE node_modules/netlify-cli/node_modules/all-node-versions/node_modules/path-exists
+1904 silly CHANGE node_modules/netlify-cli/node_modules/ansi-styles
+1905 silly CHANGE node_modules/netlify-cli/node_modules/ansi-to-html
+1906 silly CHANGE node_modules/netlify-cli/node_modules/ansi-to-html/node_modules/entities
+1907 silly CHANGE node_modules/netlify-cli/node_modules/agent-base
+1908 silly CHANGE node_modules/netlify-cli/node_modules/acorn-walk
+1909 silly CHANGE node_modules/netlify-cli/node_modules/ansi-regex
+1910 silly CHANGE node_modules/netlify-cli/node_modules/ansi-align
+1911 silly CHANGE node_modules/netlify-cli/node_modules/aggregate-error
+1912 silly CHANGE node_modules/netlify-cli/node_modules/aggregate-error/node_modules/indent-string
+1913 silly CHANGE node_modules/netlify-cli/node_modules/acorn-import-attributes
+1914 silly CHANGE node_modules/netlify-cli/node_modules/abstract-logging
+1915 silly CHANGE node_modules/netlify-cli/node_modules/accepts
+1916 silly CHANGE node_modules/netlify-cli/node_modules/acorn
+1917 silly CHANGE node_modules/netlify-cli/node_modules/abbrev
+1918 verbose cwd D:\Project\Git\dhlektor
+1919 verbose os Windows_NT 10.0.22631
+1920 verbose node v22.10.0
+1921 verbose npm  v10.9.0
+1922 verbose exit 0
+1923 info ok

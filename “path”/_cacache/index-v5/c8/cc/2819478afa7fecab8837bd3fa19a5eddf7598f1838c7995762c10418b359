@@ -1,0 +1,2 @@
+
+c9b89c15864608e76bb7617e83f180ad10ad0c86	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/log-update","integrity":null,"time":1733917102188,"size":"262","metadata":{"time":1733917102188,"url":"http://registry.npm.taobao.org/log-update","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/log-update"},"options":{"compress":true},"status":301}}

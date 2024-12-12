@@ -1,0 +1,2 @@
+
+ed60c29793f4cebc134311266ba1045a837dc0bb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lit-html/-/lit-html-3.2.1.tgz","integrity":null,"time":1733830382285,"size":"262","metadata":{"time":1733830382285,"url":"http://registry.npm.taobao.org/lit-html/-/lit-html-3.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/lit-html/-/lit-html-3.2.1.tgz"},"options":{"compress":true},"status":301}}

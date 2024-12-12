@@ -1,0 +1,2 @@
+
+659816240c3369a194855d390637adba0f507b39	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/gh-release-fetch","integrity":null,"time":1733917101306,"size":"262","metadata":{"time":1733917101304,"url":"http://registry.npm.taobao.org/gh-release-fetch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/gh-release-fetch"},"options":{"compress":true},"status":301}}

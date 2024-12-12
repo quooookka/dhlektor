@@ -1,0 +1,2 @@
+
+ce6a2764508fdcc736ce9ccd8dd5779a48d0ddbc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cacheable-lookup/-/cacheable-lookup-7.0.0.tgz","integrity":null,"time":1733917126069,"size":"262","metadata":{"time":1733917126069,"url":"http://registry.npm.taobao.org/cacheable-lookup/-/cacheable-lookup-7.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:46 GMT","location":"https://registry.npmmirror.com/cacheable-lookup/-/cacheable-lookup-7.0.0.tgz"},"options":{"compress":true},"status":301}}

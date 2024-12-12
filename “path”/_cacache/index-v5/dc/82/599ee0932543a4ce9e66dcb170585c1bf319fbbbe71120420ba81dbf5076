@@ -1,0 +1,2 @@
+
+769f1a5a3f49caa1539087aa7bb60f80c869fb58	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tabtab","integrity":null,"time":1733917103235,"size":"262","metadata":{"time":1733917103235,"url":"http://registry.npm.taobao.org/tabtab","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/tabtab"},"options":{"compress":true},"status":301}}

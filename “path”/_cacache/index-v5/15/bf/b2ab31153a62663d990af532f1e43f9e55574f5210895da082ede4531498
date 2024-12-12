@@ -1,0 +1,2 @@
+
+7efee86b0247f839e512aec8f1f4a3a7ea33c616	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ioredis/-/ioredis-5.3.2.tgz","integrity":null,"time":1733917119048,"size":"262","metadata":{"time":1733917119048,"url":"http://registry.npm.taobao.org/ioredis/-/ioredis-5.3.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/ioredis/-/ioredis-5.3.2.tgz"},"options":{"compress":true},"status":301}}

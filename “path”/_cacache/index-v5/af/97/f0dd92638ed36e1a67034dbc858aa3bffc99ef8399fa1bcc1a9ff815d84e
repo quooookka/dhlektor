@@ -1,0 +1,2 @@
+
+0c70519ab925e9ba9be672dea8ee44ed291b5806	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/through2-map","integrity":null,"time":1733917103361,"size":"262","metadata":{"time":1733917103361,"url":"http://registry.npm.taobao.org/through2-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/through2-map"},"options":{"compress":true},"status":301}}

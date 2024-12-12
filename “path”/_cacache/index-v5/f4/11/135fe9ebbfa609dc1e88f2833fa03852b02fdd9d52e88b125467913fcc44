@@ -1,0 +1,2 @@
+
+d6b0de0d96234edae8738566ae6e718b188ff397	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mimic-response/-/mimic-response-4.0.0.tgz","integrity":null,"time":1733917116128,"size":"262","metadata":{"time":1733917116128,"url":"http://registry.npm.taobao.org/mimic-response/-/mimic-response-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/mimic-response/-/mimic-response-4.0.0.tgz"},"options":{"compress":true},"status":301}}

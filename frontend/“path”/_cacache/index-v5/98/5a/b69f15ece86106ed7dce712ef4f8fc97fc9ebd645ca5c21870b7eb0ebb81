@@ -1,0 +1,2 @@
+
+bdf8dbe4477d6c0824bd398c0f6f9b841cb6dd70	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lru-cache/-/lru-cache-5.1.1.tgz","integrity":null,"time":1733830382147,"size":"262","metadata":{"time":1733830382147,"url":"http://registry.npm.taobao.org/lru-cache/-/lru-cache-5.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/lru-cache/-/lru-cache-5.1.1.tgz"},"options":{"compress":true},"status":301}}

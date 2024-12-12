@@ -1,0 +1,2 @@
+
+818c5d6eff24ae15242b13573ec9808ffb39c8f9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/std-env/-/std-env-3.7.0.tgz","integrity":null,"time":1733917112172,"size":"262","metadata":{"time":1733917112172,"url":"http://registry.npm.taobao.org/std-env/-/std-env-3.7.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/std-env/-/std-env-3.7.0.tgz"},"options":{"compress":true},"status":301}}

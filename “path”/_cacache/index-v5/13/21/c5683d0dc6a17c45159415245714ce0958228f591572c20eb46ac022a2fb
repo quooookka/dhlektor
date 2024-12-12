@@ -1,0 +1,2 @@
+
+68c5f9fa5269686ab4dbb3e406cd541b028088e3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ret/-/ret-0.4.3.tgz","integrity":null,"time":1733917133066,"size":"262","metadata":{"time":1733917133065,"url":"http://registry.npm.taobao.org/ret/-/ret-0.4.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:53 GMT","location":"https://registry.npmmirror.com/ret/-/ret-0.4.3.tgz"},"options":{"compress":true},"status":301}}

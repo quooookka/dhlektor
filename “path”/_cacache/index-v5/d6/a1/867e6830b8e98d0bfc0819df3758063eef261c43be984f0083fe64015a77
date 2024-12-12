@@ -1,0 +1,2 @@
+
+af560ba8af2c9862acb9123a40becce870cd71bc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@ioredis/commands/-/commands-1.2.0.tgz","integrity":null,"time":1733917130415,"size":"262","metadata":{"time":1733917130415,"url":"http://registry.npm.taobao.org/@ioredis/commands/-/commands-1.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@ioredis/commands/-/commands-1.2.0.tgz"},"options":{"compress":true},"status":301}}

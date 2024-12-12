@@ -1,0 +1,2 @@
+
+1667c492a700d384e930371c6f91a55183451e07	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/node-version-alias","integrity":null,"time":1733917102510,"size":"262","metadata":{"time":1733917102510,"url":"http://registry.npm.taobao.org/node-version-alias","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/node-version-alias"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+ced0b8cf5a05cc797244f426f3f1b8e2ca61d1fd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/clean-deep","integrity":null,"time":1733917099735,"size":"262","metadata":{"time":1733917099734,"url":"http://registry.npm.taobao.org/clean-deep","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/clean-deep"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+086186a630dcfa0fe4c6133e60aaab4e61dae6f3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/parse-json/-/parse-json-5.2.0.tgz","integrity":null,"time":1733917114239,"size":"262","metadata":{"time":1733917114239,"url":"http://registry.npm.taobao.org/parse-json/-/parse-json-5.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:35 GMT","location":"https://registry.npmmirror.com/parse-json/-/parse-json-5.2.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+92fe228a73e63d88a511404d19e291b33f3a4cfc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/inflight/-/inflight-1.0.6.tgz","integrity":null,"time":1733830382981,"size":"262","metadata":{"time":1733830382981,"url":"http://registry.npm.taobao.org/inflight/-/inflight-1.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/inflight/-/inflight-1.0.6.tgz"},"options":{"compress":true},"status":301}}

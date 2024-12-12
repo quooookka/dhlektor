@@ -1,0 +1,2 @@
+
+040963b55092cdfaeb3e3066ce349ba4374cc379	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-regex/-/is-regex-1.1.4.tgz","integrity":null,"time":1733830382599,"size":"262","metadata":{"time":1733830382599,"url":"http://registry.npm.taobao.org/is-regex/-/is-regex-1.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/is-regex/-/is-regex-1.1.4.tgz"},"options":{"compress":true},"status":301}}

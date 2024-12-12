@@ -1,0 +1,2 @@
+
+5ce00ca55d7081284410caa738b57a5f3dd4b43a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/envinfo","integrity":null,"time":1733917100713,"size":"262","metadata":{"time":1733917100712,"url":"http://registry.npm.taobao.org/envinfo","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:21 GMT","location":"https://registry.npmmirror.com/envinfo"},"options":{"compress":true},"status":301}}

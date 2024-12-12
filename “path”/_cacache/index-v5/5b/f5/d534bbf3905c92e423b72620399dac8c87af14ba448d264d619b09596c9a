@@ -1,0 +1,2 @@
+
+29d32a5558e628072910a4dd0843c83c7c8e70c5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-regex/-/ansi-regex-4.1.1.tgz","integrity":null,"time":1733917136022,"size":"262","metadata":{"time":1733917136022,"url":"http://registry.npm.taobao.org/ansi-regex/-/ansi-regex-4.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:56 GMT","location":"https://registry.npmmirror.com/ansi-regex/-/ansi-regex-4.1.1.tgz"},"options":{"compress":true},"status":301}}

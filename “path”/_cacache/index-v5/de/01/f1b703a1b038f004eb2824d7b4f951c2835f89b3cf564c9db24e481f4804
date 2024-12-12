@@ -1,0 +1,2 @@
+
+baa464d9631af68a4144d5d49ef51fff93bed264	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz","integrity":null,"time":1733917129419,"size":"262","metadata":{"time":1733917129419,"url":"http://registry.npm.taobao.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"},"options":{"compress":true},"status":301}}

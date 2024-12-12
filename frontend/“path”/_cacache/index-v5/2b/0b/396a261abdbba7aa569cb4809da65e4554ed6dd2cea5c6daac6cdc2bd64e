@@ -1,0 +1,2 @@
+
+bcb938a63a2ba8a5d99e8eb8598cb20a59497402	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/normalize-path/-/normalize-path-3.0.0.tgz","integrity":null,"time":1733830382141,"size":"262","metadata":{"time":1733830382141,"url":"http://registry.npm.taobao.org/normalize-path/-/normalize-path-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/normalize-path/-/normalize-path-3.0.0.tgz"},"options":{"compress":true},"status":301}}

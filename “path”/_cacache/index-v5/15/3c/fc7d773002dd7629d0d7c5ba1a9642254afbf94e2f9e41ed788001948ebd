@@ -1,0 +1,2 @@
+
+f7fc5a649d93115d509c3174831dc865a4730a45	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/http-proxy/-/http-proxy-1.18.1.tgz","integrity":null,"time":1733917119179,"size":"262","metadata":{"time":1733917119178,"url":"http://registry.npm.taobao.org/http-proxy/-/http-proxy-1.18.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/http-proxy/-/http-proxy-1.18.1.tgz"},"options":{"compress":true},"status":301}}

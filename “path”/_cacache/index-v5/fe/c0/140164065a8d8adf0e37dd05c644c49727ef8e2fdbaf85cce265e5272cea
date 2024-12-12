@@ -1,0 +1,2 @@
+
+99a477fc7cb5ca8449bbae58f5e9b406a694319b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/balanced-match/-/balanced-match-1.0.2.tgz","integrity":null,"time":1733917126573,"size":"262","metadata":{"time":1733917126573,"url":"http://registry.npm.taobao.org/balanced-match/-/balanced-match-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:47 GMT","location":"https://registry.npmmirror.com/balanced-match/-/balanced-match-1.0.2.tgz"},"options":{"compress":true},"status":301}}

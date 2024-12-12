@@ -1,0 +1,2 @@
+
+783694951ec3204e7b291068bd1c2346026b6ff3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/slash/-/slash-3.0.0.tgz","integrity":null,"time":1733917112412,"size":"262","metadata":{"time":1733917112411,"url":"http://registry.npm.taobao.org/slash/-/slash-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/slash/-/slash-3.0.0.tgz"},"options":{"compress":true},"status":301}}

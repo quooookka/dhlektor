@@ -1,0 +1,2 @@
+
+4bd2681246b448b42429341d84bfc2e51c38f16f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/npm-run-path/-/npm-run-path-4.0.1.tgz","integrity":null,"time":1733917115086,"size":"262","metadata":{"time":1733917115086,"url":"http://registry.npm.taobao.org/npm-run-path/-/npm-run-path-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:35 GMT","location":"https://registry.npmmirror.com/npm-run-path/-/npm-run-path-4.0.1.tgz"},"options":{"compress":true},"status":301}}

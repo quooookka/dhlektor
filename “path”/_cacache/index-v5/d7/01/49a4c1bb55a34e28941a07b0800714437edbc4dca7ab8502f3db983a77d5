@@ -1,0 +1,2 @@
+
+3680f19ea331510121152c39eef06a9440b8e855	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/prebuild-install/-/prebuild-install-7.1.1.tgz","integrity":null,"time":1733917113812,"size":"262","metadata":{"time":1733917113812,"url":"http://registry.npm.taobao.org/prebuild-install/-/prebuild-install-7.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/prebuild-install/-/prebuild-install-7.1.1.tgz"},"options":{"compress":true},"status":301}}

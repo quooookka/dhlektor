@@ -1,0 +1,2 @@
+
+b6e020c9dd78648df871b307aa02b0b0104ea49f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-ansi-control-characters","integrity":null,"time":1733917103106,"size":"262","metadata":{"time":1733917103105,"url":"http://registry.npm.taobao.org/strip-ansi-control-characters","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/strip-ansi-control-characters"},"options":{"compress":true},"status":301}}

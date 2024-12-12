@@ -1,0 +1,2 @@
+
+214130d3a99516ed24daa0b3af19e4890bad4201	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/split2/-/split2-1.1.1.tgz","integrity":null,"time":1733917134366,"size":"262","metadata":{"time":1733917134366,"url":"http://registry.npm.taobao.org/split2/-/split2-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:55 GMT","location":"https://registry.npmmirror.com/split2/-/split2-1.1.1.tgz"},"options":{"compress":true},"status":301}}

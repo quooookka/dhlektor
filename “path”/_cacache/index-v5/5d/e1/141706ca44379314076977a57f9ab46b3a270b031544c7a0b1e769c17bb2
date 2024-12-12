@@ -1,0 +1,2 @@
+
+83e18bc9d703d5a75dc2b00b7415c6bd8928d470	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/figures/-/figures-4.0.1.tgz","integrity":null,"time":1733917135209,"size":"262","metadata":{"time":1733917135209,"url":"http://registry.npm.taobao.org/figures/-/figures-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:55 GMT","location":"https://registry.npmmirror.com/figures/-/figures-4.0.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+fa59e6fe5d4229472ed87b49362e9039645eace2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/repeat-string/-/repeat-string-1.6.1.tgz","integrity":null,"time":1733917113122,"size":"262","metadata":{"time":1733917113122,"url":"http://registry.npm.taobao.org/repeat-string/-/repeat-string-1.6.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/repeat-string/-/repeat-string-1.6.1.tgz"},"options":{"compress":true},"status":301}}

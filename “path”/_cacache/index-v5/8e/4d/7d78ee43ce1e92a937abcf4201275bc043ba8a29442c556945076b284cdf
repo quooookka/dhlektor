@@ -1,0 +1,2 @@
+
+30e60bc404d319501190af6da480428fb365282d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/junk/-/junk-4.0.1.tgz","integrity":null,"time":1733917118155,"size":"262","metadata":{"time":1733917118155,"url":"http://registry.npm.taobao.org/junk/-/junk-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:38 GMT","location":"https://registry.npmmirror.com/junk/-/junk-4.0.1.tgz"},"options":{"compress":true},"status":301}}

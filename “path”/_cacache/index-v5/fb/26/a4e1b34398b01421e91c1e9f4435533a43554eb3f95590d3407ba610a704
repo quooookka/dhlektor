@@ -1,0 +1,2 @@
+
+280fbc71cd4d31e5224843c35b58188d7ff83586	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lambda-local/-/lambda-local-2.2.0.tgz","integrity":null,"time":1733917117653,"size":"262","metadata":{"time":1733917117653,"url":"http://registry.npm.taobao.org/lambda-local/-/lambda-local-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:38 GMT","location":"https://registry.npmmirror.com/lambda-local/-/lambda-local-2.2.0.tgz"},"options":{"compress":true},"status":301}}

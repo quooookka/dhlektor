@@ -1,0 +1,2 @@
+
+331f4c3be21ae226647c348349936a054e20b2b4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fastq/-/fastq-1.17.1.tgz","integrity":null,"time":1733830383582,"size":"262","metadata":{"time":1733830383582,"url":"http://registry.npm.taobao.org/fastq/-/fastq-1.17.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/fastq/-/fastq-1.17.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+446348d5d22e93fb7600545d8818072d64b9fe44	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fs.realpath/-/fs.realpath-1.0.0.tgz","integrity":null,"time":1733917121272,"size":"262","metadata":{"time":1733917121271,"url":"http://registry.npm.taobao.org/fs.realpath/-/fs.realpath-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:42 GMT","location":"https://registry.npmmirror.com/fs.realpath/-/fs.realpath-1.0.0.tgz"},"options":{"compress":true},"status":301}}

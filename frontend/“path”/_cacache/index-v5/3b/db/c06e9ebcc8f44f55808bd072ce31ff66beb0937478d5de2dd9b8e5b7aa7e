@@ -1,0 +1,2 @@
+
+294aff98a282bd729ee42da1add223c579144fcc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/find-up/-/find-up-5.0.0.tgz","integrity":null,"time":1733830383580,"size":"262","metadata":{"time":1733830383580,"url":"http://registry.npm.taobao.org/find-up/-/find-up-5.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/find-up/-/find-up-5.0.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+d54ce0fdb6f32513a12d340b45a2ecfae7932fb8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/which-typed-array/-/which-typed-array-1.1.15.tgz","integrity":null,"time":1733830381412,"size":"262","metadata":{"time":1733830381412,"url":"http://registry.npm.taobao.org/which-typed-array/-/which-typed-array-1.1.15.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/which-typed-array/-/which-typed-array-1.1.15.tgz"},"options":{"compress":true},"status":301}}

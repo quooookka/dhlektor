@@ -1,0 +1,2 @@
+
+64765c47dcc752945ced30a00e041fbfa0b64851	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mimic-fn/-/mimic-fn-2.1.0.tgz","integrity":null,"time":1733917134331,"size":"262","metadata":{"time":1733917134331,"url":"http://registry.npm.taobao.org/mimic-fn/-/mimic-fn-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:55 GMT","location":"https://registry.npmmirror.com/mimic-fn/-/mimic-fn-2.1.0.tgz"},"options":{"compress":true},"status":301}}

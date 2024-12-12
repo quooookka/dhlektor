@@ -1,0 +1,2 @@
+
+932e92fc6c6984e8b3d41bd8fc486273b0c87033	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/espree/-/espree-10.3.0.tgz","integrity":null,"time":1733830383781,"size":"262","metadata":{"time":1733830383781,"url":"http://registry.npm.taobao.org/espree/-/espree-10.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/espree/-/espree-10.3.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+fe65250482cdf069fa8a929e17f4e0ed9e286176	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cli-cursor/-/cli-cursor-2.1.0.tgz","integrity":null,"time":1733917125865,"size":"262","metadata":{"time":1733917125865,"url":"http://registry.npm.taobao.org/cli-cursor/-/cli-cursor-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:46 GMT","location":"https://registry.npmmirror.com/cli-cursor/-/cli-cursor-2.1.0.tgz"},"options":{"compress":true},"status":301}}

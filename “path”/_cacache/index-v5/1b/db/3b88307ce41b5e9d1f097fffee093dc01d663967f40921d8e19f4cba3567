@@ -1,0 +1,2 @@
+
+9e3fff45d2af36e5261b4ec90e5f4941628814c9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/domhandler/-/domhandler-5.0.3.tgz","integrity":null,"time":1733917123399,"size":"262","metadata":{"time":1733917123399,"url":"http://registry.npm.taobao.org/domhandler/-/domhandler-5.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/domhandler/-/domhandler-5.0.3.tgz"},"options":{"compress":true},"status":301}}

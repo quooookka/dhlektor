@@ -1,0 +1,2 @@
+
+047b46d5d0feab84e65fd7c19df0c14d79eb2cb6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/proto-list/-/proto-list-1.2.4.tgz","integrity":null,"time":1733917113619,"size":"262","metadata":{"time":1733917113619,"url":"http://registry.npm.taobao.org/proto-list/-/proto-list-1.2.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/proto-list/-/proto-list-1.2.4.tgz"},"options":{"compress":true},"status":301}}

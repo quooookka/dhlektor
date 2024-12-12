@@ -1,0 +1,2 @@
+
+d7f1b6ae0a997e821f192c3f2659a24f18d82b43	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/common-path-prefix/-/common-path-prefix-3.0.0.tgz","integrity":null,"time":1733917125076,"size":"262","metadata":{"time":1733917125076,"url":"http://registry.npm.taobao.org/common-path-prefix/-/common-path-prefix-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:45 GMT","location":"https://registry.npmmirror.com/common-path-prefix/-/common-path-prefix-3.0.0.tgz"},"options":{"compress":true},"status":301}}

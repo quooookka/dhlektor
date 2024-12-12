@@ -1,0 +1,2 @@
+
+babfe21a93e9b2718c37000bd0e1bf007ed16c2c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/statuses/-/statuses-2.0.1.tgz","integrity":null,"time":1733917112174,"size":"262","metadata":{"time":1733917112174,"url":"http://registry.npm.taobao.org/statuses/-/statuses-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/statuses/-/statuses-2.0.1.tgz"},"options":{"compress":true},"status":301}}

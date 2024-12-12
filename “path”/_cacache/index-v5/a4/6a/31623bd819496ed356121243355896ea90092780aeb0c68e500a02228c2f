@@ -1,0 +1,2 @@
+
+89e36991ea5443d816813478fa2ce9bf762202ec	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pkg-dir/-/pkg-dir-7.0.0.tgz","integrity":null,"time":1733917142487,"size":"262","metadata":{"time":1733917142487,"url":"http://registry.npm.taobao.org/pkg-dir/-/pkg-dir-7.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:03 GMT","location":"https://registry.npmmirror.com/pkg-dir/-/pkg-dir-7.0.0.tgz"},"options":{"compress":true},"status":301}}

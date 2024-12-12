@@ -1,0 +1,2 @@
+
+2fe07746e5f672b8a14d4bc84284de862ba4ae0f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/aggregate-error/-/aggregate-error-3.1.0.tgz","integrity":null,"time":1733830384866,"size":"262","metadata":{"time":1733830384866,"url":"http://registry.npm.taobao.org/aggregate-error/-/aggregate-error-3.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:06 GMT","location":"https://registry.npmmirror.com/aggregate-error/-/aggregate-error-3.1.0.tgz"},"options":{"compress":true},"status":301}}

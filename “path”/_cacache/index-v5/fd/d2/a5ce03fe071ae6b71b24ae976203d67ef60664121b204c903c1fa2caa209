@@ -1,0 +1,2 @@
+
+1ecb102172dcb9841cbc0f880ea93ca4dbb8a517	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/get-port","integrity":null,"time":1733917101222,"size":"262","metadata":{"time":1733917101221,"url":"http://registry.npm.taobao.org/get-port","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/get-port"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1fde8977d595732e4e684a20b21b777a21123529	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/maxstache-stream","integrity":null,"time":1733917102282,"size":"262","metadata":{"time":1733917102282,"url":"http://registry.npm.taobao.org/maxstache-stream","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/maxstache-stream"},"options":{"compress":true},"status":301}}

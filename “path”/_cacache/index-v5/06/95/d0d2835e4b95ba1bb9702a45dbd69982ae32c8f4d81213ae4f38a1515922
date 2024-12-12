@@ -1,0 +1,2 @@
+
+9b575f822a69ef35198130786b2a76d14fd0bf02	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/move-file/-/move-file-3.0.0.tgz","integrity":null,"time":1733917115716,"size":"262","metadata":{"time":1733917115716,"url":"http://registry.npm.taobao.org/move-file/-/move-file-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/move-file/-/move-file-3.0.0.tgz"},"options":{"compress":true},"status":301}}

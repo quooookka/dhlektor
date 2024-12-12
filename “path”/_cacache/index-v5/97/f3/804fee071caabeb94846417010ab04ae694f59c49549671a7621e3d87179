@@ -1,0 +1,2 @@
+
+2b85428b961ca041efd01abf9387cc6d32473244	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/untun/-/untun-0.1.3.tgz","integrity":null,"time":1733917111427,"size":"262","metadata":{"time":1733917111427,"url":"http://registry.npm.taobao.org/untun/-/untun-0.1.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/untun/-/untun-0.1.3.tgz"},"options":{"compress":true},"status":301}}

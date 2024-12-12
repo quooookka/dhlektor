@@ -1,0 +1,2 @@
+
+824e5abfc81fbac83ffb541204d95951f233446d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/p-filter","integrity":null,"time":1733917102591,"size":"262","metadata":{"time":1733917102590,"url":"http://registry.npm.taobao.org/p-filter","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/p-filter"},"options":{"compress":true},"status":301}}

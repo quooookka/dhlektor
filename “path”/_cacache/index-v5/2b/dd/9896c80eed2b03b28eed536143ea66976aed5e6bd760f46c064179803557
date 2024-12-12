@@ -1,0 +1,2 @@
+
+1e14905b2c6c2921989c6fad8241c45266b7ab79	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/read-package-up","integrity":null,"time":1733917103041,"size":"262","metadata":{"time":1733917103041,"url":"http://registry.npm.taobao.org/read-package-up","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/read-package-up"},"options":{"compress":true},"status":301}}

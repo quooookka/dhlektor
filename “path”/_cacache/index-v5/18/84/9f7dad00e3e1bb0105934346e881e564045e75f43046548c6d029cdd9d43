@@ -1,0 +1,2 @@
+
+70125b235dbdf5243cd25d308b6ce2a7242bc185	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fastify","integrity":null,"time":1733917100969,"size":"262","metadata":{"time":1733917100969,"url":"http://registry.npm.taobao.org/fastify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/fastify"},"options":{"compress":true},"status":301}}

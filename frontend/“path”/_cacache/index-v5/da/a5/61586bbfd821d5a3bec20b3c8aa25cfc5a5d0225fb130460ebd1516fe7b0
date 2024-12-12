@@ -1,0 +1,2 @@
+
+9609e4e7d21028edc30020bed45edf08410a3d37	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/esprima/-/esprima-4.0.1.tgz","integrity":null,"time":1733830383725,"size":"262","metadata":{"time":1733830383725,"url":"http://registry.npm.taobao.org/esprima/-/esprima-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/esprima/-/esprima-4.0.1.tgz"},"options":{"compress":true},"status":301}}

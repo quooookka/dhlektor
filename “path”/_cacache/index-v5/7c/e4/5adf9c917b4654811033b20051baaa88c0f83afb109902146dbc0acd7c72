@@ -1,0 +1,2 @@
+
+6e7f5005760552c1af6c43710fd5c2e8e9713f40	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/proxy-addr/-/proxy-addr-2.0.7.tgz","integrity":null,"time":1733917113625,"size":"262","metadata":{"time":1733917113625,"url":"http://registry.npm.taobao.org/proxy-addr/-/proxy-addr-2.0.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/proxy-addr/-/proxy-addr-2.0.7.tgz"},"options":{"compress":true},"status":301}}

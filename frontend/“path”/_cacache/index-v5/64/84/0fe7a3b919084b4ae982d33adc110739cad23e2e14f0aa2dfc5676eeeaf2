@@ -1,0 +1,2 @@
+
+2843c542bf0d4b3a8afe590a8cba39d50210d375	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/safer-buffer/-/safer-buffer-2.1.2.tgz","integrity":null,"time":1733830381717,"size":"262","metadata":{"time":1733830381717,"url":"http://registry.npm.taobao.org/safer-buffer/-/safer-buffer-2.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/safer-buffer/-/safer-buffer-2.1.2.tgz"},"options":{"compress":true},"status":301}}

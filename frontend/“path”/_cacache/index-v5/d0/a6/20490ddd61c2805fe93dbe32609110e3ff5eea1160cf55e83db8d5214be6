@@ -1,0 +1,2 @@
+
+4d3d49fe0b9ebab024deee5489399bf195f280a9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/react-dom/-/react-dom-18.3.1.tgz","integrity":null,"time":1733830381798,"size":"262","metadata":{"time":1733830381798,"url":"http://registry.npm.taobao.org/react-dom/-/react-dom-18.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/react-dom/-/react-dom-18.3.1.tgz"},"options":{"compress":true},"status":301}}

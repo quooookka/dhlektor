@@ -1,0 +1,2 @@
+
+dd85929d625ba4aef494a08a1f46f18cc92e7198	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/better-opn","integrity":null,"time":1733917099570,"size":"262","metadata":{"time":1733917099569,"url":"http://registry.npm.taobao.org/better-opn","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/better-opn"},"options":{"compress":true},"status":301}}

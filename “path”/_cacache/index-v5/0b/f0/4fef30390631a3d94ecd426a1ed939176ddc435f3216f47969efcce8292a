@@ -1,0 +1,2 @@
+
+a957dff639785cde00fa74f0f06de38d383f1fe5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/denque/-/denque-2.1.0.tgz","integrity":null,"time":1733917123744,"size":"262","metadata":{"time":1733917123744,"url":"http://registry.npm.taobao.org/denque/-/denque-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/denque/-/denque-2.1.0.tgz"},"options":{"compress":true},"status":301}}

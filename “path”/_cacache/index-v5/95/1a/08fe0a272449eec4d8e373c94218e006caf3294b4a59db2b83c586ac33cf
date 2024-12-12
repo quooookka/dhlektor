@@ -1,0 +1,2 @@
+
+a66c07de970fe344ef341582704ed06db67a8dd3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/xss/-/xss-1.0.14.tgz","integrity":null,"time":1733917111289,"size":"262","metadata":{"time":1733917111289,"url":"http://registry.npm.taobao.org/xss/-/xss-1.0.14.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/xss/-/xss-1.0.14.tgz"},"options":{"compress":true},"status":301}}

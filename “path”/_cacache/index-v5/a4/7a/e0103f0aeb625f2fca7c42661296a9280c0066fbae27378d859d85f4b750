@@ -1,0 +1,2 @@
+
+e067f38cfb261f6bc87ae6922c2bfde533d352c6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/etag","integrity":null,"time":1733917100765,"size":"262","metadata":{"time":1733917100765,"url":"http://registry.npm.taobao.org/etag","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:21 GMT","location":"https://registry.npmmirror.com/etag"},"options":{"compress":true},"status":301}}

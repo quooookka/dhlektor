@@ -1,0 +1,2 @@
+
+35a50ded01d33553ba6af7f8899170dacb1d306a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/find-cache-dir/-/find-cache-dir-3.3.2.tgz","integrity":null,"time":1733830383579,"size":"262","metadata":{"time":1733830383579,"url":"http://registry.npm.taobao.org/find-cache-dir/-/find-cache-dir-3.3.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/find-cache-dir/-/find-cache-dir-3.3.2.tgz"},"options":{"compress":true},"status":301}}

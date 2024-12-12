@@ -1,0 +1,2 @@
+
+2d4209546a866a0ff87f082fccc20cd665faf8e4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/yauzl/-/yauzl-2.10.0.tgz","integrity":null,"time":1733917111224,"size":"262","metadata":{"time":1733917111224,"url":"http://registry.npm.taobao.org/yauzl/-/yauzl-2.10.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:31 GMT","location":"https://registry.npmmirror.com/yauzl/-/yauzl-2.10.0.tgz"},"options":{"compress":true},"status":301}}

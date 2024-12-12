@@ -1,0 +1,2 @@
+
+a6eea78c9c063527798ed4374e63401a4d2abc1d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@opentelemetry/api/-/api-1.8.0.tgz","integrity":null,"time":1733917129047,"size":"262","metadata":{"time":1733917129046,"url":"http://registry.npm.taobao.org/@opentelemetry/api/-/api-1.8.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@opentelemetry/api/-/api-1.8.0.tgz"},"options":{"compress":true},"status":301}}

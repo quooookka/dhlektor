@@ -1,0 +1,2 @@
+
+475086db676d1b6b46367411002003af67a8347e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/keyv/-/keyv-4.5.4.tgz","integrity":null,"time":1733830382282,"size":"262","metadata":{"time":1733830382282,"url":"http://registry.npm.taobao.org/keyv/-/keyv-4.5.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/keyv/-/keyv-4.5.4.tgz"},"options":{"compress":true},"status":301}}

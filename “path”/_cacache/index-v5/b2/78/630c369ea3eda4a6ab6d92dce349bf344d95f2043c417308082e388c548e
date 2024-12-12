@@ -1,0 +1,2 @@
+
+3fa03e7971fba20e94ef42f8f260d1848000b6f1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/write-file-atomic/-/write-file-atomic-3.0.3.tgz","integrity":null,"time":1733917137880,"size":"262","metadata":{"time":1733917137880,"url":"http://registry.npm.taobao.org/write-file-atomic/-/write-file-atomic-3.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:58 GMT","location":"https://registry.npmmirror.com/write-file-atomic/-/write-file-atomic-3.0.3.tgz"},"options":{"compress":true},"status":301}}

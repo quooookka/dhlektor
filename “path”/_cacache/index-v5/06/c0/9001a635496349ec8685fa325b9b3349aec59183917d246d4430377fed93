@@ -1,0 +1,2 @@
+
+7a9657c390cf9fe0c9c35f9f5c35e1a37bca0a06	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hasbin","integrity":null,"time":1733917101325,"size":"262","metadata":{"time":1733917101325,"url":"http://registry.npm.taobao.org/hasbin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/hasbin"},"options":{"compress":true},"status":301}}

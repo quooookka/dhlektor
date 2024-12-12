@@ -1,0 +1,2 @@
+
+ba5f399f702bfa0d29ec1b11b9b1de5163e89127	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/pend/-/pend-1.2.0.tgz","integrity":null,"time":1733917114015,"size":"262","metadata":{"time":1733917114015,"url":"http://registry.npm.taobao.org/pend/-/pend-1.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/pend/-/pend-1.2.0.tgz"},"options":{"compress":true},"status":301}}

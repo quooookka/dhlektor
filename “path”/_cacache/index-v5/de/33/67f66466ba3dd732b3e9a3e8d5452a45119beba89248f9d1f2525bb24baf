@@ -1,0 +1,2 @@
+
+e174ec8846d6acaf04916c93f88be94adda049e2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/find-up/-/find-up-7.0.0.tgz","integrity":null,"time":1733917121684,"size":"262","metadata":{"time":1733917121684,"url":"http://registry.npm.taobao.org/find-up/-/find-up-7.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:42 GMT","location":"https://registry.npmmirror.com/find-up/-/find-up-7.0.0.tgz"},"options":{"compress":true},"status":301}}

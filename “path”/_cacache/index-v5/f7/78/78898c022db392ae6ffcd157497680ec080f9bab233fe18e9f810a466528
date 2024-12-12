@@ -1,0 +1,2 @@
+
+758410ae58def7f01f2538dfc756d42b1d4fa813	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/glob-parent/-/glob-parent-5.1.2.tgz","integrity":null,"time":1733917120311,"size":"262","metadata":{"time":1733917120310,"url":"http://registry.npm.taobao.org/glob-parent/-/glob-parent-5.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/glob-parent/-/glob-parent-5.1.2.tgz"},"options":{"compress":true},"status":301}}

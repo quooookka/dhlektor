@@ -1,0 +1,2 @@
+
+73a17126bfa7632e1c26eac88394b2b0610dc9b1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/minipass/-/minipass-7.1.1.tgz","integrity":null,"time":1733917143192,"size":"262","metadata":{"time":1733917143192,"url":"http://registry.npm.taobao.org/minipass/-/minipass-7.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:04 GMT","location":"https://registry.npmmirror.com/minipass/-/minipass-7.1.1.tgz"},"options":{"compress":true},"status":301}}

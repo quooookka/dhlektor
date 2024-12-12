@@ -1,0 +1,2 @@
+
+53b1cd764f75a0a1781199390056e8c0095753ef	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lambda-local","integrity":null,"time":1733917101960,"size":"262","metadata":{"time":1733917101960,"url":"http://registry.npm.taobao.org/lambda-local","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/lambda-local"},"options":{"compress":true},"status":301}}

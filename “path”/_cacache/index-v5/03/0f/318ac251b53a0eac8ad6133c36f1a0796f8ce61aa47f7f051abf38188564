@@ -1,0 +1,2 @@
+
+bc9c763f21196d571905f52b23ce802ca749b0bf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/sort-keys/-/sort-keys-1.1.2.tgz","integrity":null,"time":1733917112415,"size":"262","metadata":{"time":1733917112415,"url":"http://registry.npm.taobao.org/sort-keys/-/sort-keys-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/sort-keys/-/sort-keys-1.1.2.tgz"},"options":{"compress":true},"status":301}}

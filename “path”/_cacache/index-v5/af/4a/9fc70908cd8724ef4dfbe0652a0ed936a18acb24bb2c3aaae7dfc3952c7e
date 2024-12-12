@@ -1,0 +1,2 @@
+
+9a76c19ec08a4b334db26c4221348cd67d3ccbb1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/svgo/-/svgo-3.2.0.tgz","integrity":null,"time":1733917111981,"size":"262","metadata":{"time":1733917111981,"url":"http://registry.npm.taobao.org/svgo/-/svgo-3.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/svgo/-/svgo-3.2.0.tgz"},"options":{"compress":true},"status":301}}

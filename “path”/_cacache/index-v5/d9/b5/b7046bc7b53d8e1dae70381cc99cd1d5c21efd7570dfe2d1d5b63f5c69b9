@@ -1,0 +1,2 @@
+
+ae8aed10ce109d3c89e350a878c6454defd1e3fc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/gitconfiglocal","integrity":null,"time":1733917101323,"size":"262","metadata":{"time":1733917101322,"url":"http://registry.npm.taobao.org/gitconfiglocal","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/gitconfiglocal"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+a7845480b2fafed5ccfef4c2ffb7d307e644652c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/detect-libc/-/detect-libc-1.0.3.tgz","integrity":null,"time":1733917139736,"size":"262","metadata":{"time":1733917139736,"url":"http://registry.npm.taobao.org/detect-libc/-/detect-libc-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:00 GMT","location":"https://registry.npmmirror.com/detect-libc/-/detect-libc-1.0.3.tgz"},"options":{"compress":true},"status":301}}

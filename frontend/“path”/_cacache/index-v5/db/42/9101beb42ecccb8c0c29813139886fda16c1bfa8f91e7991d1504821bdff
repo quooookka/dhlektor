@@ -1,0 +1,2 @@
+
+c92aee460ddbc30e152bac28a004e7d89ebf2902	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/agent-base/-/agent-base-7.1.1.tgz","integrity":null,"time":1733830384875,"size":"262","metadata":{"time":1733830384875,"url":"http://registry.npm.taobao.org/agent-base/-/agent-base-7.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:06 GMT","location":"https://registry.npmmirror.com/agent-base/-/agent-base-7.1.1.tgz"},"options":{"compress":true},"status":301}}

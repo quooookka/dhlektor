@@ -1,0 +1,2 @@
+
+c0d9c5593c19da769ee11d23964d294059ed866f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/p-map","integrity":null,"time":1733917102593,"size":"262","metadata":{"time":1733917102593,"url":"http://registry.npm.taobao.org/p-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/p-map"},"options":{"compress":true},"status":301}}

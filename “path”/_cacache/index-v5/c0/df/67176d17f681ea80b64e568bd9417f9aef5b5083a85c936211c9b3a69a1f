@@ -1,0 +1,2 @@
+
+2d7ae2ae1dd0c6e6fd312af2724c7a858f7d71f6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/zip-stream/-/zip-stream-6.0.1.tgz","integrity":null,"time":1733917111229,"size":"262","metadata":{"time":1733917111229,"url":"http://registry.npm.taobao.org/zip-stream/-/zip-stream-6.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:31 GMT","location":"https://registry.npmmirror.com/zip-stream/-/zip-stream-6.0.1.tgz"},"options":{"compress":true},"status":301}}

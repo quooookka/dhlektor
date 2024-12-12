@@ -1,0 +1,2 @@
+
+189bd162bcf9fbf729c9419e5db01eb8c132af2e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/graceful-fs/-/graceful-fs-4.2.11.tgz","integrity":null,"time":1733830383164,"size":"262","metadata":{"time":1733830383164,"url":"http://registry.npm.taobao.org/graceful-fs/-/graceful-fs-4.2.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/graceful-fs/-/graceful-fs-4.2.11.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4ad1e1d8a39ebac2dd3f7e2d942ade5409f42ae4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ps-list/-/ps-list-8.1.0.tgz","integrity":null,"time":1733917113607,"size":"262","metadata":{"time":1733917113607,"url":"http://registry.npm.taobao.org/ps-list/-/ps-list-8.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/ps-list/-/ps-list-8.1.0.tgz"},"options":{"compress":true},"status":301}}

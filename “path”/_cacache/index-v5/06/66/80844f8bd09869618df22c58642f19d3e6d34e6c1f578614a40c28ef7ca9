@@ -1,0 +1,2 @@
+
+0552632e5afc6b4a1475681b9a47ca5a514ace9f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@netlify/edge-bundler/-/edge-bundler-12.2.3.tgz","integrity":null,"time":1733917129733,"size":"262","metadata":{"time":1733917129733,"url":"http://registry.npm.taobao.org/@netlify/edge-bundler/-/edge-bundler-12.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@netlify/edge-bundler/-/edge-bundler-12.2.3.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+7db015f814698829b73b4bf277f576f824eb0fec	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/get-port/-/get-port-5.1.1.tgz","integrity":null,"time":1733917120856,"size":"262","metadata":{"time":1733917120856,"url":"http://registry.npm.taobao.org/get-port/-/get-port-5.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:41 GMT","location":"https://registry.npmmirror.com/get-port/-/get-port-5.1.1.tgz"},"options":{"compress":true},"status":301}}

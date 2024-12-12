@@ -1,0 +1,2 @@
+
+2457956b03d78fc768f783354b8d397a162cf7bd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-regex/-/ansi-regex-6.0.1.tgz","integrity":null,"time":1733917132710,"size":"262","metadata":{"time":1733917132710,"url":"http://registry.npm.taobao.org/ansi-regex/-/ansi-regex-6.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:53 GMT","location":"https://registry.npmmirror.com/ansi-regex/-/ansi-regex-6.0.1.tgz"},"options":{"compress":true},"status":301}}

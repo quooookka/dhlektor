@@ -1,0 +1,2 @@
+
+b32f46667d05b2819612c06ec0d57e2e8cdb5e27	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/detective-amd/-/detective-amd-5.0.2.tgz","integrity":null,"time":1733917123738,"size":"262","metadata":{"time":1733917123738,"url":"http://registry.npm.taobao.org/detective-amd/-/detective-amd-5.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/detective-amd/-/detective-amd-5.0.2.tgz"},"options":{"compress":true},"status":301}}

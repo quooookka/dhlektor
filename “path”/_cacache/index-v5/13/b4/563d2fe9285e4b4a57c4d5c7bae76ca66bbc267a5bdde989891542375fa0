@@ -1,0 +1,2 @@
+
+0b9f3a118c2ca502800a60130540565ea1b48191	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/p-retry/-/p-retry-5.1.1.tgz","integrity":null,"time":1733917114556,"size":"262","metadata":{"time":1733917114556,"url":"http://registry.npm.taobao.org/p-retry/-/p-retry-5.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:35 GMT","location":"https://registry.npmmirror.com/p-retry/-/p-retry-5.1.1.tgz"},"options":{"compress":true},"status":301}}

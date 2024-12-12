@@ -1,0 +1,2 @@
+
+ac4d1fca82523c0e33aeca486aedd5a9aea2abd4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/decache","integrity":null,"time":1733917100356,"size":"262","metadata":{"time":1733917100356,"url":"http://registry.npm.taobao.org/decache","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:21 GMT","location":"https://registry.npmmirror.com/decache"},"options":{"compress":true},"status":301}}

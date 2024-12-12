@@ -1,0 +1,2 @@
+
+2c935414a8caa54eb48ea7d88054c59fcd607713	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/inquirer","integrity":null,"time":1733917101539,"size":"262","metadata":{"time":1733917101538,"url":"http://registry.npm.taobao.org/inquirer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/inquirer"},"options":{"compress":true},"status":301}}

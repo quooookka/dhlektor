@@ -1,0 +1,2 @@
+
+948e55e67c1cb5df192faafd148365cb304f058e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tar-stream/-/tar-stream-2.2.0.tgz","integrity":null,"time":1733917133497,"size":"262","metadata":{"time":1733917133497,"url":"http://registry.npm.taobao.org/tar-stream/-/tar-stream-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:54 GMT","location":"https://registry.npmmirror.com/tar-stream/-/tar-stream-2.2.0.tgz"},"options":{"compress":true},"status":301}}

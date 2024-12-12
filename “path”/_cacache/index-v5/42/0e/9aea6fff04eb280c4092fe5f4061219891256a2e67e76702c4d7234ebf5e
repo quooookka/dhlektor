@@ -1,0 +1,2 @@
+
+fabf008aafa97e24f99124cd8de587c4d7f65206	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/netlify-redirector","integrity":null,"time":1733917102403,"size":"262","metadata":{"time":1733917102403,"url":"http://registry.npm.taobao.org/netlify-redirector","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/netlify-redirector"},"options":{"compress":true},"status":301}}

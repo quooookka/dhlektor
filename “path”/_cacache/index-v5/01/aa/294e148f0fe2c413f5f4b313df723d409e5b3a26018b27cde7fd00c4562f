@@ -1,0 +1,2 @@
+
+fcf19fe7a40e1def00528603c2ff1f5732993667	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/depd/-/depd-1.1.2.tgz","integrity":null,"time":1733917123743,"size":"262","metadata":{"time":1733917123743,"url":"http://registry.npm.taobao.org/depd/-/depd-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/depd/-/depd-1.1.2.tgz"},"options":{"compress":true},"status":301}}

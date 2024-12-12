@@ -1,0 +1,2 @@
+
+4be38ef4689aec3bbb10c35c9a53fbfc1ade192c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-npm/-/is-npm-6.0.0.tgz","integrity":null,"time":1733917118866,"size":"262","metadata":{"time":1733917118866,"url":"http://registry.npm.taobao.org/is-npm/-/is-npm-6.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:39 GMT","location":"https://registry.npmmirror.com/is-npm/-/is-npm-6.0.0.tgz"},"options":{"compress":true},"status":301}}

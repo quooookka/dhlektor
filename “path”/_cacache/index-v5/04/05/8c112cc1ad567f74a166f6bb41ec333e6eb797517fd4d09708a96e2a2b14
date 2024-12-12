@@ -1,0 +1,2 @@
+
+afa910466f651ba414ec67c5988b9bd8d7316009	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mime-db/-/mime-db-1.51.0.tgz","integrity":null,"time":1733917116347,"size":"262","metadata":{"time":1733917116347,"url":"http://registry.npm.taobao.org/mime-db/-/mime-db-1.51.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/mime-db/-/mime-db-1.51.0.tgz"},"options":{"compress":true},"status":301}}

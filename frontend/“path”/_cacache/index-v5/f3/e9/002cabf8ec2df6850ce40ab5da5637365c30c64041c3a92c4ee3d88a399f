@@ -1,0 +1,2 @@
+
+b48669f3bc103b57758c64e10a80382083a65861	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lit/-/lit-3.2.1.tgz","integrity":null,"time":1733830382281,"size":"262","metadata":{"time":1733830382281,"url":"http://registry.npm.taobao.org/lit/-/lit-3.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/lit/-/lit-3.2.1.tgz"},"options":{"compress":true},"status":301}}

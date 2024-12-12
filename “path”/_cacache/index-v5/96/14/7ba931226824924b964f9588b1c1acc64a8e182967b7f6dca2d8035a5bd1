@@ -1,0 +1,2 @@
+
+c46004839a80aa36cffbf169cc9b8f864b0cbaee	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ulid","integrity":null,"time":1733917103496,"size":"262","metadata":{"time":1733917103495,"url":"http://registry.npm.taobao.org/ulid","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/ulid"},"options":{"compress":true},"status":301}}

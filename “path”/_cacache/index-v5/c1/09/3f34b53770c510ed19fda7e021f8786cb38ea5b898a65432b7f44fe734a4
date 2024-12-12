@@ -1,0 +1,2 @@
+
+a582f5df68d3d93783a7dbf10f6698c6424f9e75	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/folder-walker","integrity":null,"time":1733917101143,"size":"262","metadata":{"time":1733917101142,"url":"http://registry.npm.taobao.org/folder-walker","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/folder-walker"},"options":{"compress":true},"status":301}}

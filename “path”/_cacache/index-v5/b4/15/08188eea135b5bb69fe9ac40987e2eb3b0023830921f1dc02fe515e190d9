@@ -1,0 +1,2 @@
+
+cb6f3fd36a7709e754111d35a556ecbc55927c47	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/napi-build-utils/-/napi-build-utils-1.0.2.tgz","integrity":null,"time":1733917115621,"size":"262","metadata":{"time":1733917115620,"url":"http://registry.npm.taobao.org/napi-build-utils/-/napi-build-utils-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/napi-build-utils/-/napi-build-utils-1.0.2.tgz"},"options":{"compress":true},"status":301}}

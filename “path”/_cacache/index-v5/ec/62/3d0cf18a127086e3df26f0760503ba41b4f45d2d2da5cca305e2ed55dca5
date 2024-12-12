@@ -1,0 +1,2 @@
+
+65436289aa11f083625e6599f59b3f7d558ba7c0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/update-notifier","integrity":null,"time":1733917103528,"size":"262","metadata":{"time":1733917103527,"url":"http://registry.npm.taobao.org/update-notifier","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/update-notifier"},"options":{"compress":true},"status":301}}

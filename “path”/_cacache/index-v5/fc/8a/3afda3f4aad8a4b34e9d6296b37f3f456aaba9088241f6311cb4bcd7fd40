@@ -1,0 +1,2 @@
+
+f80617d4d16289b742b7bcb199b1bb10d65140c6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ascii-table","integrity":null,"time":1733917099325,"size":"262","metadata":{"time":1733917099325,"url":"http://registry.npm.taobao.org/ascii-table","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/ascii-table"},"options":{"compress":true},"status":301}}

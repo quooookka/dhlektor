@@ -1,0 +1,2 @@
+
+124da2c8b37fc40e13e33adbda0ed14b0a3f2da7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-stream","integrity":null,"time":1733917101800,"size":"262","metadata":{"time":1733917101799,"url":"http://registry.npm.taobao.org/is-stream","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/is-stream"},"options":{"compress":true},"status":301}}

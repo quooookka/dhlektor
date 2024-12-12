@@ -1,0 +1,2 @@
+
+e4f7ac7c9c1813f4957e9bc39846ac0511b4cd2d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/log-symbols","integrity":null,"time":1733917102180,"size":"262","metadata":{"time":1733917102180,"url":"http://registry.npm.taobao.org/log-symbols","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/log-symbols"},"options":{"compress":true},"status":301}}

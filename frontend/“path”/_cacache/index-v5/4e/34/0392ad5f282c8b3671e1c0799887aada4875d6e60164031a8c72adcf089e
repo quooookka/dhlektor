@@ -1,0 +1,2 @@
+
+071d2fbe71634a27db20922ba8b088c3d2f21f72	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-glob/-/fast-glob-3.3.2.tgz","integrity":null,"time":1733830383754,"size":"262","metadata":{"time":1733830383753,"url":"http://registry.npm.taobao.org/fast-glob/-/fast-glob-3.3.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/fast-glob/-/fast-glob-3.3.2.tgz"},"options":{"compress":true},"status":301}}

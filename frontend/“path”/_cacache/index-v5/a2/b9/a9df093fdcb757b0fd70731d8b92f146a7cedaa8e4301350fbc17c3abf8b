@@ -1,0 +1,2 @@
+
+a229aba04e9aa599f84ac57cb3200ea87692eb70	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/symbol-tree/-/symbol-tree-3.2.4.tgz","integrity":null,"time":1733830381553,"size":"262","metadata":{"time":1733830381553,"url":"http://registry.npm.taobao.org/symbol-tree/-/symbol-tree-3.2.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/symbol-tree/-/symbol-tree-3.2.4.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+727ce83a3d75e8f92df66f22d9dc5c7e93a78bde	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/env-paths","integrity":null,"time":1733917100428,"size":"262","metadata":{"time":1733917100427,"url":"http://registry.npm.taobao.org/env-paths","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:21 GMT","location":"https://registry.npmmirror.com/env-paths"},"options":{"compress":true},"status":301}}

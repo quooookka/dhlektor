@@ -1,0 +1,2 @@
+
+bb7d299c4cf25103978fe81af46e0d48a4db57b7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eslint/-/eslint-9.15.0.tgz","integrity":null,"time":1733830383775,"size":"262","metadata":{"time":1733830383775,"url":"http://registry.npm.taobao.org/eslint/-/eslint-9.15.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/eslint/-/eslint-9.15.0.tgz"},"options":{"compress":true},"status":301}}

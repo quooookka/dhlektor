@@ -1,0 +1,2 @@
+
+cb2543e3b548141e03081778e495033dff592f30	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/byline/-/byline-5.0.0.tgz","integrity":null,"time":1733917126130,"size":"262","metadata":{"time":1733917126130,"url":"http://registry.npm.taobao.org/byline/-/byline-5.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:47 GMT","location":"https://registry.npmmirror.com/byline/-/byline-5.0.0.tgz"},"options":{"compress":true},"status":301}}

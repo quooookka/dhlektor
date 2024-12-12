@@ -1,5 +1,6 @@
 import os
 import posixpath
+import uuid
 from collections.abc import Iterator
 from collections.abc import Mapping
 from dataclasses import dataclass

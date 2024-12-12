@@ -1,0 +1,2 @@
+
+7af2a487c54310793051a8cf966483aed5ebde1c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/side-channel/-/side-channel-1.0.6.tgz","integrity":null,"time":1733917112498,"size":"262","metadata":{"time":1733917112498,"url":"http://registry.npm.taobao.org/side-channel/-/side-channel-1.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/side-channel/-/side-channel-1.0.6.tgz"},"options":{"compress":true},"status":301}}

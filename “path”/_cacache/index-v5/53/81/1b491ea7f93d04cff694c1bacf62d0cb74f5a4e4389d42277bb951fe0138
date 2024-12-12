@@ -1,0 +1,2 @@
+
+f052c27e147b96bda900374c4fb66ecae876de8e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fastest-levenshtein","integrity":null,"time":1733917100909,"size":"262","metadata":{"time":1733917100908,"url":"http://registry.npm.taobao.org/fastest-levenshtein","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/fastest-levenshtein"},"options":{"compress":true},"status":301}}

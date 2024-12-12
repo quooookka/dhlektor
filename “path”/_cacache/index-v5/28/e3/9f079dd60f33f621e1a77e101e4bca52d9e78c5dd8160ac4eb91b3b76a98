@@ -1,0 +1,2 @@
+
+3a686afb1beabb1c3e513404f76e1c7755072c7b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/decompress-response/-/decompress-response-6.0.0.tgz","integrity":null,"time":1733917124030,"size":"262","metadata":{"time":1733917124030,"url":"http://registry.npm.taobao.org/decompress-response/-/decompress-response-6.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/decompress-response/-/decompress-response-6.0.0.tgz"},"options":{"compress":true},"status":301}}

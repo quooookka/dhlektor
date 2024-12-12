@@ -1,0 +1,2 @@
+
+389d58593f08de04708a152208cb67171dfc27c3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/set-cookie-parser/-/set-cookie-parser-2.5.1.tgz","integrity":null,"time":1733917112656,"size":"262","metadata":{"time":1733917112656,"url":"http://registry.npm.taobao.org/set-cookie-parser/-/set-cookie-parser-2.5.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/set-cookie-parser/-/set-cookie-parser-2.5.1.tgz"},"options":{"compress":true},"status":301}}

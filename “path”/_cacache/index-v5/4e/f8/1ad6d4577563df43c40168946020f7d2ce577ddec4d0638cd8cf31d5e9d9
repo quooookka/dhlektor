@@ -1,0 +1,2 @@
+
+ad82abec038234fd050a64b2a61144b2945cde78	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/braces/-/braces-3.0.3.tgz","integrity":null,"time":1733917126174,"size":"262","metadata":{"time":1733917126174,"url":"http://registry.npm.taobao.org/braces/-/braces-3.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:47 GMT","location":"https://registry.npmmirror.com/braces/-/braces-3.0.3.tgz"},"options":{"compress":true},"status":301}}

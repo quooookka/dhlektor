@@ -1,0 +1,2 @@
+
+4d1cb017fb02a5112969883cd8c5aa75f3b1b747	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/listr2","integrity":null,"time":1733917101971,"size":"262","metadata":{"time":1733917101970,"url":"http://registry.npm.taobao.org/listr2","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/listr2"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+f459232cb015ca35c572c9841e2ef71f3c2bd01c	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/is-typedarray/-/is-typedarray-1.0.0.tgz","integrity":null,"time":1733917118723,"size":"262","metadata":{"time":1733917118723,"url":"http://registry.npm.taobao.org/is-typedarray/-/is-typedarray-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:39 GMT","location":"https://registry.npmmirror.com/is-typedarray/-/is-typedarray-1.0.0.tgz"},"options":{"compress":true},"status":301}}

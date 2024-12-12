@@ -1,0 +1,2 @@
+
+356fa76c84fe36c53273cc35c53e12c02273c6fd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/html-escaper/-/html-escaper-2.0.2.tgz","integrity":null,"time":1733830383060,"size":"262","metadata":{"time":1733830383060,"url":"http://registry.npm.taobao.org/html-escaper/-/html-escaper-2.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/html-escaper/-/html-escaper-2.0.2.tgz"},"options":{"compress":true},"status":301}}

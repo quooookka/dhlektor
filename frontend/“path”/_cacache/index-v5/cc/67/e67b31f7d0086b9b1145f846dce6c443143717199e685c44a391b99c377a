@@ -1,0 +1,2 @@
+
+61a4263a64c17fe72985e825251e8514922dc543	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/file-entry-cache/-/file-entry-cache-8.0.0.tgz","integrity":null,"time":1733830383581,"size":"262","metadata":{"time":1733830383581,"url":"http://registry.npm.taobao.org/file-entry-cache/-/file-entry-cache-8.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/file-entry-cache/-/file-entry-cache-8.0.0.tgz"},"options":{"compress":true},"status":301}}

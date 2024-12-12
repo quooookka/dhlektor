@@ -1,0 +1,2 @@
+
+f337a8919e925963345bc2566abcdd4cacb2120b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@netlify%2fedge-bundler","integrity":null,"time":1733917098607,"size":"262","metadata":{"time":1733917098606,"url":"http://registry.npm.taobao.org/@netlify%2fedge-bundler","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:19 GMT","location":"https://registry.npmmirror.com/@netlify%2fedge-bundler"},"options":{"compress":true},"status":301}}

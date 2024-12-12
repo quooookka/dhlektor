@@ -1,0 +1,2 @@
+
+cdebdf43ad03d864736793fa472d278f327b27a7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lazystream/-/lazystream-1.0.1.tgz","integrity":null,"time":1733917117650,"size":"262","metadata":{"time":1733917117649,"url":"http://registry.npm.taobao.org/lazystream/-/lazystream-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:38 GMT","location":"https://registry.npmmirror.com/lazystream/-/lazystream-1.0.1.tgz"},"options":{"compress":true},"status":301}}

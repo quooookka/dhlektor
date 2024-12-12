@@ -1,0 +1,2 @@
+
+96bea8c748bd70580bb5f6f730bc01f16cef66ab	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/text-hex/-/text-hex-1.0.0.tgz","integrity":null,"time":1733917111884,"size":"262","metadata":{"time":1733917111884,"url":"http://registry.npm.taobao.org/text-hex/-/text-hex-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/text-hex/-/text-hex-1.0.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+ebbde7f2a30d800faefa96a5eab019353e77c88e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@netlify/plugins-list/-/plugins-list-6.80.0.tgz","integrity":null,"time":1733917129435,"size":"262","metadata":{"time":1733917129435,"url":"http://registry.npm.taobao.org/@netlify/plugins-list/-/plugins-list-6.80.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@netlify/plugins-list/-/plugins-list-6.80.0.tgz"},"options":{"compress":true},"status":301}}

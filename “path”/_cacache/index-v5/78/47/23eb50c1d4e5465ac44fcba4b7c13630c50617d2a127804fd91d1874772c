@@ -1,0 +1,2 @@
+
+15a3c379812958b8a044c4a697fb1183aa20458b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tslib/-/tslib-1.14.1.tgz","integrity":null,"time":1733917111684,"size":"262","metadata":{"time":1733917111684,"url":"http://registry.npm.taobao.org/tslib/-/tslib-1.14.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/tslib/-/tslib-1.14.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+59e435e38c17303db66846b373da30af7aed8590	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/simple-concat/-/simple-concat-1.0.1.tgz","integrity":null,"time":1733917112465,"size":"262","metadata":{"time":1733917112464,"url":"http://registry.npm.taobao.org/simple-concat/-/simple-concat-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/simple-concat/-/simple-concat-1.0.1.tgz"},"options":{"compress":true},"status":301}}

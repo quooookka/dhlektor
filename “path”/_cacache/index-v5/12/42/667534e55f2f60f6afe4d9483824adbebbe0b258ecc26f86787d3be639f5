@@ -1,0 +1,2 @@
+
+cd37285bdcd58788540e0e54467c316789d61cc7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/onetime/-/onetime-5.1.2.tgz","integrity":null,"time":1733917114678,"size":"262","metadata":{"time":1733917114678,"url":"http://registry.npm.taobao.org/onetime/-/onetime-5.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:35 GMT","location":"https://registry.npmmirror.com/onetime/-/onetime-5.1.2.tgz"},"options":{"compress":true},"status":301}}

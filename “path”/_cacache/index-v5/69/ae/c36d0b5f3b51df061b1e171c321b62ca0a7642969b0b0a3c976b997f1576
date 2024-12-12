@@ -1,0 +1,2 @@
+
+991ddc1612b513fd0b6a200cd87b4e06f16bb481	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/sharp/-/sharp-0.32.6.tgz","integrity":null,"time":1733917112653,"size":"262","metadata":{"time":1733917112653,"url":"http://registry.npm.taobao.org/sharp/-/sharp-0.32.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/sharp/-/sharp-0.32.6.tgz"},"options":{"compress":true},"status":301}}

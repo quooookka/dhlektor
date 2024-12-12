@@ -1,0 +1,2 @@
+
+e0674a90eadc4f8f129fb7dd31cee85331e911c3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/diff/-/diff-4.0.2.tgz","integrity":null,"time":1733917132362,"size":"262","metadata":{"time":1733917132362,"url":"http://registry.npm.taobao.org/diff/-/diff-4.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:53 GMT","location":"https://registry.npmmirror.com/diff/-/diff-4.0.2.tgz"},"options":{"compress":true},"status":301}}

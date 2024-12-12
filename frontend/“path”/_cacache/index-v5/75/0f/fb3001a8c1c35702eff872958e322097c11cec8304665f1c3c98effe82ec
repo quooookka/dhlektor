@@ -1,0 +1,2 @@
+
+ce6b7ba3a1f3810d320428448dd2f10ecae8fc98	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/js-yaml/-/js-yaml-3.14.1.tgz","integrity":null,"time":1733830386719,"size":"262","metadata":{"time":1733830386719,"url":"http://registry.npm.taobao.org/js-yaml/-/js-yaml-3.14.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:07 GMT","location":"https://registry.npmmirror.com/js-yaml/-/js-yaml-3.14.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+39fbb579a4cf55f0756ce134c63dc928f1067d69	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/semver/-/semver-6.3.1.tgz","integrity":null,"time":1733917134705,"size":"262","metadata":{"time":1733917134705,"url":"http://registry.npm.taobao.org/semver/-/semver-6.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:55 GMT","location":"https://registry.npmmirror.com/semver/-/semver-6.3.1.tgz"},"options":{"compress":true},"status":301}}

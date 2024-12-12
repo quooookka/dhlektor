@@ -1,0 +1,2 @@
+
+65691d45aa3855a67acdc4ab7381ec626ecd2cc8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/foreground-child/-/foreground-child-2.0.0.tgz","integrity":null,"time":1733830386124,"size":"262","metadata":{"time":1733830386123,"url":"http://registry.npm.taobao.org/foreground-child/-/foreground-child-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:07 GMT","location":"https://registry.npmmirror.com/foreground-child/-/foreground-child-2.0.0.tgz"},"options":{"compress":true},"status":301}}

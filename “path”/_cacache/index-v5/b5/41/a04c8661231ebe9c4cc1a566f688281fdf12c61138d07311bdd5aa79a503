@@ -1,0 +1,2 @@
+
+000c6c8b6de4c20eb854b0b2680bd77aff7711cd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/defu/-/defu-6.1.4.tgz","integrity":null,"time":1733917123777,"size":"262","metadata":{"time":1733917123777,"url":"http://registry.npm.taobao.org/defu/-/defu-6.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/defu/-/defu-6.1.4.tgz"},"options":{"compress":true},"status":301}}

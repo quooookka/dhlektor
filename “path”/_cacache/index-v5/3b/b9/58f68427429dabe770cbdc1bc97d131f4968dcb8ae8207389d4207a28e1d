@@ -1,0 +1,2 @@
+
+38b8dd5dc4f06924a84807d964293970f31045af	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hasbin/-/hasbin-1.2.3.tgz","integrity":null,"time":1733917119419,"size":"262","metadata":{"time":1733917119418,"url":"http://registry.npm.taobao.org/hasbin/-/hasbin-1.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/hasbin/-/hasbin-1.2.3.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+75788cca2e8241d0657569bbb21167ae03605050	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/environment/-/environment-1.1.0.tgz","integrity":null,"time":1733917122735,"size":"262","metadata":{"time":1733917122735,"url":"http://registry.npm.taobao.org/environment/-/environment-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:43 GMT","location":"https://registry.npmmirror.com/environment/-/environment-1.1.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+127cd31b69cf2a9042d5a53c9f31f79d0070119d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/yallist/-/yallist-3.1.1.tgz","integrity":null,"time":1733830381515,"size":"262","metadata":{"time":1733830381515,"url":"http://registry.npm.taobao.org/yallist/-/yallist-3.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/yallist/-/yallist-3.1.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4b14eb8144f40c79f04b49fe952b32940dffb893	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ee-first/-/ee-first-1.1.1.tgz","integrity":null,"time":1733917123370,"size":"262","metadata":{"time":1733917123370,"url":"http://registry.npm.taobao.org/ee-first/-/ee-first-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:43 GMT","location":"https://registry.npmmirror.com/ee-first/-/ee-first-1.1.1.tgz"},"options":{"compress":true},"status":301}}

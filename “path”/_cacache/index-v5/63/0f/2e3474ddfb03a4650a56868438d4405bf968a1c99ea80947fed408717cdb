@@ -1,0 +1,2 @@
+
+d21c876f4823960ed415c1ab84d19527503cc040	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/netlify-cli","integrity":null,"time":1733917098004,"size":"262","metadata":{"time":1733917098004,"url":"http://registry.npm.taobao.org/netlify-cli","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:19 GMT","location":"https://registry.npmmirror.com/netlify-cli"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+bb386b100ca866f9a3b4f853bd93344dbb47a6da	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/get-package-name/-/get-package-name-2.2.0.tgz","integrity":null,"time":1733917120858,"size":"262","metadata":{"time":1733917120858,"url":"http://registry.npm.taobao.org/get-package-name/-/get-package-name-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:41 GMT","location":"https://registry.npmmirror.com/get-package-name/-/get-package-name-2.2.0.tgz"},"options":{"compress":true},"status":301}}

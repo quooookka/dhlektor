@@ -1,0 +1,2 @@
+
+5ba4dd67d977f203bf7f7434751d3fc0a2586ec2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hasha/-/hasha-5.2.2.tgz","integrity":null,"time":1733830383157,"size":"262","metadata":{"time":1733830383157,"url":"http://registry.npm.taobao.org/hasha/-/hasha-5.2.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/hasha/-/hasha-5.2.2.tgz"},"options":{"compress":true},"status":301}}

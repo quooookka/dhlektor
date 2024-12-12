@@ -1,0 +1,2 @@
+
+c32bba9f40dbcf67fb416ca380f0c14c18505222	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/uuid/-/uuid-9.0.1.tgz","integrity":null,"time":1733917111406,"size":"262","metadata":{"time":1733917111405,"url":"http://registry.npm.taobao.org/uuid/-/uuid-9.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/uuid/-/uuid-9.0.1.tgz"},"options":{"compress":true},"status":301}}

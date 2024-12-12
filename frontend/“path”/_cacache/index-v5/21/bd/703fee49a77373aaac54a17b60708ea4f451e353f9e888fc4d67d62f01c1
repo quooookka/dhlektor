@@ -1,0 +1,2 @@
+
+24cedfe00305d8839bf01b213f693c738d97131b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@popperjs/core/-/core-2.11.8.tgz","integrity":null,"time":1733830385221,"size":"262","metadata":{"time":1733830385221,"url":"http://registry.npm.taobao.org/@popperjs/core/-/core-2.11.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:06 GMT","location":"https://registry.npmmirror.com/@popperjs/core/-/core-2.11.8.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+0186895c241e9c6a9e54c22ee1bcd9c879d9d5a4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/netlify-headers-parser","integrity":null,"time":1733917102384,"size":"262","metadata":{"time":1733917102384,"url":"http://registry.npm.taobao.org/netlify-headers-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/netlify-headers-parser"},"options":{"compress":true},"status":301}}

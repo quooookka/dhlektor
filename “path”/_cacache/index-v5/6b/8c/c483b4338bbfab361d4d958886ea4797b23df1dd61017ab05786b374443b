@@ -1,0 +1,2 @@
+
+db81006150a363e6f369c7049779cb7f937798ac	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@octokit/auth-token/-/auth-token-4.0.0.tgz","integrity":null,"time":1733917129391,"size":"262","metadata":{"time":1733917129391,"url":"http://registry.npm.taobao.org/@octokit/auth-token/-/auth-token-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@octokit/auth-token/-/auth-token-4.0.0.tgz"},"options":{"compress":true},"status":301}}

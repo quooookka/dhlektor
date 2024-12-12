@@ -1,0 +1,2 @@
+
+a11e848f8bd00ad0eac34e77cbc21ecaf196f21a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cyclist/-/cyclist-1.0.1.tgz","integrity":null,"time":1733917124039,"size":"262","metadata":{"time":1733917124038,"url":"http://registry.npm.taobao.org/cyclist/-/cyclist-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/cyclist/-/cyclist-1.0.1.tgz"},"options":{"compress":true},"status":301}}

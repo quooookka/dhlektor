@@ -1,0 +1,2 @@
+
+f0c21ccebae7a31d013371a16cdb27a457467a46	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/emoji-regex/-/emoji-regex-10.3.0.tgz","integrity":null,"time":1733917142485,"size":"262","metadata":{"time":1733917142485,"url":"http://registry.npm.taobao.org/emoji-regex/-/emoji-regex-10.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:03 GMT","location":"https://registry.npmmirror.com/emoji-regex/-/emoji-regex-10.3.0.tgz"},"options":{"compress":true},"status":301}}

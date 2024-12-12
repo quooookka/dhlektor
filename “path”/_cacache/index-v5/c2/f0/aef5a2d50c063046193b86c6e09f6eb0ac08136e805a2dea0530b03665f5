@@ -1,0 +1,2 @@
+
+74185ea44ea6447281931dd471add1ef699823a9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/commander/-/commander-9.5.0.tgz","integrity":null,"time":1733917131876,"size":"262","metadata":{"time":1733917131876,"url":"http://registry.npm.taobao.org/commander/-/commander-9.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:52 GMT","location":"https://registry.npmmirror.com/commander/-/commander-9.5.0.tgz"},"options":{"compress":true},"status":301}}

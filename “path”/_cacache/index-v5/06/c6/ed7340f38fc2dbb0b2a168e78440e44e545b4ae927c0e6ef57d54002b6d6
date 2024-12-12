@@ -1,0 +1,2 @@
+
+8a329171f5c16ad33c19ac40f035ee6b1435f65d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unstorage/-/unstorage-1.10.1.tgz","integrity":null,"time":1733917135644,"size":"262","metadata":{"time":1733917135644,"url":"http://registry.npm.taobao.org/unstorage/-/unstorage-1.10.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:56 GMT","location":"https://registry.npmmirror.com/unstorage/-/unstorage-1.10.1.tgz"},"options":{"compress":true},"status":301}}

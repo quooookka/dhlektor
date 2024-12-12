@@ -1,0 +1,2 @@
+
+e17dcef322e888cfa27a02867ea15366e1a9ab52	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/eventemitter3/-/eventemitter3-4.0.7.tgz","integrity":null,"time":1733917122458,"size":"262","metadata":{"time":1733917122458,"url":"http://registry.npm.taobao.org/eventemitter3/-/eventemitter3-4.0.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:43 GMT","location":"https://registry.npmmirror.com/eventemitter3/-/eventemitter3-4.0.7.tgz"},"options":{"compress":true},"status":301}}

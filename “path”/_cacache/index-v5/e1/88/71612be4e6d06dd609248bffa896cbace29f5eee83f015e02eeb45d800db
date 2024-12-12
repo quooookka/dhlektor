@@ -1,0 +1,2 @@
+
+f6e3524b342cf9f6b844dbd34a257c4a89d48dac	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/glob/-/glob-10.3.15.tgz","integrity":null,"time":1733917143619,"size":"262","metadata":{"time":1733917143619,"url":"http://registry.npm.taobao.org/glob/-/glob-10.3.15.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:04 GMT","location":"https://registry.npmmirror.com/glob/-/glob-10.3.15.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+5d4fe90d6e8e28dd4be6a13d20b21faff3505996	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mdn-data/-/mdn-data-2.0.28.tgz","integrity":null,"time":1733917137149,"size":"262","metadata":{"time":1733917137148,"url":"http://registry.npm.taobao.org/mdn-data/-/mdn-data-2.0.28.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:57 GMT","location":"https://registry.npmmirror.com/mdn-data/-/mdn-data-2.0.28.tgz"},"options":{"compress":true},"status":301}}

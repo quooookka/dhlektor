@@ -1,0 +1,2 @@
+
+85cc66078ce8c031d2a2f4360e23658ccdd3e9a5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jwt-decode","integrity":null,"time":1733917101959,"size":"262","metadata":{"time":1733917101958,"url":"http://registry.npm.taobao.org/jwt-decode","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/jwt-decode"},"options":{"compress":true},"status":301}}

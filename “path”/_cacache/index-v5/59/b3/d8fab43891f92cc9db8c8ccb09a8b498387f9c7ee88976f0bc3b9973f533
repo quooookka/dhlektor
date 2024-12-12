@@ -1,0 +1,2 @@
+
+39c1313110a88c9e8d7ecabdb64dd91f3230fd92	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ajv/-/ajv-6.12.6.tgz","integrity":null,"time":1733917127535,"size":"262","metadata":{"time":1733917127535,"url":"http://registry.npm.taobao.org/ajv/-/ajv-6.12.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:48 GMT","location":"https://registry.npmmirror.com/ajv/-/ajv-6.12.6.tgz"},"options":{"compress":true},"status":301}}

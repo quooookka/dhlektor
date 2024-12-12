@@ -1,0 +1,2 @@
+
+5e7e1bc1d79aa8ec5f9853edf0c1667e9c8166c8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fuzzy","integrity":null,"time":1733917101175,"size":"262","metadata":{"time":1733917101174,"url":"http://registry.npm.taobao.org/fuzzy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:22 GMT","location":"https://registry.npmmirror.com/fuzzy"},"options":{"compress":true},"status":301}}

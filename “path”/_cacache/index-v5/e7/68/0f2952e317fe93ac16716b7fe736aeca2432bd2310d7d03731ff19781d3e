@@ -1,0 +1,2 @@
+
+19800a1a37cb8e1e8b4240d3d404b319808cb809	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ieee754/-/ieee754-1.2.1.tgz","integrity":null,"time":1733917119124,"size":"262","metadata":{"time":1733917119124,"url":"http://registry.npm.taobao.org/ieee754/-/ieee754-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:40 GMT","location":"https://registry.npmmirror.com/ieee754/-/ieee754-1.2.1.tgz"},"options":{"compress":true},"status":301}}

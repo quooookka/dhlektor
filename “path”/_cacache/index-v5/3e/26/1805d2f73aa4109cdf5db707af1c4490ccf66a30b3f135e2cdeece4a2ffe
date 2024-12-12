@@ -1,0 +1,2 @@
+
+c5e90cd7324500e24b46d32cd5fb474416739aef	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/temp-dir/-/temp-dir-3.0.0.tgz","integrity":null,"time":1733917111911,"size":"262","metadata":{"time":1733917111911,"url":"http://registry.npm.taobao.org/temp-dir/-/temp-dir-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/temp-dir/-/temp-dir-3.0.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+fc09e3ca8614b394210cc357f02bcf908e911b5d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/strip-bom/-/strip-bom-4.0.0.tgz","integrity":null,"time":1733830381616,"size":"262","metadata":{"time":1733830381616,"url":"http://registry.npm.taobao.org/strip-bom/-/strip-bom-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/strip-bom/-/strip-bom-4.0.0.tgz"},"options":{"compress":true},"status":301}}

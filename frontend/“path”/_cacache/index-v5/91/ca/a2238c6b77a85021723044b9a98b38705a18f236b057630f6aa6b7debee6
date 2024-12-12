@@ -1,0 +1,2 @@
+
+a7dc1208f7cb9db377fb1c91fae0e1e585141673	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/xml-name-validator/-/xml-name-validator-5.0.0.tgz","integrity":null,"time":1733830381410,"size":"262","metadata":{"time":1733830381410,"url":"http://registry.npm.taobao.org/xml-name-validator/-/xml-name-validator-5.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/xml-name-validator/-/xml-name-validator-5.0.0.tgz"},"options":{"compress":true},"status":301}}

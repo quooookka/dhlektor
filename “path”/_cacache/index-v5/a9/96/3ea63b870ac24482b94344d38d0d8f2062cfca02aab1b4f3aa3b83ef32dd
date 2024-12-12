@@ -1,0 +1,2 @@
+
+c4bcbc4f980ddf2088c83ceb091e2e9bb98e62a8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ansi-to-html","integrity":null,"time":1733917099165,"size":"262","metadata":{"time":1733917099165,"url":"http://registry.npm.taobao.org/ansi-to-html","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/ansi-to-html"},"options":{"compress":true},"status":301}}

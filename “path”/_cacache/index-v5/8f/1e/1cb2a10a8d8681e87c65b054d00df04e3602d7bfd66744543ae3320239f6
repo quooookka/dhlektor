@@ -1,0 +1,2 @@
+
+bf70acc960ff0c721337f8aa44dd217ffd20a23a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz","integrity":null,"time":1733917143162,"size":"262","metadata":{"time":1733917143161,"url":"http://registry.npm.taobao.org/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:04 GMT","location":"https://registry.npmmirror.com/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz"},"options":{"compress":true},"status":301}}

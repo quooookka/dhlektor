@@ -1,0 +1,2 @@
+
+a96f252c4d20f3633dfbf2dc7111e9bf404b5241	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ms/-/ms-2.1.3.tgz","integrity":null,"time":1733830382142,"size":"262","metadata":{"time":1733830382142,"url":"http://registry.npm.taobao.org/ms/-/ms-2.1.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/ms/-/ms-2.1.3.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+977d476782a8a9ceeaa82832653f2a348102b965	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/p-event/-/p-event-4.2.0.tgz","integrity":null,"time":1733917137688,"size":"262","metadata":{"time":1733917137688,"url":"http://registry.npm.taobao.org/p-event/-/p-event-4.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:58 GMT","location":"https://registry.npmmirror.com/p-event/-/p-event-4.2.0.tgz"},"options":{"compress":true},"status":301}}

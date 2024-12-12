@@ -1,0 +1,2 @@
+
+648648bf34c447b1713a871ff5f746aaface0526	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/node-version-alias/-/node-version-alias-3.4.1.tgz","integrity":null,"time":1733917115123,"size":"262","metadata":{"time":1733917115123,"url":"http://registry.npm.taobao.org/node-version-alias/-/node-version-alias-3.4.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/node-version-alias/-/node-version-alias-3.4.1.tgz"},"options":{"compress":true},"status":301}}

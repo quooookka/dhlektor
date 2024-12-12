@@ -1,0 +1,2 @@
+
+638d0006eb629fdacfce823d9cb05d392e646a34	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/streamx/-/streamx-2.15.0.tgz","integrity":null,"time":1733917112134,"size":"262","metadata":{"time":1733917112134,"url":"http://registry.npm.taobao.org/streamx/-/streamx-2.15.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/streamx/-/streamx-2.15.0.tgz"},"options":{"compress":true},"status":301}}

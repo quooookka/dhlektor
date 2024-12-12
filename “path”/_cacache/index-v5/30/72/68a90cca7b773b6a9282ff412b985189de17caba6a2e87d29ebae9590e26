@@ -1,0 +1,2 @@
+
+62b3e57ea5206dcfb3cb0623822e0ecd952cc9f6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/parallel-transform","integrity":null,"time":1733917102748,"size":"262","metadata":{"time":1733917102748,"url":"http://registry.npm.taobao.org/parallel-transform","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:23 GMT","location":"https://registry.npmmirror.com/parallel-transform"},"options":{"compress":true},"status":301}}

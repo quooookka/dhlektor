@@ -1,0 +1,2 @@
+
+66c11885ff0c76cc7eb2d94de1704a1d38496649	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/run-parallel/-/run-parallel-1.2.0.tgz","integrity":null,"time":1733917112924,"size":"262","metadata":{"time":1733917112924,"url":"http://registry.npm.taobao.org/run-parallel/-/run-parallel-1.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/run-parallel/-/run-parallel-1.2.0.tgz"},"options":{"compress":true},"status":301}}

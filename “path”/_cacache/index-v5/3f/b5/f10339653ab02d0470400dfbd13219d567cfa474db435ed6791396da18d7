@@ -1,0 +1,2 @@
+
+b8ece9332c371917c9953681055d5e921faa29ae	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/unixify","integrity":null,"time":1733917103523,"size":"262","metadata":{"time":1733917103523,"url":"http://registry.npm.taobao.org/unixify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/unixify"},"options":{"compress":true},"status":301}}

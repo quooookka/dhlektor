@@ -1,0 +1,2 @@
+
+07c950969c3079e53cdb652f58f24706d02c92a8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/time-zone/-/time-zone-1.0.0.tgz","integrity":null,"time":1733917111797,"size":"262","metadata":{"time":1733917111797,"url":"http://registry.npm.taobao.org/time-zone/-/time-zone-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/time-zone/-/time-zone-1.0.0.tgz"},"options":{"compress":true},"status":301}}

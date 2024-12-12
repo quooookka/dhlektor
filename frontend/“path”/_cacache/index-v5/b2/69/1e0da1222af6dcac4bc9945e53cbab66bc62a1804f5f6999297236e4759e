@@ -1,0 +1,2 @@
+
+f407a52ac0029c7f22b4e6bd430ee1a49b07767e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/xmlchars/-/xmlchars-2.2.0.tgz","integrity":null,"time":1733830381404,"size":"262","metadata":{"time":1733830381404,"url":"http://registry.npm.taobao.org/xmlchars/-/xmlchars-2.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/xmlchars/-/xmlchars-2.2.0.tgz"},"options":{"compress":true},"status":301}}

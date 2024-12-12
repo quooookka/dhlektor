@@ -1,0 +1,2 @@
+
+454c7c57a731611168ff002d770bf0fba1d10917	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/os-tmpdir/-/os-tmpdir-1.0.2.tgz","integrity":null,"time":1733917114639,"size":"262","metadata":{"time":1733917114639,"url":"http://registry.npm.taobao.org/os-tmpdir/-/os-tmpdir-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:35 GMT","location":"https://registry.npmmirror.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+2b1d97384acb013670d2cf2fff7792e11650e933	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/typescript/-/typescript-5.4.5.tgz","integrity":null,"time":1733917137064,"size":"262","metadata":{"time":1733917137064,"url":"http://registry.npm.taobao.org/typescript/-/typescript-5.4.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:57 GMT","location":"https://registry.npmmirror.com/typescript/-/typescript-5.4.5.tgz"},"options":{"compress":true},"status":301}}

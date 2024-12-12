@@ -1,0 +1,2 @@
+
+412116d211ec3e9553432e3d433ed29b6fbe0163	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/external-editor/-/external-editor-3.1.0.tgz","integrity":null,"time":1733917122440,"size":"262","metadata":{"time":1733917122440,"url":"http://registry.npm.taobao.org/external-editor/-/external-editor-3.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:43 GMT","location":"https://registry.npmmirror.com/external-editor/-/external-editor-3.1.0.tgz"},"options":{"compress":true},"status":301}}

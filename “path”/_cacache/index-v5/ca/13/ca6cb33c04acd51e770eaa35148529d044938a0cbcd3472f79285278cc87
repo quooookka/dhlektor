@@ -1,0 +1,2 @@
+
+eb7ff2d3d71746284a89832f0659ca653247206b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@bugsnag%2fjs","integrity":null,"time":1733917098531,"size":"262","metadata":{"time":1733917098531,"url":"http://registry.npm.taobao.org/@bugsnag%2fjs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:19 GMT","location":"https://registry.npmmirror.com/@bugsnag%2fjs"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+8c1ba20b22ad02a7e40317cac7a86640336569d0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/dot-prop","integrity":null,"time":1733917100405,"size":"262","metadata":{"time":1733917100405,"url":"http://registry.npm.taobao.org/dot-prop","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:21 GMT","location":"https://registry.npmmirror.com/dot-prop"},"options":{"compress":true},"status":301}}

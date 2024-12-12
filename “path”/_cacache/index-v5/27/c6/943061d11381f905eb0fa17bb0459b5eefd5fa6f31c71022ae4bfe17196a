@@ -1,0 +1,2 @@
+
+d95dc00508b8911da2d8cf5c6fa3bf818a5e1714	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/queue-microtask/-/queue-microtask-1.2.3.tgz","integrity":null,"time":1733917113537,"size":"262","metadata":{"time":1733917113537,"url":"http://registry.npm.taobao.org/queue-microtask/-/queue-microtask-1.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/queue-microtask/-/queue-microtask-1.2.3.tgz"},"options":{"compress":true},"status":301}}

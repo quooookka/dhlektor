@@ -1,0 +1,2 @@
+
+c798be4ae4a5e0698e13e715275855d3ef298893	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/domelementtype/-/domelementtype-2.3.0.tgz","integrity":null,"time":1733917123401,"size":"262","metadata":{"time":1733917123401,"url":"http://registry.npm.taobao.org/domelementtype/-/domelementtype-2.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:44 GMT","location":"https://registry.npmmirror.com/domelementtype/-/domelementtype-2.3.0.tgz"},"options":{"compress":true},"status":301}}

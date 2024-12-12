@@ -1,0 +1,2 @@
+
+879535dc7ef8c4c38b39b44232e53637c17d779d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fetch-blob/-/fetch-blob-3.1.4.tgz","integrity":null,"time":1733917121694,"size":"262","metadata":{"time":1733917121694,"url":"http://registry.npm.taobao.org/fetch-blob/-/fetch-blob-3.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:42 GMT","location":"https://registry.npmmirror.com/fetch-blob/-/fetch-blob-3.1.4.tgz"},"options":{"compress":true},"status":301}}

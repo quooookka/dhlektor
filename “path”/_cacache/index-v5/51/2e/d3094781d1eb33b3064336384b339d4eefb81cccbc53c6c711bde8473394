@@ -1,0 +1,2 @@
+
+46ef07c8cb0201f3183cae2400124794b6501f46	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/chokidar","integrity":null,"time":1733917099576,"size":"262","metadata":{"time":1733917099576,"url":"http://registry.npm.taobao.org/chokidar","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:20 GMT","location":"https://registry.npmmirror.com/chokidar"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+26cb389fc2064b1f88d14a466ebe7997888f7c22	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz","integrity":null,"time":1733917112842,"size":"262","metadata":{"time":1733917112842,"url":"http://registry.npm.taobao.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/resolve-alpn/-/resolve-alpn-1.2.1.tgz"},"options":{"compress":true},"status":301}}

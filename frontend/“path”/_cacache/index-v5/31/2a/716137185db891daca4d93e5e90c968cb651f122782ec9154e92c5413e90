@@ -1,0 +1,2 @@
+
+1e74d20fd547428c50714267a9896bfcea561c5a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/randombytes/-/randombytes-2.1.0.tgz","integrity":null,"time":1733830381797,"size":"262","metadata":{"time":1733830381797,"url":"http://registry.npm.taobao.org/randombytes/-/randombytes-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:03 GMT","location":"https://registry.npmmirror.com/randombytes/-/randombytes-2.1.0.tgz"},"options":{"compress":true},"status":301}}

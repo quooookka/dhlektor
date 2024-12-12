@@ -1,0 +1,2 @@
+
+9d7fc8bab65d9b5209ca37e41a5a17ca7eadb8b4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/package-json/-/package-json-10.0.1.tgz","integrity":null,"time":1733917114262,"size":"262","metadata":{"time":1733917114262,"url":"http://registry.npm.taobao.org/package-json/-/package-json-10.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:35 GMT","location":"https://registry.npmmirror.com/package-json/-/package-json-10.0.1.tgz"},"options":{"compress":true},"status":301}}

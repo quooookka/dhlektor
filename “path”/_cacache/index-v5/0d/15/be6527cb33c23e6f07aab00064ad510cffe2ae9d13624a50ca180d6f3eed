@@ -1,0 +1,2 @@
+
+f9e57a1efbd37b3fd0b7de65471657761968365a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@netlify/binary-info/-/binary-info-1.0.0.tgz","integrity":null,"time":1733917130114,"size":"262","metadata":{"time":1733917130114,"url":"http://registry.npm.taobao.org/@netlify/binary-info/-/binary-info-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:50 GMT","location":"https://registry.npmmirror.com/@netlify/binary-info/-/binary-info-1.0.0.tgz"},"options":{"compress":true},"status":301}}

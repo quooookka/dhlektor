@@ -1,0 +1,2 @@
+
+74dc3a689382429b19de90db3b18884adc1a2373	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/simple-get/-/simple-get-4.0.1.tgz","integrity":null,"time":1733917112414,"size":"262","metadata":{"time":1733917112414,"url":"http://registry.npm.taobao.org/simple-get/-/simple-get-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/simple-get/-/simple-get-4.0.1.tgz"},"options":{"compress":true},"status":301}}

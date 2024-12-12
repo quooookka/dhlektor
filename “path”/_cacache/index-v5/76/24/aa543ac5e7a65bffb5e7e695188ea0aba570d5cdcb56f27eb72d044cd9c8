@@ -1,0 +1,2 @@
+
+1aecc732ad2386485b18b4ad066fb7125ad1c8c4	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz","integrity":null,"time":1733917121692,"size":"262","metadata":{"time":1733917121692,"url":"http://registry.npm.taobao.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:42 GMT","location":"https://registry.npmmirror.com/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz"},"options":{"compress":true},"status":301}}

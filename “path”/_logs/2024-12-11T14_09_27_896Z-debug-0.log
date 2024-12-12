@@ -1,0 +1,16 @@
+0 verbose cli D:\Software\nodejs\node.exe D:\Software\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v22.10.0
+3 silly config load:file:D:\Software\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\67027\.npmrc
+5 silly config load:file:D:\Project\Git\dhlektor\path\etc\npmrc
+6 verbose title npm root
+7 verbose argv "root" "--global"
+8 verbose logfile logs-max:10 dir:D:\Project\Git\dhlektor\“path”\_logs\2024-12-11T14_09_27_896Z-
+9 verbose logfile D:\Project\Git\dhlektor\“path”\_logs\2024-12-11T14_09_27_896Z-debug-0.log
+10 verbose cwd D:\Project\Git\dhlektor
+11 verbose os Windows_NT 10.0.22631
+12 verbose node v22.10.0
+13 verbose npm  v10.9.0
+14 verbose exit 0
+15 info ok

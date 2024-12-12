@@ -1,0 +1,2 @@
+
+f6c44296c607ac39a3926a716fcdf983409685d5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/safe-regex-test/-/safe-regex-test-1.0.3.tgz","integrity":null,"time":1733830381717,"size":"262","metadata":{"time":1733830381717,"url":"http://registry.npm.taobao.org/safe-regex-test/-/safe-regex-test-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/safe-regex-test/-/safe-regex-test-1.0.3.tgz"},"options":{"compress":true},"status":301}}

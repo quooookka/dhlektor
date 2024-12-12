@@ -1,0 +1,2 @@
+
+625122b6973b9047b4c806c6cedb40e339a3860e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/rxjs/-/rxjs-6.6.7.tgz","integrity":null,"time":1733917112785,"size":"262","metadata":{"time":1733917112785,"url":"http://registry.npm.taobao.org/rxjs/-/rxjs-6.6.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:33 GMT","location":"https://registry.npmmirror.com/rxjs/-/rxjs-6.6.7.tgz"},"options":{"compress":true},"status":301}}

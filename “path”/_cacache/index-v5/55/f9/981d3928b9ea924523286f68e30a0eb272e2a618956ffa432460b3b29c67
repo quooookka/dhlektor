@@ -1,0 +1,2 @@
+
+ec88c29febf688a422008a5f51d02cd724007abc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/isarray/-/isarray-1.0.0.tgz","integrity":null,"time":1733917118680,"size":"262","metadata":{"time":1733917118680,"url":"http://registry.npm.taobao.org/isarray/-/isarray-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:39 GMT","location":"https://registry.npmmirror.com/isarray/-/isarray-1.0.0.tgz"},"options":{"compress":true},"status":301}}

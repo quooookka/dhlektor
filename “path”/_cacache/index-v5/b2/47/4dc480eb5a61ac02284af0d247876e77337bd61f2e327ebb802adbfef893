@@ -1,0 +1,2 @@
+
+82ac6e7bd6795101df0ad90e9ded4c66ecd3ea68	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/wait-port","integrity":null,"time":1733917103574,"size":"262","metadata":{"time":1733917103574,"url":"http://registry.npm.taobao.org/wait-port","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/wait-port"},"options":{"compress":true},"status":301}}

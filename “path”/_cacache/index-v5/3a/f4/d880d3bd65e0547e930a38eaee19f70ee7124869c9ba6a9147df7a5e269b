@@ -1,0 +1,2 @@
+
+848c8e788c42f9ae07b48888657cc6f36beb8f05	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/terminal-link/-/terminal-link-3.0.0.tgz","integrity":null,"time":1733917111887,"size":"262","metadata":{"time":1733917111886,"url":"http://registry.npm.taobao.org/terminal-link/-/terminal-link-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/terminal-link/-/terminal-link-3.0.0.tgz"},"options":{"compress":true},"status":301}}

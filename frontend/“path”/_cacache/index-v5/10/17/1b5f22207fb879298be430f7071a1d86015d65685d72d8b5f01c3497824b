@@ -1,0 +1,2 @@
+
+572afc88ecbc9a255e2a6d8e6c15a990b7e41f41	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/source-map/-/source-map-0.6.1.tgz","integrity":null,"time":1733830381666,"size":"262","metadata":{"time":1733830381666,"url":"http://registry.npm.taobao.org/source-map/-/source-map-0.6.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:02 GMT","location":"https://registry.npmmirror.com/source-map/-/source-map-0.6.1.tgz"},"options":{"compress":true},"status":301}}

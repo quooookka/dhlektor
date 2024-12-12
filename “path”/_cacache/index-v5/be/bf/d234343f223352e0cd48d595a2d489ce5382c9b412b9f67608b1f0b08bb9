@@ -1,0 +1,2 @@
+
+8bb6f37b64598245fec52012b8cc3651aedee15d	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/colorspace/-/colorspace-1.1.4.tgz","integrity":null,"time":1733917125107,"size":"262","metadata":{"time":1733917125107,"url":"http://registry.npm.taobao.org/colorspace/-/colorspace-1.1.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:45 GMT","location":"https://registry.npmmirror.com/colorspace/-/colorspace-1.1.4.tgz"},"options":{"compress":true},"status":301}}

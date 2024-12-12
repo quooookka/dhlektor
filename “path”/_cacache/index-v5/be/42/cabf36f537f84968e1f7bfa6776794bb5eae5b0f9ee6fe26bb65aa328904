@@ -1,0 +1,2 @@
+
+183953c0c77950126014a1409ed6abf54cf64ef0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cluster-key-slot/-/cluster-key-slot-1.1.2.tgz","integrity":null,"time":1733917125558,"size":"262","metadata":{"time":1733917125558,"url":"http://registry.npm.taobao.org/cluster-key-slot/-/cluster-key-slot-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:46 GMT","location":"https://registry.npmmirror.com/cluster-key-slot/-/cluster-key-slot-1.1.2.tgz"},"options":{"compress":true},"status":301}}

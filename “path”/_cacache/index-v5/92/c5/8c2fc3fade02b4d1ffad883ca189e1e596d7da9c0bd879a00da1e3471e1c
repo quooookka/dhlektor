@@ -1,0 +1,2 @@
+
+384cc460a5fa1f4c288f4bdce12684fc2cf382be	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/redis-parser/-/redis-parser-3.0.0.tgz","integrity":null,"time":1733917113136,"size":"262","metadata":{"time":1733917113136,"url":"http://registry.npm.taobao.org/redis-parser/-/redis-parser-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:34 GMT","location":"https://registry.npmmirror.com/redis-parser/-/redis-parser-3.0.0.tgz"},"options":{"compress":true},"status":301}}

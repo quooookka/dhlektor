@@ -1,0 +1,2 @@
+
+12c37d31861484f48863c9ea2a00cfb30facf4a8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/parse-gitignore","integrity":null,"time":1733917102809,"size":"262","metadata":{"time":1733917102809,"url":"http://registry.npm.taobao.org/parse-gitignore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:24 GMT","location":"https://registry.npmmirror.com/parse-gitignore"},"options":{"compress":true},"status":301}}

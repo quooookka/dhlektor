@@ -1,0 +1,2 @@
+
+9d123474a6dbac104332cedf16a88d625971a801	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/buffer-crc32/-/buffer-crc32-1.0.0.tgz","integrity":null,"time":1733917139121,"size":"262","metadata":{"time":1733917139120,"url":"http://registry.npm.taobao.org/buffer-crc32/-/buffer-crc32-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:39:00 GMT","location":"https://registry.npmmirror.com/buffer-crc32/-/buffer-crc32-1.0.0.tgz"},"options":{"compress":true},"status":301}}

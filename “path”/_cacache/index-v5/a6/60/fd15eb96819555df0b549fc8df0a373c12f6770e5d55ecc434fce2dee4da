@@ -1,0 +1,2 @@
+
+ab254ff119868a3dee548d36e061c6950f487414	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/jsonpointer/-/jsonpointer-5.0.1.tgz","integrity":null,"time":1733917118171,"size":"262","metadata":{"time":1733917118171,"url":"http://registry.npm.taobao.org/jsonpointer/-/jsonpointer-5.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:38 GMT","location":"https://registry.npmmirror.com/jsonpointer/-/jsonpointer-5.0.1.tgz"},"options":{"compress":true},"status":301}}

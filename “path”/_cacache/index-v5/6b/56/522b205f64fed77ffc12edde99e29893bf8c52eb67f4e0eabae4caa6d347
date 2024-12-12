@@ -1,0 +1,2 @@
+
+536db9835957f5d6678c544b6db6b47dab6d7486	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/negotiator/-/negotiator-0.6.3.tgz","integrity":null,"time":1733917115344,"size":"262","metadata":{"time":1733917115344,"url":"http://registry.npm.taobao.org/negotiator/-/negotiator-0.6.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:36 GMT","location":"https://registry.npmmirror.com/negotiator/-/negotiator-0.6.3.tgz"},"options":{"compress":true},"status":301}}

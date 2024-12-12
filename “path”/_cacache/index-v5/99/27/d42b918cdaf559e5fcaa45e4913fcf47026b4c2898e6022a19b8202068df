@@ -1,0 +1,2 @@
+
+680820af3e0d7414e3a616560fb41e579a510d76	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/windows-release/-/windows-release-5.0.1.tgz","integrity":null,"time":1733917111305,"size":"262","metadata":{"time":1733917111305,"url":"http://registry.npm.taobao.org/windows-release/-/windows-release-5.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:32 GMT","location":"https://registry.npmmirror.com/windows-release/-/windows-release-5.0.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+308c98469a19f0b197c22a6b047fad9dabdb3443	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/express/-/express-4.21.1.tgz","integrity":null,"time":1733917122442,"size":"262","metadata":{"time":1733917122442,"url":"http://registry.npm.taobao.org/express/-/express-4.21.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:43 GMT","location":"https://registry.npmmirror.com/express/-/express-4.21.1.tgz"},"options":{"compress":true},"status":301}}

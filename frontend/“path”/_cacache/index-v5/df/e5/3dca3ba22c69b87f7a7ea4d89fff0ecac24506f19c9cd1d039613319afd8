@@ -1,0 +1,2 @@
+
+d5217f2d8d2b1b3db81be9183ee491211353c9ff	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/iconv-lite/-/iconv-lite-0.6.3.tgz","integrity":null,"time":1733830382987,"size":"262","metadata":{"time":1733830382987,"url":"http://registry.npm.taobao.org/iconv-lite/-/iconv-lite-0.6.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 10 Dec 2024 11:33:04 GMT","location":"https://registry.npmmirror.com/iconv-lite/-/iconv-lite-0.6.3.tgz"},"options":{"compress":true},"status":301}}

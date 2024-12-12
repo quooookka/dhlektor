@@ -1,0 +1,2 @@
+
+d7baa0de366156cddf7d8001461a243eb80aae63	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cron-parser","integrity":null,"time":1733917100328,"size":"262","metadata":{"time":1733917100328,"url":"http://registry.npm.taobao.org/cron-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:21 GMT","location":"https://registry.npmmirror.com/cron-parser"},"options":{"compress":true},"status":301}}

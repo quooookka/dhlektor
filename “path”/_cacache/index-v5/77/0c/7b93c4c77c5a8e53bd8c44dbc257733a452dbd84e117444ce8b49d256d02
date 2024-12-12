@@ -1,0 +1,2 @@
+
+cf9ef519d9d1e139bb7d8bc7ae6712949ea2d9f6	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/git-repo-info/-/git-repo-info-2.1.1.tgz","integrity":null,"time":1733917120827,"size":"262","metadata":{"time":1733917120827,"url":"http://registry.npm.taobao.org/git-repo-info/-/git-repo-info-2.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Wed, 11 Dec 2024 11:38:41 GMT","location":"https://registry.npmmirror.com/git-repo-info/-/git-repo-info-2.1.1.tgz"},"options":{"compress":true},"status":301}}
